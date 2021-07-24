@@ -1,0 +1,15 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Villamarta;Minotauro;2,4;1200;
+Minotauro;El Retiro;1,5;750;
+El Retiro;La Consolacion;0,9;450;
+La Consolacion;Las Delicias;0,8;400;
+Las Delicias;La Pita;2;1000;
+La Pita;Rotonda 6;0,7;350;
+Rotonda 6;Cementerio;0,7;350;
+Cementerio;Rotonda 6;0,7;350;
+Rotonda 6;La Pita;0,7;350;
+La Pita;Las Delicias;2;1000;
+Las Delicias;La Consolacion;0,8;400;
+La Consolacion;El Retiro;0,9;450;
+El Retiro;Minotauro;1,5;750;
+Minotauro;Villamarta;1,6;800;

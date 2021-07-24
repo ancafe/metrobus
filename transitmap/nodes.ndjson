@@ -1,0 +1,1458 @@
+{"id":"900000560111","label":"Gadebusch","metadata":{"type":"location","latitude":53.704065,"longitude":11.121492}}
+{"id":"900000560145","label":"Lützow","metadata":{"type":"location","latitude":53.655972,"longitude":11.180423}}
+{"id":"900000560117","label":"Groß Brütz","metadata":{"type":"location","latitude":53.653085,"longitude":11.251443}}
+{"id":"900000560200","label":"Schwerin-Warnitz","metadata":{"type":"location","latitude":53.661696,"longitude":11.345566}}
+{"id":"900000559813","label":"Schwerin-Margaretenhof","metadata":{"type":"location","latitude":53.658552,"longitude":11.360973}}
+{"id":"900000560199","label":"Schwerin-Lankow","metadata":{"type":"location","latitude":53.656658,"longitude":11.369542}}
+{"id":"900000550112","label":"Schwerin, Hbf","metadata":{"type":"location","latitude":53.635261,"longitude":11.40752}}
+{"id":"900000550111","label":"Schwerin, Bhf Mitte","metadata":{"type":"location","latitude":53.626804,"longitude":11.40531}}
+{"id":"900000550211","label":"Schwerin, Bhf Görries","metadata":{"type":"location","latitude":53.609351,"longitude":11.384992}}
+{"id":"900000559828","label":"Schwerin-Wüstmark","metadata":{"type":"location","latitude":53.584045,"longitude":11.399627}}
+{"id":"900000560162","label":"Plate(Meckl)","metadata":{"type":"location","latitude":53.553201,"longitude":11.507028}}
+{"id":"900000560208","label":"Sukow(b Schwerin)","metadata":{"type":"location","latitude":53.554781,"longitude":11.559566}}
+{"id":"900000560104","label":"Crivitz","metadata":{"type":"location","latitude":53.572514,"longitude":11.645078}}
+{"id":"900000560187","label":"Ruthenbeck","metadata":{"type":"location","latitude":53.545242,"longitude":11.71117}}
+{"id":"900000560110","label":"Friedrichsruhe(Meck)","metadata":{"type":"location","latitude":53.524802,"longitude":11.739084}}
+{"id":"900000560106","label":"Domsühl","metadata":{"type":"location","latitude":53.485368,"longitude":11.765869}}
+{"id":"900000215691","label":"Parchim, Bhf","metadata":{"type":"location","latitude":53.430461,"longitude":11.831149}}
+{"id":"900000553155","label":"Rehna","metadata":{"type":"location","latitude":53.779418,"longitude":11.048639}}
+{"id":"900000559782","label":"Holdorf(Meckl)","metadata":{"type":"location","latitude":53.7348,"longitude":11.065701}}
+{"id":"900000550196","label":"Spornitz, Bhf","metadata":{"type":"location","latitude":53.412522,"longitude":11.711241}}
+{"id":"900000550198","label":"Neustadt-Glewe, Bhf","metadata":{"type":"location","latitude":53.377642,"longitude":11.593775}}
+{"id":"900000550135","label":"Ludwigslust, Bhf","metadata":{"type":"location","latitude":53.33469,"longitude":11.494477}}
+{"id":"900000550202","label":"Hagenow Land, Bhf","metadata":{"type":"location","latitude":53.41243,"longitude":11.213247}}
+{"id":"900000550203","label":"Hagenow, Bhf Stadt","metadata":{"type":"location","latitude":53.429296,"longitude":11.185133}}
+{"id":"900000550197","label":"Dütschow, Bhf","metadata":{"type":"location","latitude":53.401944,"longitude":11.678567}}
+{"id":"900000550199","label":"Groß Laasch, Bhf","metadata":{"type":"location","latitude":53.346297,"longitude":11.533665}}
+{"id":"900000550200","label":"Jasnitz, Bhf","metadata":{"type":"location","latitude":53.386469,"longitude":11.374123}}
+{"id":"900000550201","label":"Strohkirchen, Bhf","metadata":{"type":"location","latitude":53.398735,"longitude":11.316754}}
+{"id":"900000470000","label":"Cottbus, Hbf","metadata":{"type":"location","latitude":51.750373,"longitude":14.32517}}
+{"id":"900000470236","label":"Cottbus, Sandow","metadata":{"type":"location","latitude":51.756629,"longitude":14.353665}}
+{"id":"900000445083","label":"Klinge","metadata":{"type":"location","latitude":51.742316,"longitude":14.519311}}
+{"id":"900000445010","label":"Forst, Bhf","metadata":{"type":"location","latitude":51.739249,"longitude":14.63764}}
+{"id":"900000550013","label":"Görlitz, Bhf","metadata":{"type":"location","latitude":51.146814,"longitude":14.978737}}
+{"id":"900000550019","label":"Kodersdorf, Bhf","metadata":{"type":"location","latitude":51.257856,"longitude":14.917365}}
+{"id":"000008013493","label":"Niesky","metadata":{"type":"location","latitude":51.298736,"longitude":14.831897}}
+{"id":"900000550389","label":"Petershain","metadata":{"type":"location","latitude":51.31656,"longitude":14.751556}}
+{"id":"000008012391","label":"Mücka","metadata":{"type":"location","latitude":51.319529,"longitude":14.708179}}
+{"id":"000008012047","label":"Klitten","metadata":{"type":"location","latitude":51.34881,"longitude":14.588752}}
+{"id":"000008013166","label":"Uhyst","metadata":{"type":"location","latitude":51.363188,"longitude":14.504348}}
+{"id":"000008012250","label":"Lohsa","metadata":{"type":"location","latitude":51.379478,"longitude":14.398977}}
+{"id":"900000439932","label":"Hoyerswerda, Neustadt","metadata":{"type":"location","latitude":51.42949,"longitude":14.266264}}
+{"id":"900000439925","label":"Hoyerswerda, Bhf","metadata":{"type":"location","latitude":51.432809,"longitude":14.231523}}
+{"id":"900000550130","label":"Zittau, Bhf","metadata":{"type":"location","latitude":50.904494,"longitude":14.805488}}
+{"id":"900000550017","label":"Hirschfelde, Bhf","metadata":{"type":"location","latitude":50.943417,"longitude":14.890917}}
+{"id":"900000810005","label":"Krzewina Zgorzelecka, Bhf","metadata":{"type":"location","latitude":51.0157,"longitude":14.939816}}
+{"id":"900000550015","label":"Hagenwerder, Bhf","metadata":{"type":"location","latitude":51.070223,"longitude":14.960127}}
+{"id":"900000550014","label":"Görlitz-Weinhübel, Bhf","metadata":{"type":"location","latitude":51.128687,"longitude":14.970297}}
+{"id":"900000550018","label":"Horka, Bhf","metadata":{"type":"location","latitude":51.303382,"longitude":14.902023}}
+{"id":"900000550023","label":"Uhsmannsdorf, Bhf","metadata":{"type":"location","latitude":51.327109,"longitude":14.894754}}
+{"id":"900000550016","label":"Hähnichen, Bhf","metadata":{"type":"location","latitude":51.364115,"longitude":14.856717}}
+{"id":"900000550021","label":"Rietschen, Bhf","metadata":{"type":"location","latitude":51.398924,"longitude":14.7833}}
+{"id":"900000550024","label":"Weißwasser (Oberlausitz), Bhf","metadata":{"type":"location","latitude":51.505377,"longitude":14.638162}}
+{"id":"900000550022","label":"Schleife, Bhf","metadata":{"type":"location","latitude":51.535613,"longitude":14.53083}}
+{"id":"900000446322","label":"Spremberg, Bhf","metadata":{"type":"location","latitude":51.574724,"longitude":14.396679}}
+{"id":"900000445165","label":"Bagenz, Bhf","metadata":{"type":"location","latitude":51.65485,"longitude":14.426863}}
+{"id":"900000446070","label":"Neuhausen (SPN), Bhf","metadata":{"type":"location","latitude":51.686983,"longitude":14.412731}}
+{"id":"900000245002","label":"Jüterbog, Bhf","metadata":{"type":"location","latitude":51.997928,"longitude":13.055159}}
+{"id":"900000245007","label":"Altes Lager, Bhf","metadata":{"type":"location","latitude":52.015983,"longitude":12.992293}}
+{"id":"900000220165","label":"Treuenbrietzen, Bhf Süd","metadata":{"type":"location","latitude":52.081177,"longitude":12.880569}}
+{"id":"900000220164","label":"Treuenbrietzen, Bhf","metadata":{"type":"location","latitude":52.092022,"longitude":12.857816}}
+{"id":"900000220306","label":"Buchholz (bei Treuenbrietzen), Bhf","metadata":{"type":"location","latitude":52.16643,"longitude":12.920807}}
+{"id":"900000220305","label":"Elsholz, Bhf","metadata":{"type":"location","latitude":52.203494,"longitude":12.954808}}
+{"id":"900000220938","label":"Beelitz, Stadt","metadata":{"type":"location","latitude":52.239364,"longitude":12.966719}}
+{"id":"900000220003","label":"Michendorf, Bhf","metadata":{"type":"location","latitude":52.316137,"longitude":13.03101}}
+{"id":"900000220006","label":"Wilhelmshorst, Bhf","metadata":{"type":"location","latitude":52.331542,"longitude":13.067384}}
+{"id":"900000220008","label":"Potsdam, Rehbrücke","metadata":{"type":"location","latitude":52.358818,"longitude":13.098009}}
+{"id":"900000230001","label":"Potsdam, Medienstadt Babelsberg","metadata":{"type":"location","latitude":52.383023,"longitude":13.122184}}
+{"id":"900000053301","label":"S Wannsee","metadata":{"type":"location","latitude":52.421457,"longitude":13.179099}}
+{"id":"900000275123","label":"Brandenburg, Altstadt","metadata":{"type":"location","latitude":52.412771,"longitude":12.529845}}
+{"id":"900000275325","label":"Brandenburg, Görden","metadata":{"type":"location","latitude":52.427551,"longitude":12.503987}}
+{"id":"900000220183","label":"Fohrde, Bhf","metadata":{"type":"location","latitude":52.48393,"longitude":12.463106}}
+{"id":"900000220184","label":"Pritzerbe, Bhf","metadata":{"type":"location","latitude":52.499576,"longitude":12.458618}}
+{"id":"900000210721","label":"Döberitz (bei Premnitz), Bhf","metadata":{"type":"location","latitude":52.524264,"longitude":12.368087}}
+{"id":"900000210344","label":"Premnitz, Zentrum","metadata":{"type":"location","latitude":52.529147,"longitude":12.343093}}
+{"id":"900000210343","label":"Premnitz, Nord","metadata":{"type":"location","latitude":52.536202,"longitude":12.333598}}
+{"id":"900000210197","label":"Mögelin, Bhf","metadata":{"type":"location","latitude":52.559911,"longitude":12.329561}}
+{"id":"900000210771","label":"Rathenow, Bhf","metadata":{"type":"location","latitude":52.600314,"longitude":12.354424}}
+{"id":"900000275110","label":"Brandenburg, Hbf","metadata":{"type":"location","latitude":52.400794,"longitude":12.566036}}
+{"id":"900000230034","label":"Potsdam, Bisamkiez","metadata":{"type":"location","latitude":52.373318,"longitude":13.101298}}
+{"id":"900000230031","label":"Potsdam, Magnus-Zeller-Platz","metadata":{"type":"location","latitude":52.375127,"longitude":13.091328}}
+{"id":"900000230021","label":"Potsdam, Waldstr./Horstweg","metadata":{"type":"location","latitude":52.377532,"longitude":13.082899}}
+{"id":"900000230067","label":"Potsdam, Kunersdorfer Str.","metadata":{"type":"location","latitude":52.380529,"longitude":13.078493}}
+{"id":"900000230066","label":"Potsdam, Sporthalle","metadata":{"type":"location","latitude":52.382635,"longitude":13.075382}}
+{"id":"900000230065","label":"Potsdam, Friedhöfe","metadata":{"type":"location","latitude":52.385929,"longitude":13.071736}}
+{"id":"900000230999","label":"S Potsdam Hauptbahnhof","metadata":{"type":"location","latitude":52.390935,"longitude":13.067187}}
+{"id":"900000230097","label":"Potsdam, Lange Brücke","metadata":{"type":"location","latitude":52.392168,"longitude":13.063617}}
+{"id":"900000230018","label":"Potsdam, Alter Markt/Landtag","metadata":{"type":"location","latitude":52.394912,"longitude":13.059246}}
+{"id":"900000230016","label":"Potsdam, Platz der Einheit/Bildungsforum","metadata":{"type":"location","latitude":52.397519,"longitude":13.059147}}
+{"id":"900000230015","label":"Potsdam, Platz der Einheit/Nord","metadata":{"type":"location","latitude":52.399186,"longitude":13.058658}}
+{"id":"900000230070","label":"Potsdam, Am Moosfenn","metadata":{"type":"location","latitude":52.363614,"longitude":13.095272}}
+{"id":"900000230069","label":"Potsdam, Friedrich-Wolf-Str.","metadata":{"type":"location","latitude":52.366235,"longitude":13.09359}}
+{"id":"900000230068","label":"Potsdam, Zum Kahleberg","metadata":{"type":"location","latitude":52.36877,"longitude":13.09167}}
+{"id":"900000230050","label":"Potsdam, E.-Claudius-Str./H.-Mann-Allee","metadata":{"type":"location","latitude":52.373205,"longitude":13.088325}}
+{"id":"900000230014","label":"Potsdam, Platz der Einheit/West","metadata":{"type":"location","latitude":52.398713,"longitude":13.057994}}
+{"id":"900000230064","label":"Potsdam, Dortustr.","metadata":{"type":"location","latitude":52.399226,"longitude":13.05332}}
+{"id":"900000230017","label":"Potsdam, Luisenplatz-Süd/Park Sanssouci","metadata":{"type":"location","latitude":52.398705,"longitude":13.048156}}
+{"id":"900000230210","label":"Potsdam, Feuerbachstr.","metadata":{"type":"location","latitude":52.39642,"longitude":13.042756}}
+{"id":"900000230063","label":"Potsdam, Auf dem Kiewitt","metadata":{"type":"location","latitude":52.394986,"longitude":13.039753}}
+{"id":"900000230013","label":"Potsdam, Charlottenhof/Geschw.-Scholl-Str.","metadata":{"type":"location","latitude":52.393668,"longitude":13.03486}}
+{"id":"900000230051","label":"Potsdam, Schloss Charlottenhof","metadata":{"type":"location","latitude":52.393632,"longitude":13.028182}}
+{"id":"900000230035","label":"Potsdam, Kastanienallee/Zeppelinstr.","metadata":{"type":"location","latitude":52.388402,"longitude":13.028038}}
+{"id":"900000230061","label":"Potsdam, Im Bogen/Zeppelinstr.","metadata":{"type":"location","latitude":52.384658,"longitude":13.022531}}
+{"id":"900000230060","label":"Potsdam, Luftschiffhafen","metadata":{"type":"location","latitude":52.380805,"longitude":13.016994}}
+{"id":"900000230002","label":"Potsdam, Pirschheide","metadata":{"type":"location","latitude":52.373909,"longitude":13.010836}}
+{"id":"900000230058","label":"Potsdam, Schillerplatz/Schafgraben","metadata":{"type":"location","latitude":52.391316,"longitude":13.033027}}
+{"id":"900000230006","label":"Potsdam, Charlottenhof","metadata":{"type":"location","latitude":52.392828,"longitude":13.035788}}
+{"id":"900000230167","label":"Potsdam, Marie-Juchacz-Str.","metadata":{"type":"location","latitude":52.357831,"longitude":13.137462}}
+{"id":"900000230166","label":"Potsdam, Am Hirtengraben","metadata":{"type":"location","latitude":52.362219,"longitude":13.137252}}
+{"id":"900000230168","label":"Potsdam, Priesterweg","metadata":{"type":"location","latitude":52.364199,"longitude":13.136085}}
+{"id":"900000230140","label":"Potsdam, Robert-Baberske-Str.","metadata":{"type":"location","latitude":52.366904,"longitude":13.136081}}
+{"id":"900000230141","label":"Potsdam, Hans-Albers-Str.","metadata":{"type":"location","latitude":52.369818,"longitude":13.140502}}
+{"id":"900000230086","label":"Potsdam, Gaußstr.","metadata":{"type":"location","latitude":52.374801,"longitude":13.141937}}
+{"id":"900000230085","label":"Potsdam, Max-Born-Str.","metadata":{"type":"location","latitude":52.375548,"longitude":13.137213}}
+{"id":"900000230032","label":"Potsdam, Johannes-Kepler-Platz","metadata":{"type":"location","latitude":52.37549,"longitude":13.12821}}
+{"id":"900000230084","label":"Potsdam, Turmstr.","metadata":{"type":"location","latitude":52.374693,"longitude":13.12327}}
+{"id":"900000230083","label":"Potsdam, Abzweig Betriebshof ViP","metadata":{"type":"location","latitude":52.373412,"longitude":13.111344}}
+{"id":"900000230205","label":"Potsdam, Brandenburger Str.","metadata":{"type":"location","latitude":52.401028,"longitude":13.057747}}
+{"id":"900000230022","label":"Potsdam, Nauener Tor","metadata":{"type":"location","latitude":52.4031,"longitude":13.057923}}
+{"id":"900000230075","label":"Potsdam, Rathaus","metadata":{"type":"location","latitude":52.405212,"longitude":13.058127}}
+{"id":"900000230024","label":"Potsdam, Reiterweg/Alleestr.","metadata":{"type":"location","latitude":52.408174,"longitude":13.058535}}
+{"id":"900000230076","label":"Potsdam, Puschkinallee","metadata":{"type":"location","latitude":52.412715,"longitude":13.05932}}
+{"id":"900000230157","label":"Potsdam, Am Schragen","metadata":{"type":"location","latitude":52.412855,"longitude":13.054738}}
+{"id":"900000230206","label":"Potsdam, Campus Fachhochschule","metadata":{"type":"location","latitude":52.414095,"longitude":13.050682}}
+{"id":"900000230207","label":"Potsdam, Hannes-Meyer-Str.","metadata":{"type":"location","latitude":52.415372,"longitude":13.040468}}
+{"id":"900000230208","label":"Potsdam, Johan-Bouman-Platz","metadata":{"type":"location","latitude":52.412515,"longitude":13.038328}}
+{"id":"900000230209","label":"Potsdam, Kirschallee","metadata":{"type":"location","latitude":52.413951,"longitude":13.033439}}
+{"id":"900000230222","label":"Potsdam, Hbf/H.-Mann-Allee","metadata":{"type":"location","latitude":52.390113,"longitude":13.065169}}
+{"id":"900000230071","label":"Potsdam, Burgstr./Klinikum","metadata":{"type":"location","latitude":52.398348,"longitude":13.064956}}
+{"id":"900000230026","label":"Potsdam, Holzmarktstr.","metadata":{"type":"location","latitude":52.401694,"longitude":13.069264}}
+{"id":"900000230072","label":"Potsdam, Schiffbauergasse/Berliner Str.","metadata":{"type":"location","latitude":52.405286,"longitude":13.072911}}
+{"id":"900000230073","label":"Potsdam, Mangerstr.","metadata":{"type":"location","latitude":52.408514,"longitude":13.076692}}
+{"id":"900000230074","label":"Potsdam, Ludwig-Richter-Str.","metadata":{"type":"location","latitude":52.409753,"longitude":13.079792}}
+{"id":"900000230025","label":"Potsdam, Glienicker Brücke","metadata":{"type":"location","latitude":52.412615,"longitude":13.08611}}
+{"id":"900000230029","label":"Potsdam, Fontanestr.","metadata":{"type":"location","latitude":52.393207,"longitude":13.108947}}
+{"id":"900000230080","label":"Potsdam, Plantagenstr.","metadata":{"type":"location","latitude":52.392415,"longitude":13.103316}}
+{"id":"900000230079","label":"Potsdam, Anhaltstr.","metadata":{"type":"location","latitude":52.392072,"longitude":13.099605}}
+{"id":"900000230004","label":"S Babelsberg/Wattstr.","metadata":{"type":"location","latitude":52.391642,"longitude":13.094585}}
+{"id":"900000230181","label":"Potsdam, Rathaus Babelsberg","metadata":{"type":"location","latitude":52.392075,"longitude":13.091482}}
+{"id":"900000230078","label":"Potsdam, Alt Nowawes","metadata":{"type":"location","latitude":52.393369,"longitude":13.085623}}
+{"id":"900000230077","label":"Potsdam, Humboldtring/Nuthestr.","metadata":{"type":"location","latitude":52.397961,"longitude":13.078874}}
+{"id":"900000230272","label":"Potsdam, Schiffbauergasse/Uferweg","metadata":{"type":"location","latitude":52.401504,"longitude":13.071717}}
+{"id":"900000230214","label":"Potsdam, Volkspark","metadata":{"type":"location","latitude":52.418968,"longitude":13.050445}}
+{"id":"900000230212","label":"Potsdam, Viereckremise","metadata":{"type":"location","latitude":52.422583,"longitude":13.050571}}
+{"id":"900000230159","label":"Potsdam, Rote Kaserne","metadata":{"type":"location","latitude":52.424942,"longitude":13.053601}}
+{"id":"900000230200","label":"Potsdam, Campus Jungfernsee","metadata":{"type":"location","latitude":52.432321,"longitude":13.055463}}
+{"id":"900000100038","label":"Am Kupfergraben","metadata":{"type":"location","latitude":52.519418,"longitude":13.395391}}
+{"id":"900000100541","label":"Georgenstr./Am Kupfergraben","metadata":{"type":"location","latitude":52.520484,"longitude":13.394158}}
+{"id":"900000100001","label":"S+U Friedrichstr.","metadata":{"type":"location","latitude":52.52027,"longitude":13.387153}}
+{"id":"900000100019","label":"U Oranienburger Tor","metadata":{"type":"location","latitude":52.525163,"longitude":13.387587}}
+{"id":"900000100009","label":"U Naturkundemuseum","metadata":{"type":"location","latitude":52.531254,"longitude":13.382415}}
+{"id":"900000007104","label":"S Nordbahnhof","metadata":{"type":"location","latitude":52.531672,"longitude":13.388798}}
+{"id":"900000100504","label":"Pappelplatz","metadata":{"type":"location","latitude":52.532326,"longitude":13.395196}}
+{"id":"900000100041","label":"Brunnenstr./Invalidenstr.","metadata":{"type":"location","latitude":52.532599,"longitude":13.398888}}
+{"id":"900000100042","label":"Zionskirchplatz","metadata":{"type":"location","latitude":52.534254,"longitude":13.405397}}
+{"id":"900000110505","label":"Schwedter Str.","metadata":{"type":"location","latitude":52.536839,"longitude":13.407956}}
+{"id":"900000110006","label":"U Eberswalder Str.","metadata":{"type":"location","latitude":52.541022,"longitude":13.412154}}
+{"id":"900000110009","label":"U Eberswalder Str./Pappelallee","metadata":{"type":"location","latitude":52.541498,"longitude":13.412833}}
+{"id":"900000110502","label":"Raumerstr.","metadata":{"type":"location","latitude":52.544046,"longitude":13.415572}}
+{"id":"900000110501","label":"Stargarder Str.","metadata":{"type":"location","latitude":52.54653,"longitude":13.418276}}
+{"id":"900000110500","label":"Humannplatz","metadata":{"type":"location","latitude":52.549536,"longitude":13.421496}}
+{"id":"900000110015","label":"Stahlheimer Str./Wisbyer Str.","metadata":{"type":"location","latitude":52.552668,"longitude":13.424239}}
+{"id":"900000110713","label":"Prenzlauer Allee/ Ostseestr.","metadata":{"type":"location","latitude":52.551481,"longitude":13.429523}}
+{"id":"900000140017","label":"Gustav-Adolf-Str./Langhansstr.","metadata":{"type":"location","latitude":52.553593,"longitude":13.434752}}
+{"id":"900000140505","label":"Friesickestr.","metadata":{"type":"location","latitude":52.551883,"longitude":13.440137}}
+{"id":"900000140506","label":"Behaimstr.","metadata":{"type":"location","latitude":52.549948,"longitude":13.44628}}
+{"id":"900000140011","label":"Antonplatz","metadata":{"type":"location","latitude":52.548283,"longitude":13.450855}}
+{"id":"900000140005","label":"Albertinenstr.","metadata":{"type":"location","latitude":52.549788,"longitude":13.457775}}
+{"id":"900000140006","label":"Berliner Allee/Indira-Gandhi-Str.","metadata":{"type":"location","latitude":52.551886,"longitude":13.465482}}
+{"id":"900000140012","label":"Falkenberger Str./Berliner Allee","metadata":{"type":"location","latitude":52.554707,"longitude":13.467743}}
+{"id":"900000140013","label":"Berliner Allee/Rennbahnstr.","metadata":{"type":"location","latitude":52.557549,"longitude":13.46539}}
+{"id":"900000140002","label":"Pasedagplatz","metadata":{"type":"location","latitude":52.559772,"longitude":13.460112}}
+{"id":"900000110710","label":"Björnsonstr. [Endstelle]","metadata":{"type":"location","latitude":52.555325,"longitude":13.402738}}
+{"id":"900000110010","label":"Björnsonstr.","metadata":{"type":"location","latitude":52.554448,"longitude":13.403138}}
+{"id":"900000110008","label":"Schönfließer Str.","metadata":{"type":"location","latitude":52.55404,"longitude":13.408728}}
+{"id":"900000110007","label":"Schönhauser Allee/Bornholmer Str.","metadata":{"type":"location","latitude":52.553764,"longitude":13.414543}}
+{"id":"900000140713","label":"Berliner Allee/Rennbahnstr. [Bernkast.Str.]","metadata":{"type":"location","latitude":52.556917,"longitude":13.469262}}
+{"id":"900000100506","label":"Torstr./U Oranienburger Tor","metadata":{"type":"location","latitude":52.527295,"longitude":13.387389}}
+{"id":"900000100540","label":"Universitätsstr.","metadata":{"type":"location","latitude":52.518974,"longitude":13.391841}}
+{"id":"900000170010","label":"Betriebshof Marzahn","metadata":{"type":"location","latitude":52.549006,"longitude":13.583714}}
+{"id":"900000170524","label":"Brodowiner Ring","metadata":{"type":"location","latitude":52.547639,"longitude":13.578357}}
+{"id":"900000170013","label":"Landsberger Allee/Blumberger Damm","metadata":{"type":"location","latitude":52.546124,"longitude":13.572037}}
+{"id":"900000170517","label":"Jan-Petersen-Str.","metadata":{"type":"location","latitude":52.547311,"longitude":13.562424}}
+{"id":"900000170529","label":"Bürgerpark Marzahn","metadata":{"type":"location","latitude":52.54985,"longitude":13.560745}}
+{"id":"900000170530","label":"Max-Herrmann-Str.","metadata":{"type":"location","latitude":52.553874,"longitude":13.56568}}
+{"id":"900000170531","label":"Wuhletalstr.","metadata":{"type":"location","latitude":52.557714,"longitude":13.568235}}
+{"id":"900000170506","label":"Niemegker Str.","metadata":{"type":"location","latitude":52.564725,"longitude":13.571582}}
+{"id":"900000170011","label":"Barnimplatz","metadata":{"type":"location","latitude":52.567806,"longitude":13.573698}}
+{"id":"900000170006","label":"Ahrensfelde/Stadtgrenze","metadata":{"type":"location","latitude":52.572835,"longitude":13.574675}}
+{"id":"900000120540","label":"Scharnweberstr./Weichselstr.","metadata":{"type":"location","latitude":52.512338,"longitude":13.470175}}
+{"id":"900000120001","label":"S+U Frankfurter Allee","metadata":{"type":"location","latitude":52.513613,"longitude":13.4753}}
+{"id":"900000160544","label":"Rathaus Lichtenberg","metadata":{"type":"location","latitude":52.515911,"longitude":13.479075}}
+{"id":"900000160017","label":"Loeperplatz","metadata":{"type":"location","latitude":52.520071,"longitude":13.479922}}
+{"id":"900000160014","label":"Möllendorffstr./Storkower Str.","metadata":{"type":"location","latitude":52.523171,"longitude":13.479275}}
+{"id":"900000160010","label":"Roederplatz","metadata":{"type":"location","latitude":52.527157,"longitude":13.47963}}
+{"id":"900000160018","label":"Landsberger Allee/Weißenseer Weg","metadata":{"type":"location","latitude":52.532055,"longitude":13.476714}}
+{"id":"900000150711","label":"Hohenschönhauser Str./Weißenseer  Weg","metadata":{"type":"location","latitude":52.535587,"longitude":13.473826}}
+{"id":"900000150509","label":"Altenhofer Str.","metadata":{"type":"location","latitude":52.534933,"longitude":13.480171}}
+{"id":"900000160513","label":"Zechliner Str.","metadata":{"type":"location","latitude":52.533947,"longitude":13.487153}}
+{"id":"900000160514","label":"Genslerstr.","metadata":{"type":"location","latitude":52.53442,"longitude":13.495938}}
+{"id":"900000160515","label":"Arendsweg","metadata":{"type":"location","latitude":52.534882,"longitude":13.505564}}
+{"id":"900000160516","label":"Schalkauer Str.","metadata":{"type":"location","latitude":52.535144,"longitude":13.50967}}
+{"id":"900000171011","label":"Landsberger Allee/Rhinstr.","metadata":{"type":"location","latitude":52.535656,"longitude":13.517484}}
+{"id":"900000170520","label":"Dingelstädter Str.","metadata":{"type":"location","latitude":52.536739,"longitude":13.524788}}
+{"id":"900000170521","label":"Gewerbepark Georg Knorr","metadata":{"type":"location","latitude":52.539047,"longitude":13.533977}}
+{"id":"900000170001","label":"S Marzahn","metadata":{"type":"location","latitude":52.543272,"longitude":13.541524}}
+{"id":"900000170020","label":"Marzahner Promenade","metadata":{"type":"location","latitude":52.543408,"longitude":13.549696}}
+{"id":"900000170519","label":"Freizeitforum Marzahn","metadata":{"type":"location","latitude":52.546681,"longitude":13.557462}}
+{"id":"900000160521","label":"Siegfriedstr./Josef-Orlopp-Str.","metadata":{"type":"location","latitude":52.522872,"longitude":13.499436}}
+{"id":"900000160012","label":"Herzbergstr./Siegfriedstr.","metadata":{"type":"location","latitude":52.526227,"longitude":13.499963}}
+{"id":"900000160520","label":"Ev. Krankenhaus KEH","metadata":{"type":"location","latitude":52.525478,"longitude":13.508646}}
+{"id":"900000171709","label":"Allee der  Kosmonauten/Rhinstr.","metadata":{"type":"location","latitude":52.525865,"longitude":13.518443}}
+{"id":"900000171514","label":"Meeraner Str.","metadata":{"type":"location","latitude":52.52927,"longitude":13.519268}}
+{"id":"900000160522","label":"Betriebshof Lichtenberg","metadata":{"type":"location","latitude":52.519988,"longitude":13.499382}}
+{"id":"900000175510","label":"Landsberger Chaussee/Zossener Str.","metadata":{"type":"location","latitude":52.549218,"longitude":13.587997}}
+{"id":"900000175511","label":"Michendorfer Str.","metadata":{"type":"location","latitude":52.545536,"longitude":13.587068}}
+{"id":"900000175512","label":"Alte Hellersdorfer/Zossener Str.","metadata":{"type":"location","latitude":52.544839,"longitude":13.592173}}
+{"id":"900000175513","label":"Zossener Str./Kastanienallee","metadata":{"type":"location","latitude":52.543791,"longitude":13.599196}}
+{"id":"900000175514","label":"Stendaler Str./Zossener Str.","metadata":{"type":"location","latitude":52.543705,"longitude":13.603557}}
+{"id":"900000175011","label":"Stendaler Str./Quedlinburger Str.","metadata":{"type":"location","latitude":52.538956,"longitude":13.604518}}
+{"id":"900000175007","label":"U Hellersdorf","metadata":{"type":"location","latitude":52.535946,"longitude":13.605794}}
+{"id":"900000175519","label":"Nossener Str.","metadata":{"type":"location","latitude":52.532938,"longitude":13.610194}}
+{"id":"900000175520","label":"Jenaer Str.","metadata":{"type":"location","latitude":52.531938,"longitude":13.614908}}
+{"id":"900000175014","label":"Riesaer Str./Louis-Lewin-Str.","metadata":{"type":"location","latitude":52.530327,"longitude":13.622389}}
+{"id":"900000175013","label":"Riesaer Str.","metadata":{"type":"location","latitude":52.529404,"longitude":13.624183}}
+{"id":"900000171003","label":"S Springpfuhl","metadata":{"type":"location","latitude":52.525806,"longitude":13.536904}}
+{"id":"900000171516","label":"Helene-Weigel-Platz","metadata":{"type":"location","latitude":52.525962,"longitude":13.542878}}
+{"id":"900000171517","label":"Boschpoler Str.","metadata":{"type":"location","latitude":52.527502,"longitude":13.548811}}
+{"id":"900000170019","label":"Allee der Kosmonauten/Poelchaustr.","metadata":{"type":"location","latitude":52.533909,"longitude":13.552324}}
+{"id":"900000170515","label":"Adersleber Weg","metadata":{"type":"location","latitude":52.537893,"longitude":13.56032}}
+{"id":"900000170516","label":"Alt-Marzahn","metadata":{"type":"location","latitude":52.541965,"longitude":13.563708}}
+{"id":"900000160523","label":"Gotlindestr.","metadata":{"type":"location","latitude":52.518118,"longitude":13.499392}}
+{"id":"900000160526","label":"Fanningerstr.","metadata":{"type":"location","latitude":52.514394,"longitude":13.498278}}
+{"id":"900000160525","label":"Guntherstr.","metadata":{"type":"location","latitude":52.513489,"longitude":13.502298}}
+{"id":"900000160021","label":"S+U Lichtenberg/Gudrunstr.","metadata":{"type":"location","latitude":52.512367,"longitude":13.500065}}
+{"id":"900000162003","label":"Treskowallee/Ehrlichstr.","metadata":{"type":"location","latitude":52.478888,"longitude":13.523301}}
+{"id":"900000162502","label":"Stühlinger Str.","metadata":{"type":"location","latitude":52.480254,"longitude":13.520537}}
+{"id":"900000162503","label":"Stechlinstr.","metadata":{"type":"location","latitude":52.481846,"longitude":13.51697}}
+{"id":"900000162504","label":"Blockdammweg/Ehrlichstr.","metadata":{"type":"location","latitude":52.484094,"longitude":13.509834}}
+{"id":"900000160007","label":"Köpenicker Chaussee/Blockdammweg","metadata":{"type":"location","latitude":52.483443,"longitude":13.502363}}
+{"id":"900000160006","label":"Heizkraftwerk","metadata":{"type":"location","latitude":52.487926,"longitude":13.496126}}
+{"id":"900000160502","label":"Gustav-Holzmann-Str.","metadata":{"type":"location","latitude":52.493127,"longitude":13.490649}}
+{"id":"900000160536","label":"Kosanke-Siedlung","metadata":{"type":"location","latitude":52.496711,"longitude":13.485793}}
+{"id":"900000160001","label":"S Rummelsburg","metadata":{"type":"location","latitude":52.501213,"longitude":13.478699}}
+{"id":"900000160535","label":"Marktstr.","metadata":{"type":"location","latitude":52.502799,"longitude":13.474776}}
+{"id":"900000120519","label":"Neue Bahnhofstr.","metadata":{"type":"location","latitude":52.506411,"longitude":13.469756}}
+{"id":"900000120013","label":"Boxhagener Str./Holteistr.","metadata":{"type":"location","latitude":52.508611,"longitude":13.466295}}
+{"id":"900000120518","label":"Wismarplatz","metadata":{"type":"location","latitude":52.510603,"longitude":13.46368}}
+{"id":"900000120517","label":"Niederbarnimstr.","metadata":{"type":"location","latitude":52.51276,"longitude":13.45786}}
+{"id":"900000120008","label":"U Frankfurter Tor","metadata":{"type":"location","latitude":52.515772,"longitude":13.454085}}
+{"id":"900000120816","label":"Bersarinplatz [Weidenweg]","metadata":{"type":"location","latitude":52.519072,"longitude":13.454661}}
+{"id":"900000120542","label":"Forckenbeckplatz","metadata":{"type":"location","latitude":52.520405,"longitude":13.459571}}
+{"id":"900000120538","label":"Proskauer Str.","metadata":{"type":"location","latitude":52.519858,"longitude":13.463119}}
+{"id":"900000120539","label":"James-Hobrecht-Str.","metadata":{"type":"location","latitude":52.520161,"longitude":13.466945}}
+{"id":"900000160538","label":"Scheffelstr./Paul-Junius-Str.","metadata":{"type":"location","latitude":52.520498,"longitude":13.473807}}
+{"id":"900000160509","label":"Bernhard-Bästlein-Str.","metadata":{"type":"location","latitude":52.526764,"longitude":13.482298}}
+{"id":"900000160518","label":"Herzbergstr./Industriegebiet","metadata":{"type":"location","latitude":52.526579,"longitude":13.489837}}
+{"id":"900000160712","label":"Herzbergstr./ Siegfriedstr","metadata":{"type":"location","latitude":52.526345,"longitude":13.499112}}
+{"id":"900000194006","label":"S Schöneweide/Sterndamm","metadata":{"type":"location","latitude":52.453921,"longitude":13.509993}}
+{"id":"900000192001","label":"S Schöneweide","metadata":{"type":"location","latitude":52.454611,"longitude":13.510149}}
+{"id":"900000192506","label":"Brückenstr.","metadata":{"type":"location","latitude":52.458577,"longitude":13.512065}}
+{"id":"900000181701","label":"Wilhelminenhofstr./ Edisonstr.","metadata":{"type":"location","latitude":52.461796,"longitude":13.514015}}
+{"id":"900000181002","label":"Rummelsburger Str./Edisonstr.","metadata":{"type":"location","latitude":52.468136,"longitude":13.513717}}
+{"id":"900000181501","label":"Treskowallee/Volkspark Wuhlheide","metadata":{"type":"location","latitude":52.471058,"longitude":13.517144}}
+{"id":"900000162002","label":"Hegemeisterweg","metadata":{"type":"location","latitude":52.474012,"longitude":13.520218}}
+{"id":"900000171008","label":"Allee der Kosmonauten/Rhinstr.","metadata":{"type":"location","latitude":52.525499,"longitude":13.519653}}
+{"id":"900000171540","label":"Kleingartenanlage Bielefeldt","metadata":{"type":"location","latitude":52.519014,"longitude":13.519341}}
+{"id":"900000171002","label":"S Friedrichsfelde Ost","metadata":{"type":"location","latitude":52.513747,"longitude":13.520043}}
+{"id":"900000161004","label":"Alt-Friedrichsfelde/Rhinstr.","metadata":{"type":"location","latitude":52.510346,"longitude":13.518968}}
+{"id":"900000161517","label":"Am Tierpark/Alfred-Kowalke-Str.","metadata":{"type":"location","latitude":52.505717,"longitude":13.519707}}
+{"id":"900000161508","label":"Criegernweg","metadata":{"type":"location","latitude":52.50073,"longitude":13.521759}}
+{"id":"900000161002","label":"U Tierpark","metadata":{"type":"location","latitude":52.497236,"longitude":13.523626}}
+{"id":"900000162004","label":"Treskowallee/HTW","metadata":{"type":"location","latitude":52.492821,"longitude":13.526595}}
+{"id":"900000162007","label":"Marksburgstr.","metadata":{"type":"location","latitude":52.486562,"longitude":13.526908}}
+{"id":"900000162001","label":"S Karlshorst","metadata":{"type":"location","latitude":52.481038,"longitude":13.525981}}
+{"id":"900000162803","label":"Treskowallee/ Ehrlichstr.","metadata":{"type":"location","latitude":52.479189,"longitude":13.525034}}
+{"id":"900000181001","label":"Wilhelminenhofstr./Edisonstr.","metadata":{"type":"location","latitude":52.46246,"longitude":13.514155}}
+{"id":"900000160020","label":"S+U Lichtenberg/Siegfriedstr.","metadata":{"type":"location","latitude":52.512315,"longitude":13.49775}}
+{"id":"900000160016","label":"Freiaplatz","metadata":{"type":"location","latitude":52.515683,"longitude":13.498616}}
+{"id":"900000180022","label":"Krankenhaus Köpenick/Südseite","metadata":{"type":"location","latitude":52.438692,"longitude":13.593136}}
+{"id":"900000180004","label":"Pablo-Neruda-Str.","metadata":{"type":"location","latitude":52.441038,"longitude":13.586426}}
+{"id":"900000180514","label":"Betriebshof Köpenick","metadata":{"type":"location","latitude":52.439329,"longitude":13.581879}}
+{"id":"900000180005","label":"Müggelheimer Str./Wendenschloßstr.","metadata":{"type":"location","latitude":52.44298,"longitude":13.581672}}
+{"id":"900000180006","label":"Freiheit","metadata":{"type":"location","latitude":52.446677,"longitude":13.576097}}
+{"id":"900000180008","label":"Bahnhofstr./Lindenstr.","metadata":{"type":"location","latitude":52.450914,"longitude":13.572409}}
+{"id":"900000181513","label":"Alte Försterei","metadata":{"type":"location","latitude":52.456516,"longitude":13.563414}}
+{"id":"900000181507","label":"Spindlersfelder Str.","metadata":{"type":"location","latitude":52.45593,"longitude":13.558744}}
+{"id":"900000181506","label":"Nixenstr.","metadata":{"type":"location","latitude":52.456331,"longitude":13.550813}}
+{"id":"900000181003","label":"Freizeit- und Erholungszentrum","metadata":{"type":"location","latitude":52.457518,"longitude":13.543896}}
+{"id":"900000181505","label":"Parkstr.","metadata":{"type":"location","latitude":52.457619,"longitude":13.539662}}
+{"id":"900000181504","label":"Ostendstr.","metadata":{"type":"location","latitude":52.457244,"longitude":13.533882}}
+{"id":"900000181503","label":"Rathenaustr./HTW","metadata":{"type":"location","latitude":52.458926,"longitude":13.525466}}
+{"id":"900000181502","label":"Firlstr.","metadata":{"type":"location","latitude":52.460851,"longitude":13.521133}}
+{"id":"900000162501","label":"S Karlshorst /Wandlitzstr.","metadata":{"type":"location","latitude":52.479568,"longitude":13.524914}}
+{"id":"900000162701","label":"S Karlshorst [Tram Ri. Tierpark]","metadata":{"type":"location","latitude":52.483052,"longitude":13.525874}}
+{"id":"900000150005","label":"Rhinstr./Plauener Str.","metadata":{"type":"location","latitude":52.539553,"longitude":13.514199}}
+{"id":"900000150008","label":"Rhinstr./Gärtnerstr.","metadata":{"type":"location","latitude":52.546395,"longitude":13.510528}}
+{"id":"900000150020","label":"Hauptstr./Rhinstr.","metadata":{"type":"location","latitude":52.548868,"longitude":13.50476}}
+{"id":"900000150514","label":"Am Faulen See","metadata":{"type":"location","latitude":52.550566,"longitude":13.494866}}
+{"id":"900000150515","label":"Stadion Buschallee/Suermondtstr.","metadata":{"type":"location","latitude":52.552286,"longitude":13.486049}}
+{"id":"900000140518","label":"Sulzfelder Str.","metadata":{"type":"location","latitude":52.553362,"longitude":13.474024}}
+{"id":"900000140519","label":"Buschallee","metadata":{"type":"location","latitude":52.553672,"longitude":13.469346}}
+{"id":"900000171515","label":"Beilsteiner Str.","metadata":{"type":"location","latitude":52.525499,"longitude":13.530115}}
+{"id":"900000171708","label":"Allee der Kosmonauten/ Rhinstr.","metadata":{"type":"location","latitude":52.525875,"longitude":13.520492}}
+{"id":"900000150504","label":"Gehrenseestr.","metadata":{"type":"location","latitude":52.550015,"longitude":13.508559}}
+{"id":"900000140007","label":"Buschallee/Hansastr.","metadata":{"type":"location","latitude":52.553171,"longitude":13.480697}}
+{"id":"900000150010","label":"Degnerstr./Suermondtstr.","metadata":{"type":"location","latitude":52.549756,"longitude":13.498524}}
+{"id":"900000180024","label":"Rathaus Köpenick","metadata":{"type":"location","latitude":52.445325,"longitude":13.574372}}
+{"id":"900000180007","label":"Schloßplatz Köpenick","metadata":{"type":"location","latitude":52.444284,"longitude":13.574923}}
+{"id":"900000180716","label":"Hirtestr.","metadata":{"type":"location","latitude":52.458878,"longitude":13.583787}}
+{"id":"900000180513","label":"Hirtestr./Janitzkystr.","metadata":{"type":"location","latitude":52.461588,"longitude":13.584119}}
+{"id":"900000180001","label":"S Köpenick","metadata":{"type":"location","latitude":52.458692,"longitude":13.579543}}
+{"id":"900000180009","label":"Bahnhofstr./Seelenbinderstr.","metadata":{"type":"location","latitude":52.455393,"longitude":13.576879}}
+{"id":"900000130011","label":"U Vinetastr.","metadata":{"type":"location","latitude":52.559517,"longitude":13.41377}}
+{"id":"900000130512","label":"Masurenstr.","metadata":{"type":"location","latitude":52.563568,"longitude":13.413163}}
+{"id":"900000130002","label":"S+U Pankow","metadata":{"type":"location","latitude":52.567281,"longitude":13.412279}}
+{"id":"900000130013","label":"Pankow Kirche","metadata":{"type":"location","latitude":52.570767,"longitude":13.410134}}
+{"id":"900000130502","label":"Stiftsweg","metadata":{"type":"location","latitude":52.572406,"longitude":13.415114}}
+{"id":"900000130520","label":"Mendelstr.","metadata":{"type":"location","latitude":52.575061,"longitude":13.419345}}
+{"id":"900000130522","label":"Würtzstr.","metadata":{"type":"location","latitude":52.576188,"longitude":13.424987}}
+{"id":"900000130001","label":"S Pankow-Heinersdorf","metadata":{"type":"location","latitude":52.577603,"longitude":13.42909}}
+{"id":"900000130016","label":"Galenusstr.","metadata":{"type":"location","latitude":52.582049,"longitude":13.428585}}
+{"id":"900000130017","label":"Pankower Str.","metadata":{"type":"location","latitude":52.585011,"longitude":13.428947}}
+{"id":"900000134503","label":"Pasewalker Str./Blankenburger Weg","metadata":{"type":"location","latitude":52.58954,"longitude":13.430452}}
+{"id":"900000134502","label":"Marienstr./Pasewalker Str.","metadata":{"type":"location","latitude":52.592547,"longitude":13.431495}}
+{"id":"900000134501","label":"Rosenthaler Str.","metadata":{"type":"location","latitude":52.595862,"longitude":13.433093}}
+{"id":"900000134500","label":"Blankenfelder Str.","metadata":{"type":"location","latitude":52.601732,"longitude":13.431514}}
+{"id":"900000134011","label":"Französisch Buchholz Kirche","metadata":{"type":"location","latitude":52.606776,"longitude":13.433538}}
+{"id":"900000134512","label":"Navarraplatz","metadata":{"type":"location","latitude":52.608412,"longitude":13.429798}}
+{"id":"900000134513","label":"Arnouxstr.","metadata":{"type":"location","latitude":52.607333,"longitude":13.42464}}
+{"id":"900000134509","label":"Hugenottenplatz","metadata":{"type":"location","latitude":52.606228,"longitude":13.420072}}
+{"id":"900000134511","label":"Guyotstr.","metadata":{"type":"location","latitude":52.605464,"longitude":13.41708}}
+{"id":"900000010251","label":"Virchow-Klinikum","metadata":{"type":"location","latitude":52.543493,"longitude":13.338739}}
+{"id":"900000009105","label":"Seestr./Amrumer Str.","metadata":{"type":"location","latitude":52.546219,"longitude":13.344055}}
+{"id":"900000009103","label":"U Seestr.","metadata":{"type":"location","latitude":52.55047,"longitude":13.351969}}
+{"id":"900000011252","label":"Osram-Höfe","metadata":{"type":"location","latitude":52.553696,"longitude":13.358291}}
+{"id":"900000011201","label":"Louise-Schroeder-Platz","metadata":{"type":"location","latitude":52.556982,"longitude":13.365603}}
+{"id":"900000009202","label":"U Osloer Str.","metadata":{"type":"location","latitude":52.557107,"longitude":13.373279}}
+{"id":"900000009206","label":"Drontheimer Str.","metadata":{"type":"location","latitude":52.556529,"longitude":13.377547}}
+{"id":"900000009204","label":"Osloer Str./Prinzenallee","metadata":{"type":"location","latitude":52.555936,"longitude":13.383663}}
+{"id":"900000007160","label":"Grüntaler Str.","metadata":{"type":"location","latitude":52.555358,"longitude":13.390796}}
+{"id":"900000110011","label":"S Bornholmer Str.","metadata":{"type":"location","latitude":52.554763,"longitude":13.397841}}
+{"id":"900000194522","label":"Pietschkerstr.","metadata":{"type":"location","latitude":52.450654,"longitude":13.508219}}
+{"id":"900000194007","label":"Sterndamm/Königsheideweg","metadata":{"type":"location","latitude":52.446657,"longitude":13.506656}}
+{"id":"900000194506","label":"Johannisthal Kirche","metadata":{"type":"location","latitude":52.444398,"longitude":13.504063}}
+{"id":"900000194521","label":"Mühlbergstr.","metadata":{"type":"location","latitude":52.441657,"longitude":13.503367}}
+{"id":"900000194713","label":"Haeckelstr.","metadata":{"type":"location","latitude":52.441253,"longitude":13.506148}}
+{"id":"900000181005","label":"Betriebshof Schöneweide","metadata":{"type":"location","latitude":52.464556,"longitude":13.508092}}
+{"id":"900000182005","label":"Altes Wasserwerk","metadata":{"type":"location","latitude":52.447758,"longitude":13.639371}}
+{"id":"900000182507","label":"Bruno-Wille-Str.","metadata":{"type":"location","latitude":52.446974,"longitude":13.632311}}
+{"id":"900000182506","label":"Josef-Nawrocki-Str.","metadata":{"type":"location","latitude":52.446679,"longitude":13.628947}}
+{"id":"900000182004","label":"Müggelseedamm/Bölschestr.","metadata":{"type":"location","latitude":52.447372,"longitude":13.624324}}
+{"id":"900000182505","label":"Marktplatz Friedrichshagen","metadata":{"type":"location","latitude":52.450827,"longitude":13.624687}}
+{"id":"900000182504","label":"Drachholzstr.","metadata":{"type":"location","latitude":52.45394,"longitude":13.625096}}
+{"id":"900000182002","label":"S Friedrichshagen","metadata":{"type":"location","latitude":52.45709,"longitude":13.625462}}
+{"id":"900000182503","label":"Ahornallee","metadata":{"type":"location","latitude":52.455606,"longitude":13.619022}}
+{"id":"900000182502","label":"Mühlweg","metadata":{"type":"location","latitude":52.454352,"longitude":13.613386}}
+{"id":"900000182501","label":"Westendsiedlung","metadata":{"type":"location","latitude":52.453361,"longitude":13.60898}}
+{"id":"900000182003","label":"Hirschgarten","metadata":{"type":"location","latitude":52.451649,"longitude":13.600709}}
+{"id":"900000180013","label":"Bellevuestr.","metadata":{"type":"location","latitude":52.453042,"longitude":13.594022}}
+{"id":"900000180512","label":"Brandenburgplatz","metadata":{"type":"location","latitude":52.455275,"longitude":13.591116}}
+{"id":"900000180511","label":"Gelnitzstr.","metadata":{"type":"location","latitude":52.455436,"longitude":13.585767}}
+{"id":"900000194520","label":"Herweghstr.","metadata":{"type":"location","latitude":52.444127,"longitude":13.505584}}
+{"id":"900000182705","label":"Altes Wasserwerk [Ausstieg]","metadata":{"type":"location","latitude":52.448162,"longitude":13.640651}}
+{"id":"900000180701","label":"S Köpenick [Tram Stellingdamm]","metadata":{"type":"location","latitude":52.458934,"longitude":13.580934}}
+{"id":"900000183003","label":"Rahnsdorf/Waldschänke","metadata":{"type":"location","latitude":52.443391,"longitude":13.685937}}
+{"id":"900000183514","label":"Strandbad Müggelsee","metadata":{"type":"location","latitude":52.445791,"longitude":13.677674}}
+{"id":"900000183513","label":"Licht- und Luftbad Müggelsee","metadata":{"type":"location","latitude":52.447285,"longitude":13.67117}}
+{"id":"900000182513","label":"Fürstenwalder Damm/Müggelseedamm","metadata":{"type":"location","latitude":52.44941,"longitude":13.663248}}
+{"id":"900000182512","label":"Fürstenwalder Damm","metadata":{"type":"location","latitude":52.452153,"longitude":13.653539}}
+{"id":"900000182511","label":"Wasserwerk Friedrichshagen","metadata":{"type":"location","latitude":52.455994,"longitude":13.643017}}
+{"id":"900000182510","label":"Hartlebenstr.","metadata":{"type":"location","latitude":52.4567,"longitude":13.632907}}
+{"id":"900000182509","label":"Spreestr.","metadata":{"type":"location","latitude":52.44696,"longitude":13.615704}}
+{"id":"900000182508","label":"Wassersportzentrum","metadata":{"type":"location","latitude":52.448605,"longitude":13.610381}}
+{"id":"900000180012","label":"Köllnischer Platz","metadata":{"type":"location","latitude":52.444575,"longitude":13.569256}}
+{"id":"900000180003","label":"S Spindlersfeld","metadata":{"type":"location","latitude":52.445938,"longitude":13.562701}}
+{"id":"900000180510","label":"Ottomar-Geschke-Str.","metadata":{"type":"location","latitude":52.441971,"longitude":13.55953}}
+{"id":"900000193506","label":"Wassermannstr.","metadata":{"type":"location","latitude":52.439555,"longitude":13.552592}}
+{"id":"900000193505","label":"Marktplatz Adlershof","metadata":{"type":"location","latitude":52.438106,"longitude":13.548658}}
+{"id":"900000193002","label":"S Adlershof","metadata":{"type":"location","latitude":52.435102,"longitude":13.540553}}
+{"id":"900000194504","label":"Walther-Nernst-Str.","metadata":{"type":"location","latitude":52.432269,"longitude":13.53522}}
+{"id":"900000194501","label":"Magnusstr.","metadata":{"type":"location","latitude":52.429763,"longitude":13.530237}}
+{"id":"900000194016","label":"Karl-Ziegler-Str.","metadata":{"type":"location","latitude":52.432745,"longitude":13.526164}}
+{"id":"900000180515","label":"Mayschweg","metadata":{"type":"location","latitude":52.435895,"longitude":13.582565}}
+{"id":"900000180516","label":"Segewaldweg","metadata":{"type":"location","latitude":52.434435,"longitude":13.582851}}
+{"id":"900000180517","label":"Pritstabelstr.","metadata":{"type":"location","latitude":52.430448,"longitude":13.583928}}
+{"id":"900000180518","label":"Dregerhoffstr.","metadata":{"type":"location","latitude":52.427501,"longitude":13.585249}}
+{"id":"900000180519","label":"Zur Nachtheide","metadata":{"type":"location","latitude":52.424977,"longitude":13.586452}}
+{"id":"900000180520","label":"Lienhardweg","metadata":{"type":"location","latitude":52.421649,"longitude":13.587964}}
+{"id":"900000180014","label":"Müggelbergallee","metadata":{"type":"location","latitude":52.418454,"longitude":13.588996}}
+{"id":"900000180015","label":"Wendenschloß","metadata":{"type":"location","latitude":52.417308,"longitude":13.589351}}
+{"id":"900000176001","label":"S Mahlsdorf","metadata":{"type":"location","latitude":52.512118,"longitude":13.61123}}
+{"id":"900000176008","label":"Wilhelmsmühlenweg","metadata":{"type":"location","latitude":52.50855,"longitude":13.613191}}
+{"id":"900000176524","label":"Alt-Mahlsdorf","metadata":{"type":"location","latitude":52.505116,"longitude":13.613271}}
+{"id":"900000176525","label":"Rahnsdorfer Str.","metadata":{"type":"location","latitude":52.498448,"longitude":13.613189}}
+{"id":"900000176526","label":"Ledebourstr.","metadata":{"type":"location","latitude":52.493715,"longitude":13.609673}}
+{"id":"900000176537","label":"Eichenhofweg","metadata":{"type":"location","latitude":52.490992,"longitude":13.607645}}
+{"id":"900000176536","label":"Bruchsaler Str.","metadata":{"type":"location","latitude":52.48874,"longitude":13.606031}}
+{"id":"900000176535","label":"Bütower Str.","metadata":{"type":"location","latitude":52.485821,"longitude":13.603938}}
+{"id":"900000176534","label":"Erich-Baron-Weg","metadata":{"type":"location","latitude":52.483481,"longitude":13.602204}}
+{"id":"900000176533","label":"Roseggerstr.","metadata":{"type":"location","latitude":52.480296,"longitude":13.601057}}
+{"id":"900000176512","label":"Hultschiner Damm/Seestr.","metadata":{"type":"location","latitude":52.477094,"longitude":13.600603}}
+{"id":"900000180017","label":"Mahlsdorf-Süd","metadata":{"type":"location","latitude":52.47412,"longitude":13.598537}}
+{"id":"900000180525","label":"Unter den Birken","metadata":{"type":"location","latitude":52.469864,"longitude":13.588876}}
+{"id":"900000180526","label":"Wongrowitzer Steig","metadata":{"type":"location","latitude":52.46707,"longitude":13.585493}}
+{"id":"900000180010","label":"Mahlsdorfer Str./Gehsener Str.","metadata":{"type":"location","latitude":52.463202,"longitude":13.583706}}
+{"id":"900000185001","label":"Alt-Schmöckwitz","metadata":{"type":"location","latitude":52.375918,"longitude":13.649118}}
+{"id":"900000185501","label":"Zum Seeblick","metadata":{"type":"location","latitude":52.379177,"longitude":13.644231}}
+{"id":"900000185503","label":"Adlergestell/Vetschauer Allee","metadata":{"type":"location","latitude":52.386162,"longitude":13.633782}}
+{"id":"900000185504","label":"Lübbenauer Weg","metadata":{"type":"location","latitude":52.391313,"longitude":13.634942}}
+{"id":"900000185505","label":"Schappachstr.","metadata":{"type":"location","latitude":52.394618,"longitude":13.631876}}
+{"id":"900000186501","label":"Richtershorn","metadata":{"type":"location","latitude":52.401006,"longitude":13.624883}}
+{"id":"900000186500","label":"Bammelecke","metadata":{"type":"location","latitude":52.405592,"longitude":13.62148}}
+{"id":"900000186502","label":"Strandbad Grünau","metadata":{"type":"location","latitude":52.408701,"longitude":13.604356}}
+{"id":"900000186503","label":"Regattastr./Sportpromenade","metadata":{"type":"location","latitude":52.410616,"longitude":13.597694}}
+{"id":"900000186504","label":"Regattatribünen","metadata":{"type":"location","latitude":52.411597,"longitude":13.587568}}
+{"id":"900000186001","label":"S Grünau","metadata":{"type":"location","latitude":52.412714,"longitude":13.574018}}
+{"id":"900000186002","label":"Wassersportallee","metadata":{"type":"location","latitude":52.416302,"longitude":13.579923}}
+{"id":"900000186505","label":"Regattastr./Schule","metadata":{"type":"location","latitude":52.42039,"longitude":13.577996}}
+{"id":"900000186506","label":"Friedrich-Wolf-Str.","metadata":{"type":"location","latitude":52.424753,"longitude":13.575006}}
+{"id":"900000180521","label":"Betonwerk","metadata":{"type":"location","latitude":52.42923,"longitude":13.57221}}
+{"id":"900000180522","label":"Rosenweg","metadata":{"type":"location","latitude":52.434391,"longitude":13.571394}}
+{"id":"900000180523","label":"Vollkropfgraben","metadata":{"type":"location","latitude":52.438513,"longitude":13.571585}}
+{"id":"900000180524","label":"Glienicker Str.","metadata":{"type":"location","latitude":52.441074,"longitude":13.570279}}
+{"id":"900000100007","label":"S Oranienburger Str.","metadata":{"type":"location","latitude":52.525161,"longitude":13.393068}}
+{"id":"900000100512","label":"Monbijouplatz","metadata":{"type":"location","latitude":52.523659,"longitude":13.398472}}
+{"id":"900000100002","label":"S Hackescher Markt","metadata":{"type":"location","latitude":52.522607,"longitude":13.402358}}
+{"id":"900000100080","label":"U Weinmeisterstr./Gipsstr.","metadata":{"type":"location","latitude":52.525487,"longitude":13.403526}}
+{"id":"900000100023","label":"U Rosenthaler Platz","metadata":{"type":"location","latitude":52.529781,"longitude":13.401393}}
+{"id":"900000110503","label":"Milastr.","metadata":{"type":"location","latitude":52.545266,"longitude":13.412781}}
+{"id":"900000110001","label":"S+U Schönhauser Allee","metadata":{"type":"location","latitude":52.549336,"longitude":13.415138}}
+{"id":"900000130501","label":"Rathaus Pankow","metadata":{"type":"location","latitude":52.569381,"longitude":13.403453}}
+{"id":"900000131004","label":"Bürgerpark Pankow","metadata":{"type":"location","latitude":52.571197,"longitude":13.398141}}
+{"id":"900000131505","label":"Tschaikowskistr.","metadata":{"type":"location","latitude":52.57608,"longitude":13.398607}}
+{"id":"900000131528","label":"Grabbeallee/Pastor-Niemöller-Platz","metadata":{"type":"location","latitude":52.578933,"longitude":13.398314}}
+{"id":"900000131005","label":"Pastor-Niemöller-Platz","metadata":{"type":"location","latitude":52.579628,"longitude":13.397303}}
+{"id":"900000131529","label":"Am Iderfenngraben","metadata":{"type":"location","latitude":52.582601,"longitude":13.392086}}
+{"id":"900000131508","label":"Friedrich-Engels-Str./Eichenstr.","metadata":{"type":"location","latitude":52.58498,"longitude":13.39034}}
+{"id":"900000132502","label":"Nordendstr.","metadata":{"type":"location","latitude":52.588568,"longitude":13.388306}}
+{"id":"900000132501","label":"Angerweg","metadata":{"type":"location","latitude":52.591756,"longitude":13.383936}}
+{"id":"900000132500","label":"Wiesenwinkel","metadata":{"type":"location","latitude":52.594432,"longitude":13.38098}}
+{"id":"900000132010","label":"Hauptstr./Friedrich-Engels-Str.","metadata":{"type":"location","latitude":52.597184,"longitude":13.375488}}
+{"id":"900000132014","label":"Rosenthal Nord","metadata":{"type":"location","latitude":52.599637,"longitude":13.371638}}
+{"id":"900000131527","label":"Hermann-Hesse-Str./Waldstr.","metadata":{"type":"location","latitude":52.580513,"longitude":13.401463}}
+{"id":"900000131510","label":"Kuckhoffstr.","metadata":{"type":"location","latitude":52.583648,"longitude":13.403141}}
+{"id":"900000131526","label":"Heinrich-Böll-Str.","metadata":{"type":"location","latitude":52.587771,"longitude":13.401783}}
+{"id":"900000131006","label":"Nordend","metadata":{"type":"location","latitude":52.590172,"longitude":13.402405}}
+{"id":"900000131519","label":"Waldemarstr.","metadata":{"type":"location","latitude":52.590819,"longitude":13.406248}}
+{"id":"900000131001","label":"Schillerstr.","metadata":{"type":"location","latitude":52.592139,"longitude":13.41088}}
+{"id":"900000120004","label":"S+U Warschauer Str.","metadata":{"type":"location","latitude":52.505765,"longitude":13.449159}}
+{"id":"900000120011","label":"S Warschauer Str.","metadata":{"type":"location","latitude":52.507983,"longitude":13.450546}}
+{"id":"900000120021","label":"Revaler Str.","metadata":{"type":"location","latitude":52.509221,"longitude":13.451099}}
+{"id":"900000120014","label":"Grünberger Str./Warschauer Str.","metadata":{"type":"location","latitude":52.512405,"longitude":13.452397}}
+{"id":"900000120516","label":"Bersarinplatz","metadata":{"type":"location","latitude":52.519341,"longitude":13.452567}}
+{"id":"900000120515","label":"Straßmannstr.","metadata":{"type":"location","latitude":52.522741,"longitude":13.450145}}
+{"id":"900000120716","label":"Landsberger Allee/ Petersburger Str.","metadata":{"type":"location","latitude":52.52681,"longitude":13.447332}}
+{"id":"900000110523","label":"Paul-Heyse-Str.","metadata":{"type":"location","latitude":52.529198,"longitude":13.44464}}
+{"id":"900000110021","label":"Kniprodestr./Danziger Str.","metadata":{"type":"location","latitude":52.532112,"longitude":13.441523}}
+{"id":"900000110025","label":"Arnswalder Platz","metadata":{"type":"location","latitude":52.534094,"longitude":13.437388}}
+{"id":"900000110020","label":"Greifswalder Str./Danziger Str.","metadata":{"type":"location","latitude":52.536,"longitude":13.433466}}
+{"id":"900000110512","label":"Winsstr.","metadata":{"type":"location","latitude":52.537614,"longitude":13.428807}}
+{"id":"900000110017","label":"Prenzlauer Allee/Danziger Str.","metadata":{"type":"location","latitude":52.539179,"longitude":13.424244}}
+{"id":"900000110511","label":"Husemannstr.","metadata":{"type":"location","latitude":52.540036,"longitude":13.418715}}
+{"id":"900000110018","label":"Friedrich-Ludwig-Jahn-Sportpark","metadata":{"type":"location","latitude":52.540873,"longitude":13.4058}}
+{"id":"900000007105","label":"Wolliner Str.","metadata":{"type":"location","latitude":52.53977,"longitude":13.4018}}
+{"id":"900000007110","label":"U Bernauer Str.","metadata":{"type":"location","latitude":52.537994,"longitude":13.396231}}
+{"id":"900000007150","label":"Gedenkstätte Berliner Mauer","metadata":{"type":"location","latitude":52.535698,"longitude":13.390484}}
+{"id":"900000100503","label":"Invalidenpark","metadata":{"type":"location","latitude":52.528765,"longitude":13.376929}}
+{"id":"900000003201","label":"S+U Berlin Hauptbahnhof","metadata":{"type":"location","latitude":52.525847,"longitude":13.368924}}
+{"id":"900000003257","label":"Lesser-Ury-Weg","metadata":{"type":"location","latitude":52.524211,"longitude":13.361978}}
+{"id":"900000003259","label":"Lüneburger Str.","metadata":{"type":"location","latitude":52.523136,"longitude":13.36165}}
+{"id":"900000160710","label":"Roederplatz.","metadata":{"type":"location","latitude":52.526599,"longitude":13.478918}}
+{"id":"900000160510","label":"Anton-Saefkow-Platz","metadata":{"type":"location","latitude":52.528181,"longitude":13.468877}}
+{"id":"900000110029","label":"Landsberger Allee/Karl-Lade-Str.","metadata":{"type":"location","latitude":52.529175,"longitude":13.462603}}
+{"id":"900000110004","label":"S Landsberger Allee","metadata":{"type":"location","latitude":52.528772,"longitude":13.455944}}
+{"id":"900000110718","label":"Friedrich-Ludw.-Jahn-Sportpark","metadata":{"type":"location","latitude":52.541434,"longitude":13.406216}}
+{"id":"900000120016","label":"Landsberger Allee/Petersburger Str.","metadata":{"type":"location","latitude":52.526044,"longitude":13.446777}}
+{"id":"900000120017","label":"Virchowstr.","metadata":{"type":"location","latitude":52.525175,"longitude":13.442166}}
+{"id":"900000003255","label":"Clara-Jaschke-Str.","metadata":{"type":"location","latitude":52.524928,"longitude":13.366052}}
+{"id":"900000120527","label":"Libauer Str.","metadata":{"type":"location","latitude":52.510154,"longitude":13.45493}}
+{"id":"900000120529","label":"Wühlischstr./Gärtnerstr.","metadata":{"type":"location","latitude":52.50889,"longitude":13.460456}}
+{"id":"900000150519","label":"Sportforum","metadata":{"type":"location","latitude":52.538412,"longitude":13.471445}}
+{"id":"900000150518","label":"Betriebshof Indira-Gandhi-Str.","metadata":{"type":"location","latitude":52.544352,"longitude":13.468636}}
+{"id":"900000150522","label":"Gounodstr.","metadata":{"type":"location","latitude":52.548369,"longitude":13.467178}}
+{"id":"900000120528","label":"Simplonstr.","metadata":{"type":"location","latitude":52.509696,"longitude":13.457022}}
+{"id":"900000120526","label":"Kopernikusstr./Warschauer Str.","metadata":{"type":"location","latitude":52.510568,"longitude":13.452661}}
+{"id":"900000150500","label":"Anna-Ebermann-Str.","metadata":{"type":"location","latitude":52.554975,"longitude":13.51212}}
+{"id":"900000152509","label":"Arnimstr.","metadata":{"type":"location","latitude":52.558617,"longitude":13.514811}}
+{"id":"900000152508","label":"Rüdickenstr.","metadata":{"type":"location","latitude":52.559849,"longitude":13.510518}}
+{"id":"900000151006","label":"Prerower Platz","metadata":{"type":"location","latitude":52.563217,"longitude":13.505059}}
+{"id":"900000152001","label":"S Hohenschönhausen","metadata":{"type":"location","latitude":52.566549,"longitude":13.513698}}
+{"id":"900000152006","label":"Falkenberger Ch./Prendener Str.","metadata":{"type":"location","latitude":52.568634,"longitude":13.520673}}
+{"id":"900000152003","label":"Welsestr.","metadata":{"type":"location","latitude":52.569174,"longitude":13.525544}}
+{"id":"900000152007","label":"Falkenberg","metadata":{"type":"location","latitude":52.570209,"longitude":13.526819}}
+{"id":"900000100024","label":"S+U Alexanderplatz/Dircksenstr.","metadata":{"type":"location","latitude":52.521827,"longitude":13.411233}}
+{"id":"900000100030","label":"Memhardstr.","metadata":{"type":"location","latitude":52.524215,"longitude":13.412193}}
+{"id":"900000110022","label":"Mollstr./Prenzlauer Allee","metadata":{"type":"location","latitude":52.526867,"longitude":13.415962}}
+{"id":"900000110506","label":"Prenzlauer Allee/Metzer Str.","metadata":{"type":"location","latitude":52.531032,"longitude":13.419383}}
+{"id":"900000110507","label":"Knaackstr.","metadata":{"type":"location","latitude":52.533226,"longitude":13.420721}}
+{"id":"900000110508","label":"Marienburger Str.","metadata":{"type":"location","latitude":52.535538,"longitude":13.422093}}
+{"id":"900000110510","label":"Fröbelstr.","metadata":{"type":"location","latitude":52.542043,"longitude":13.425914}}
+{"id":"900000110002","label":"S Prenzlauer Allee","metadata":{"type":"location","latitude":52.544802,"longitude":13.427419}}
+{"id":"900000110509","label":"Erich-Weinert-Str.","metadata":{"type":"location","latitude":52.54778,"longitude":13.428666}}
+{"id":"900000110013","label":"Prenzlauer Allee/Ostseestr.","metadata":{"type":"location","latitude":52.551222,"longitude":13.430178}}
+{"id":"900000141507","label":"Prenzlauer Promenade/Am Steinberg","metadata":{"type":"location","latitude":52.556662,"longitude":13.429913}}
+{"id":"900000141506","label":"Am Steinberg","metadata":{"type":"location","latitude":52.558383,"longitude":13.433301}}
+{"id":"900000141502","label":"Tino-Schwierzina-Str.","metadata":{"type":"location","latitude":52.562265,"longitude":13.434844}}
+{"id":"900000141504","label":"Am Wasserturm","metadata":{"type":"location","latitude":52.565118,"longitude":13.435969}}
+{"id":"900000141002","label":"Heinersdorf Kirche","metadata":{"type":"location","latitude":52.568165,"longitude":13.44039}}
+{"id":"900000141503","label":"Rothenbachstr.","metadata":{"type":"location","latitude":52.570174,"longitude":13.437713}}
+{"id":"900000141001","label":"Heinersdorf","metadata":{"type":"location","latitude":52.572564,"longitude":13.437068}}
+{"id":"900000140517","label":"Stadion Buschallee/Hansastr.","metadata":{"type":"location","latitude":52.556906,"longitude":13.485984}}
+{"id":"900000150501","label":"Feldtmannstr.","metadata":{"type":"location","latitude":52.559826,"longitude":13.495328}}
+{"id":"900000150002","label":"Hansastr./Malchower Weg","metadata":{"type":"location","latitude":52.561052,"longitude":13.500679}}
+{"id":"900000151501","label":"Ahrenshooper Str.","metadata":{"type":"location","latitude":52.566214,"longitude":13.501888}}
+{"id":"900000151004","label":"Zingster Str./Ribnitzer Str.","metadata":{"type":"location","latitude":52.570279,"longitude":13.49738}}
+{"id":"900000151003","label":"Zingster Str.","metadata":{"type":"location","latitude":52.572356,"longitude":13.495165}}
+{"id":"900000100515","label":"Spandauer Str./Marienkirche","metadata":{"type":"location","latitude":52.520025,"longitude":13.404825}}
+{"id":"900000100026","label":"S+U Alexanderplatz/Gontardstr.","metadata":{"type":"location","latitude":52.521063,"longitude":13.411252}}
+{"id":"900000100005","label":"U Alexanderplatz [Tram]","metadata":{"type":"location","latitude":52.52239,"longitude":13.414492}}
+{"id":"900000100040","label":"Mollstr./Otto-Braun-Str.","metadata":{"type":"location","latitude":52.525183,"longitude":13.419945}}
+{"id":"900000110019","label":"Am Friedrichshain","metadata":{"type":"location","latitude":52.528015,"longitude":13.425135}}
+{"id":"900000110521","label":"Hufelandstr.","metadata":{"type":"location","latitude":52.532518,"longitude":13.428789}}
+{"id":"900000110003","label":"S Greifswalder Str.","metadata":{"type":"location","latitude":52.540724,"longitude":13.438356}}
+{"id":"900000110515","label":"Thomas-Mann-Str.","metadata":{"type":"location","latitude":52.543374,"longitude":13.441436}}
+{"id":"900000110016","label":"Greifswalder Str./Ostseestr.","metadata":{"type":"location","latitude":52.545474,"longitude":13.444615}}
+{"id":"900000140014","label":"Giersstr.","metadata":{"type":"location","latitude":52.554578,"longitude":13.482425}}
+{"id":"900000120513","label":"Klinikum im Friedrichshain","metadata":{"type":"location","latitude":52.524147,"longitude":13.440202}}
+{"id":"900000120019","label":"Platz der Vereinten Nationen","metadata":{"type":"location","latitude":52.523254,"longitude":13.433056}}
+{"id":"900000120511","label":"Büschingstr.","metadata":{"type":"location","latitude":52.523127,"longitude":13.427217}}
+{"id":"900000110030","label":"Oderbruchstr.","metadata":{"type":"location","latitude":52.530438,"longitude":13.461452}}
+{"id":"900000160508","label":"Judith-Auer-Str.","metadata":{"type":"location","latitude":52.534125,"longitude":13.467867}}
+{"id":"900000150011","label":"Hohenschönhauser Str./Weißenseer Weg","metadata":{"type":"location","latitude":52.535851,"longitude":13.472862}}
+{"id":"900000150510","label":"Sandinostr.","metadata":{"type":"location","latitude":52.538476,"longitude":13.480703}}
+{"id":"900000150511","label":"Simon-Bolivar-Str.","metadata":{"type":"location","latitude":52.539991,"longitude":13.484631}}
+{"id":"900000150512","label":"Werneuchener Str.","metadata":{"type":"location","latitude":52.542422,"longitude":13.489312}}
+{"id":"900000150513","label":"Freienwalder Str.","metadata":{"type":"location","latitude":52.544343,"longitude":13.493003}}
+{"id":"900000150007","label":"Oberseestr.","metadata":{"type":"location","latitude":52.546757,"longitude":13.497611}}
+{"id":"900000100016","label":"U Rosa-Luxemburg-Platz","metadata":{"type":"location","latitude":52.528191,"longitude":13.410405}}
+{"id":"900000023301","label":"U Uhlandstr.","metadata":{"type":"location","latitude":52.502742,"longitude":13.326233}}
+{"id":"900000023203","label":"U Kurfürstendamm","metadata":{"type":"location","latitude":52.503763,"longitude":13.331419}}
+{"id":"900000056101","label":"U Wittenbergplatz","metadata":{"type":"location","latitude":52.502109,"longitude":13.342561}}
+{"id":"900000056102","label":"U Nollendorfplatz","metadata":{"type":"location","latitude":52.499644,"longitude":13.353825}}
+{"id":"900000005201","label":"U Kurfürstenstr.","metadata":{"type":"location","latitude":52.499778,"longitude":13.362857}}
+{"id":"900000017103","label":"U Gleisdreieck","metadata":{"type":"location","latitude":52.499587,"longitude":13.374293}}
+{"id":"900000017104","label":"U Möckernbrücke","metadata":{"type":"location","latitude":52.498944,"longitude":13.383256}}
+{"id":"900000012103","label":"U Hallesches Tor","metadata":{"type":"location","latitude":52.497774,"longitude":13.39176}}
+{"id":"900000013103","label":"U Prinzenstr.","metadata":{"type":"location","latitude":52.498274,"longitude":13.406531}}
+{"id":"900000013102","label":"U Kottbusser Tor","metadata":{"type":"location","latitude":52.499047,"longitude":13.417748}}
+{"id":"900000014101","label":"U Görlitzer Bahnhof","metadata":{"type":"location","latitude":52.499035,"longitude":13.428468}}
+{"id":"900000014102","label":"U Schlesisches Tor","metadata":{"type":"location","latitude":52.501147,"longitude":13.441791}}
+{"id":"900000025202","label":"U Ruhleben","metadata":{"type":"location","latitude":52.525587,"longitude":13.241902}}
+{"id":"900000025203","label":"U Olympia-Stadion","metadata":{"type":"location","latitude":52.517048,"longitude":13.2505}}
+{"id":"900000026101","label":"U Neu-Westend","metadata":{"type":"location","latitude":52.516409,"longitude":13.25991}}
+{"id":"900000026201","label":"U Theodor-Heuss-Platz","metadata":{"type":"location","latitude":52.509798,"longitude":13.272977}}
+{"id":"900000026202","label":"U Kaiserdamm","metadata":{"type":"location","latitude":52.509985,"longitude":13.281695}}
+{"id":"900000022101","label":"U Sophie-Charlotte-Platz","metadata":{"type":"location","latitude":52.51097,"longitude":13.297463}}
+{"id":"900000024201","label":"U Bismarckstr.","metadata":{"type":"location","latitude":52.511543,"longitude":13.305335}}
+{"id":"900000022201","label":"U Deutsche Oper","metadata":{"type":"location","latitude":52.511827,"longitude":13.30942}}
+{"id":"900000023101","label":"U Ernst-Reuter-Platz","metadata":{"type":"location","latitude":52.511582,"longitude":13.322581}}
+{"id":"900000023201","label":"S+U Zoologischer Garten","metadata":{"type":"location","latitude":52.506921,"longitude":13.332707}}
+{"id":"900000056104","label":"U Bülowstr.","metadata":{"type":"location","latitude":52.497627,"longitude":13.362456}}
+{"id":"900000005252","label":"U Mendelssohn-Bartholdy-Park","metadata":{"type":"location","latitude":52.503806,"longitude":13.374719}}
+{"id":"900000100020","label":"S+U Potsdamer Platz","metadata":{"type":"location","latitude":52.50934,"longitude":13.376454}}
+{"id":"900000100010","label":"U Mohrenstr.","metadata":{"type":"location","latitude":52.511519,"longitude":13.383798}}
+{"id":"900000100011","label":"U Stadtmitte","metadata":{"type":"location","latitude":52.511495,"longitude":13.389719}}
+{"id":"900000100012","label":"U Hausvogteiplatz","metadata":{"type":"location","latitude":52.513361,"longitude":13.395346}}
+{"id":"900000100013","label":"U Spittelmarkt","metadata":{"type":"location","latitude":52.511301,"longitude":13.402352}}
+{"id":"900000100014","label":"U Märkisches Museum","metadata":{"type":"location","latitude":52.512007,"longitude":13.408767}}
+{"id":"900000100015","label":"U Klosterstr.","metadata":{"type":"location","latitude":52.517229,"longitude":13.412455}}
+{"id":"900000100003","label":"S+U Alexanderplatz","metadata":{"type":"location","latitude":52.521512,"longitude":13.411267}}
+{"id":"900000110005","label":"U Senefelderplatz","metadata":{"type":"location","latitude":52.532622,"longitude":13.412625}}
+{"id":"900000041101","label":"U Fehrbelliner Platz","metadata":{"type":"location","latitude":52.490201,"longitude":13.314519}}
+{"id":"900000043101","label":"U Hohenzollernplatz","metadata":{"type":"location","latitude":52.493833,"longitude":13.324051}}
+{"id":"900000042101","label":"U Spichernstr.","metadata":{"type":"location","latitude":52.496582,"longitude":13.330613}}
+{"id":"900000023202","label":"U Augsburger Str.","metadata":{"type":"location","latitude":52.500557,"longitude":13.336771}}
+{"id":"900000050201","label":"U Krumme Lanke","metadata":{"type":"location","latitude":52.442615,"longitude":13.24036}}
+{"id":"900000050282","label":"U Onkel Toms Hütte","metadata":{"type":"location","latitude":52.450146,"longitude":13.254016}}
+{"id":"900000051301","label":"U Oskar-Helene-Heim","metadata":{"type":"location","latitude":52.450419,"longitude":13.26891}}
+{"id":"900000051201","label":"U Freie Universität (Thielplatz)","metadata":{"type":"location","latitude":52.451,"longitude":13.281651}}
+{"id":"900000051303","label":"U Dahlem-Dorf","metadata":{"type":"location","latitude":52.457695,"longitude":13.290011}}
+{"id":"900000051302","label":"U Podbielskiallee","metadata":{"type":"location","latitude":52.464172,"longitude":13.295203}}
+{"id":"900000051202","label":"U Breitenbachplatz","metadata":{"type":"location","latitude":52.467342,"longitude":13.309276}}
+{"id":"900000045101","label":"U Rüdesheimer Platz","metadata":{"type":"location","latitude":52.472462,"longitude":13.314387}}
+{"id":"900000045102","label":"S+U Heidelberger Platz","metadata":{"type":"location","latitude":52.479446,"longitude":13.311843}}
+{"id":"900000054105","label":"S+U Innsbrucker Platz","metadata":{"type":"location","latitude":52.4781,"longitude":13.342875}}
+{"id":"900000054101","label":"U Rathaus Schöneberg","metadata":{"type":"location","latitude":52.483332,"longitude":13.341989}}
+{"id":"900000055102","label":"U Bayerischer Platz","metadata":{"type":"location","latitude":52.488654,"longitude":13.340237}}
+{"id":"900000055101","label":"U Viktoria-Luise-Platz","metadata":{"type":"location","latitude":52.496169,"longitude":13.343264}}
+{"id":"900000100017","label":"U Schillingstr.","metadata":{"type":"location","latitude":52.520316,"longitude":13.421895}}
+{"id":"900000120006","label":"U Strausberger Platz","metadata":{"type":"location","latitude":52.518025,"longitude":13.432208}}
+{"id":"900000120025","label":"U Weberwiese","metadata":{"type":"location","latitude":52.516848,"longitude":13.443278}}
+{"id":"900000120009","label":"U Samariterstr.","metadata":{"type":"location","latitude":52.514662,"longitude":13.465347}}
+{"id":"900000160005","label":"U Magdalenenstr.","metadata":{"type":"location","latitude":52.512214,"longitude":13.489439}}
+{"id":"900000160004","label":"S+U Lichtenberg","metadata":{"type":"location","latitude":52.510754,"longitude":13.498228}}
+{"id":"900000161512","label":"U Friedrichsfelde","metadata":{"type":"location","latitude":52.505464,"longitude":13.513544}}
+{"id":"900000171005","label":"U Biesdorf-Süd","metadata":{"type":"location","latitude":52.499517,"longitude":13.547326}}
+{"id":"900000171006","label":"U Elsterwerdaer Platz","metadata":{"type":"location","latitude":52.504643,"longitude":13.560762}}
+{"id":"900000175001","label":"S+U Wuhletal","metadata":{"type":"location","latitude":52.512724,"longitude":13.574536}}
+{"id":"900000175004","label":"U Kaulsdorf-Nord","metadata":{"type":"location","latitude":52.521436,"longitude":13.588763}}
+{"id":"900000175705","label":"U Kienberg","metadata":{"type":"location","latitude":52.527349,"longitude":13.589345}}
+{"id":"900000175006","label":"U Cottbusser Platz","metadata":{"type":"location","latitude":52.533963,"longitude":13.596894}}
+{"id":"900000175015","label":"U Louis-Lewin-Str.","metadata":{"type":"location","latitude":52.539135,"longitude":13.619707}}
+{"id":"900000175010","label":"U Hönow","metadata":{"type":"location","latitude":52.538105,"longitude":13.634541}}
+{"id":"900000070301","label":"U Alt-Mariendorf","metadata":{"type":"location","latitude":52.439641,"longitude":13.387456}}
+{"id":"900000070101","label":"U Westphalweg","metadata":{"type":"location","latitude":52.445801,"longitude":13.385561}}
+{"id":"900000069271","label":"U Ullsteinstr.","metadata":{"type":"location","latitude":52.45345,"longitude":13.384771}}
+{"id":"900000068302","label":"U Kaiserin-Augusta-Str.","metadata":{"type":"location","latitude":52.460512,"longitude":13.384905}}
+{"id":"900000068202","label":"U Alt-Tempelhof","metadata":{"type":"location","latitude":52.46593,"longitude":13.385796}}
+{"id":"900000068201","label":"S+U Tempelhof","metadata":{"type":"location","latitude":52.470694,"longitude":13.385754}}
+{"id":"900000068101","label":"U Paradestr.","metadata":{"type":"location","latitude":52.478142,"longitude":13.386725}}
+{"id":"900000017102","label":"U Platz der Luftbrücke","metadata":{"type":"location","latitude":52.485669,"longitude":13.387799}}
+{"id":"900000017101","label":"U Mehringdamm","metadata":{"type":"location","latitude":52.493567,"longitude":13.38814}}
+{"id":"900000012102","label":"U Kochstr./Checkpoint Charlie","metadata":{"type":"location","latitude":52.506673,"longitude":13.390863}}
+{"id":"900000100027","label":"U Französische Str.","metadata":{"type":"location","latitude":52.51477,"longitude":13.389208}}
+{"id":"900000100501","label":"U Schwartzkopffstr.","metadata":{"type":"location","latitude":52.535397,"longitude":13.377033}}
+{"id":"900000008102","label":"U Reinickendorfer Str.","metadata":{"type":"location","latitude":52.539895,"longitude":13.370393}}
+{"id":"900000009104","label":"S+U Wedding","metadata":{"type":"location","latitude":52.542732,"longitude":13.36606}}
+{"id":"900000009102","label":"U Leopoldplatz","metadata":{"type":"location","latitude":52.546493,"longitude":13.359395}}
+{"id":"900000011101","label":"U Rehberge","metadata":{"type":"location","latitude":52.55667,"longitude":13.341013}}
+{"id":"900000011102","label":"U Afrikanische Str.","metadata":{"type":"location","latitude":52.560862,"longitude":13.333502}}
+{"id":"900000086102","label":"U Kurt-Schumacher-Platz","metadata":{"type":"location","latitude":52.563483,"longitude":13.327328}}
+{"id":"900000087101","label":"U Scharnweberstr.","metadata":{"type":"location","latitude":52.567111,"longitude":13.311524}}
+{"id":"900000086101","label":"U Otisstr.","metadata":{"type":"location","latitude":52.571122,"longitude":13.303074}}
+{"id":"900000088201","label":"U Holzhauser Str.","metadata":{"type":"location","latitude":52.576252,"longitude":13.295083}}
+{"id":"900000088202","label":"U Borsigwerke","metadata":{"type":"location","latitude":52.582139,"longitude":13.290122}}
+{"id":"900000089301","label":"U Alt-Tegel","metadata":{"type":"location","latitude":52.589649,"longitude":13.283821}}
+{"id":"900000083201","label":"U Rudow","metadata":{"type":"location","latitude":52.415714,"longitude":13.496527}}
+{"id":"900000083101","label":"U Zwickauer Damm","metadata":{"type":"location","latitude":52.423032,"longitude":13.484371}}
+{"id":"900000083102","label":"U Wutzkyallee","metadata":{"type":"location","latitude":52.423152,"longitude":13.47482}}
+{"id":"900000082201","label":"U Lipschitzallee","metadata":{"type":"location","latitude":52.424645,"longitude":13.463109}}
+{"id":"900000082202","label":"U Johannisthaler Chaussee","metadata":{"type":"location","latitude":52.429253,"longitude":13.453851}}
+{"id":"900000080402","label":"U Britz-Süd","metadata":{"type":"location","latitude":52.437076,"longitude":13.447668}}
+{"id":"900000080401","label":"U Parchimer Allee","metadata":{"type":"location","latitude":52.445299,"longitude":13.449967}}
+{"id":"900000080201","label":"U Blaschkoallee","metadata":{"type":"location","latitude":52.452743,"longitude":13.448976}}
+{"id":"900000080202","label":"U Grenzallee","metadata":{"type":"location","latitude":52.463516,"longitude":13.444828}}
+{"id":"900000078201","label":"S+U Neukölln","metadata":{"type":"location","latitude":52.469282,"longitude":13.443692}}
+{"id":"900000078103","label":"U Karl-Marx-Str.","metadata":{"type":"location","latitude":52.476429,"longitude":13.439805}}
+{"id":"900000078102","label":"U Rathaus Neukölln","metadata":{"type":"location","latitude":52.481146,"longitude":13.434807}}
+{"id":"900000078101","label":"U Hermannplatz","metadata":{"type":"location","latitude":52.486957,"longitude":13.42472}}
+{"id":"900000016202","label":"U Südstern","metadata":{"type":"location","latitude":52.489219,"longitude":13.407685}}
+{"id":"900000016101","label":"U Gneisenaustr.","metadata":{"type":"location","latitude":52.491252,"longitude":13.395382}}
+{"id":"900000057103","label":"S+U Yorckstr.","metadata":{"type":"location","latitude":52.492766,"longitude":13.370429}}
+{"id":"900000054102","label":"U Kleistpark","metadata":{"type":"location","latitude":52.490845,"longitude":13.360917}}
+{"id":"900000054103","label":"U Eisenacher Str.","metadata":{"type":"location","latitude":52.489477,"longitude":13.350284}}
+{"id":"900000044201","label":"U Berliner Str.","metadata":{"type":"location","latitude":52.487047,"longitude":13.331355}}
+{"id":"900000041102","label":"U Blissestr.","metadata":{"type":"location","latitude":52.486478,"longitude":13.320545}}
+{"id":"900000041201","label":"U Konstanzer Str.","metadata":{"type":"location","latitude":52.493567,"longitude":13.310084}}
+{"id":"900000023302","label":"U Adenauerplatz","metadata":{"type":"location","latitude":52.500086,"longitude":13.307348}}
+{"id":"900000024202","label":"U Wilmersdorfer Str.","metadata":{"type":"location","latitude":52.506415,"longitude":13.306774}}
+{"id":"900000022202","label":"U Richard-Wagner-Platz","metadata":{"type":"location","latitude":52.517154,"longitude":13.307221}}
+{"id":"900000019204","label":"U Mierendorffplatz","metadata":{"type":"location","latitude":52.525978,"longitude":13.305715}}
+{"id":"900000020201","label":"S+U Jungfernheide","metadata":{"type":"location","latitude":52.530431,"longitude":13.300135}}
+{"id":"900000018101","label":"U Jakob-Kaiser-Platz","metadata":{"type":"location","latitude":52.536985,"longitude":13.293661}}
+{"id":"900000018102","label":"U Halemweg","metadata":{"type":"location","latitude":52.536703,"longitude":13.286578}}
+{"id":"900000035101","label":"U Siemensdamm","metadata":{"type":"location","latitude":52.537026,"longitude":13.273323}}
+{"id":"900000036101","label":"U Rohrdamm","metadata":{"type":"location","latitude":52.536904,"longitude":13.26287}}
+{"id":"900000034101","label":"U Paulsternstr.","metadata":{"type":"location","latitude":52.538098,"longitude":13.248593}}
+{"id":"900000034102","label":"U Haselhorst","metadata":{"type":"location","latitude":52.538718,"longitude":13.232309}}
+{"id":"900000033101","label":"U Zitadelle","metadata":{"type":"location","latitude":52.537522,"longitude":13.217625}}
+{"id":"900000029301","label":"U Altstadt Spandau","metadata":{"type":"location","latitude":52.539161,"longitude":13.206763}}
+{"id":"900000029302","label":"S+U Rathaus Spandau","metadata":{"type":"location","latitude":52.535798,"longitude":13.199891}}
+{"id":"900000079221","label":"S+U Hermannstr.","metadata":{"type":"location","latitude":52.467181,"longitude":13.431704}}
+{"id":"900000079201","label":"U Leinestr.","metadata":{"type":"location","latitude":52.472874,"longitude":13.4284}}
+{"id":"900000079202","label":"U Boddinstr.","metadata":{"type":"location","latitude":52.479745,"longitude":13.425782}}
+{"id":"900000016201","label":"U Schönleinstr.","metadata":{"type":"location","latitude":52.493179,"longitude":13.422241}}
+{"id":"900000013101","label":"U Moritzplatz","metadata":{"type":"location","latitude":52.503739,"longitude":13.410947}}
+{"id":"900000100008","label":"U Heinrich-Heine-Str.","metadata":{"type":"location","latitude":52.510858,"longitude":13.416169}}
+{"id":"900000100004","label":"S+U Jannowitzbrücke","metadata":{"type":"location","latitude":52.5155,"longitude":13.418027}}
+{"id":"900000100051","label":"U Weinmeisterstr.","metadata":{"type":"location","latitude":52.525376,"longitude":13.405305}}
+{"id":"900000007103","label":"U Voltastr.","metadata":{"type":"location","latitude":52.54193,"longitude":13.393157}}
+{"id":"900000007102","label":"S+U Gesundbrunnen","metadata":{"type":"location","latitude":52.548637,"longitude":13.388372}}
+{"id":"900000009203","label":"U Pankstr.","metadata":{"type":"location","latitude":52.552255,"longitude":13.381837}}
+{"id":"900000085202","label":"U Franz-Neumann-Platz","metadata":{"type":"location","latitude":52.563854,"longitude":13.364283}}
+{"id":"900000085203","label":"U Residenzstr.","metadata":{"type":"location","latitude":52.570843,"longitude":13.360635}}
+{"id":"900000085104","label":"U Paracelsus-Bad","metadata":{"type":"location","latitude":52.574534,"longitude":13.347532}}
+{"id":"900000086160","label":"U Lindauer Allee","metadata":{"type":"location","latitude":52.575394,"longitude":13.339047}}
+{"id":"900000096458","label":"S+U Karl-Bonhoeffer-Nervenklinik","metadata":{"type":"location","latitude":52.578169,"longitude":13.332921}}
+{"id":"900000096410","label":"U Rathaus Reinickendorf","metadata":{"type":"location","latitude":52.588218,"longitude":13.325568}}
+{"id":"900000096101","label":"S+U Wittenau","metadata":{"type":"location","latitude":52.596392,"longitude":13.335481}}
+{"id":"900000062202","label":"S+U Rathaus Steglitz","metadata":{"type":"location","latitude":52.455066,"longitude":13.322152}}
+{"id":"900000062203","label":"U Schloßstr.","metadata":{"type":"location","latitude":52.461183,"longitude":13.324836}}
+{"id":"900000061101","label":"U Walther-Schreiber-Platz","metadata":{"type":"location","latitude":52.464998,"longitude":13.328409}}
+{"id":"900000061102","label":"U Friedrich-Wilhelm-Platz","metadata":{"type":"location","latitude":52.471439,"longitude":13.328676}}
+{"id":"900000044202","label":"S+U Bundesplatz","metadata":{"type":"location","latitude":52.477366,"longitude":13.329149}}
+{"id":"900000043201","label":"U Güntzelstr.","metadata":{"type":"location","latitude":52.491992,"longitude":13.33121}}
+{"id":"900000003101","label":"U Hansaplatz","metadata":{"type":"location","latitude":52.518111,"longitude":13.342165}}
+{"id":"900000003104","label":"U Turmstr.","metadata":{"type":"location","latitude":52.525938,"longitude":13.341417}}
+{"id":"900000002201","label":"U Birkenstr.","metadata":{"type":"location","latitude":52.532229,"longitude":13.341417}}
+{"id":"900000001201","label":"S+U Westhafen","metadata":{"type":"location","latitude":52.536183,"longitude":13.343837}}
+{"id":"900000009101","label":"U Amrumer Str.","metadata":{"type":"location","latitude":52.542202,"longitude":13.349534}}
+{"id":"900000009201","label":"U Nauener Platz","metadata":{"type":"location","latitude":52.551524,"longitude":13.367365}}
+{"id":"900000275333","label":"Brandenburg, Anton-Saefkow-Allee","metadata":{"type":"location","latitude":52.423279,"longitude":12.4676}}
+{"id":"900000275332","label":"Brandenburg, Kaltenhausener Weg","metadata":{"type":"location","latitude":52.425292,"longitude":12.474266}}
+{"id":"900000275331","label":"Brandenburg, Asklepios Klinik","metadata":{"type":"location","latitude":52.427236,"longitude":12.480255}}
+{"id":"900000275326","label":"Brandenburg, Waldcafé Görden","metadata":{"type":"location","latitude":52.427903,"longitude":12.497155}}
+{"id":"900000275324","label":"Brandenburg, Geranienweg","metadata":{"type":"location","latitude":52.426363,"longitude":12.508633}}
+{"id":"900000275323","label":"Brandenburg, Gördenallee","metadata":{"type":"location","latitude":52.425658,"longitude":12.513697}}
+{"id":"900000275322","label":"Brandenburg, Rotdornweg","metadata":{"type":"location","latitude":52.424553,"longitude":12.52171}}
+{"id":"900000275321","label":"Brandenburg, Am Silokanal","metadata":{"type":"location","latitude":52.423922,"longitude":12.527255}}
+{"id":"900000275126","label":"Brandenburg, August-Bebel-Str.","metadata":{"type":"location","latitude":52.422529,"longitude":12.532256}}
+{"id":"900000275125","label":"Brandenburg, Fontanestr.","metadata":{"type":"location","latitude":52.418623,"longitude":12.53553}}
+{"id":"900000275124","label":"Brandenburg, Karl-Marx-Str.","metadata":{"type":"location","latitude":52.414722,"longitude":12.537702}}
+{"id":"900000275122","label":"Brandenburg, Fouquéstr./THB","metadata":{"type":"location","latitude":52.412391,"longitude":12.538321}}
+{"id":"900000275121","label":"Brandenburg, Magdeburger Str./OLG","metadata":{"type":"location","latitude":52.412008,"longitude":12.543445}}
+{"id":"900000275813","label":"Brandenburg, Nicolaiplatz","metadata":{"type":"location","latitude":52.411136,"longitude":12.549415}}
+{"id":"900000275147","label":"Brandenburg, Luckenberger Str.","metadata":{"type":"location","latitude":52.409076,"longitude":12.547964}}
+{"id":"900000275101","label":"Brandenburg, Kanalstr.","metadata":{"type":"location","latitude":52.407238,"longitude":12.550866}}
+{"id":"900000275109","label":"Brandenburg, Jacobstr.","metadata":{"type":"location","latitude":52.40546,"longitude":12.557814}}
+{"id":"900000275108","label":"Brandenburg, Steinstr./Kino","metadata":{"type":"location","latitude":52.407229,"longitude":12.560476}}
+{"id":"900000275157","label":"Brandenburg, Neustädtischer Markt","metadata":{"type":"location","latitude":52.408816,"longitude":12.563009}}
+{"id":"900000275159","label":"Brandenburg, Sankt-Annen-Str.","metadata":{"type":"location","latitude":52.406956,"longitude":12.566747}}
+{"id":"900000275113","label":"Brandenburg, Geschwister-Scholl-Str.","metadata":{"type":"location","latitude":52.403769,"longitude":12.567955}}
+{"id":"900000275301","label":"Brandenburg, Betriebshof Hohenstücken","metadata":{"type":"location","latitude":52.42712,"longitude":12.531244}}
+{"id":"900000275111","label":"Brandenburg, Blumenstr.","metadata":{"type":"location","latitude":52.403173,"longitude":12.561027}}
+{"id":"900000275114","label":"Brandenburg, Große Gartenstr.","metadata":{"type":"location","latitude":52.404499,"longitude":12.558134}}
+{"id":"900000275305","label":"Brandenburg, Hohenstücken Nord","metadata":{"type":"location","latitude":52.437023,"longitude":12.51852}}
+{"id":"900000275304","label":"Brandenburg, Tschirchdamm","metadata":{"type":"location","latitude":52.434188,"longitude":12.52156}}
+{"id":"900000275303","label":"Brandenburg, Rosa-Luxemburg-Allee","metadata":{"type":"location","latitude":52.431563,"longitude":12.523734}}
+{"id":"900000275302","label":"Brandenburg, Willibald-Alexis-Str.","metadata":{"type":"location","latitude":52.43141,"longitude":12.529805}}
+{"id":"900000275105","label":"Brandenburg, Ritterstr./Museum","metadata":{"type":"location","latitude":52.412617,"longitude":12.55374}}
+{"id":"900000275161","label":"Brandenburg, Jahrtausendbrücke","metadata":{"type":"location","latitude":52.411098,"longitude":12.557468}}
+{"id":"900000275106","label":"Brandenburg, Hauptstr.","metadata":{"type":"location","latitude":52.410126,"longitude":12.559749}}
+{"id":"900000200005","label":"S Oranienburg","metadata":{"type":"location","latitude":52.754362,"longitude":13.248432}}
+{"id":"900000120003","label":"S Ostkreuz","metadata":{"type":"location","latitude":52.502851,"longitude":13.469093}}
+{"id":"900000340027","label":"Templin, Stadt","metadata":{"type":"location","latitude":53.117175,"longitude":13.509739}}
+{"id":"900000340026","label":"Templin, Bhf","metadata":{"type":"location","latitude":53.112492,"longitude":13.490562}}
+{"id":"900000340353","label":"Hammelspring, Bhf","metadata":{"type":"location","latitude":53.070365,"longitude":13.435586}}
+{"id":"900000203956","label":"Vogelsang (OHV), Bhf","metadata":{"type":"location","latitude":53.03705,"longitude":13.386576}}
+{"id":"900000203898","label":"Zehdenick, Neuhof","metadata":{"type":"location","latitude":53.005688,"longitude":13.345778}}
+{"id":"900000203853","label":"Zehdenick, Bhf","metadata":{"type":"location","latitude":52.979591,"longitude":13.317764}}
+{"id":"900000203942","label":"Bergsdorf, Bhf","metadata":{"type":"location","latitude":52.936579,"longitude":13.260827}}
+{"id":"900000203780","label":"Löwenberg (Mark), Bhf","metadata":{"type":"location","latitude":52.896962,"longitude":13.189862}}
+{"id":"900000203961","label":"Grüneberg, Bhf","metadata":{"type":"location","latitude":52.868313,"longitude":13.213804}}
+{"id":"900000200043","label":"Nassenheide, Bhf","metadata":{"type":"location","latitude":52.817405,"longitude":13.238075}}
+{"id":"900000200041","label":"Sachsenhausen, Bhf","metadata":{"type":"location","latitude":52.771155,"longitude":13.251239}}
+{"id":"900000350172","label":"Werneuchen, Bhf","metadata":{"type":"location","latitude":52.637126,"longitude":13.738216}}
+{"id":"900000350168","label":"Seefeld (Mark), Bhf","metadata":{"type":"location","latitude":52.618235,"longitude":13.675816}}
+{"id":"900000350151","label":"Blumberg (BAR), Bhf","metadata":{"type":"location","latitude":52.604981,"longitude":13.612187}}
+{"id":"900000350178","label":"Blumberg (BAR), Rehhahn","metadata":{"type":"location","latitude":52.596762,"longitude":13.591931}}
+{"id":"900000350142","label":"Ahrensfelde, Nord","metadata":{"type":"location","latitude":52.591113,"longitude":13.582222}}
+{"id":"900000350141","label":"Ahrensfelde, Friedhof","metadata":{"type":"location","latitude":52.58049,"longitude":13.572999}}
+{"id":"900000170004","label":"S Ahrensfelde","metadata":{"type":"location","latitude":52.571564,"longitude":13.566118}}
+{"id":"900000810003","label":"Kostrzyn (PL), Bhf","metadata":{"type":"location","latitude":52.591451,"longitude":14.646909}}
+{"id":"900000321518","label":"Küstrin-Kietz, Bhf","metadata":{"type":"location","latitude":52.568476,"longitude":14.607582}}
+{"id":"900000321442","label":"Seelow-Gusow, Bhf","metadata":{"type":"location","latitude":52.559649,"longitude":14.351548}}
+{"id":"900000320014","label":"Müncheberg, Bhf","metadata":{"type":"location","latitude":52.524405,"longitude":14.100899}}
+{"id":"900000320004","label":"S Strausberg","metadata":{"type":"location","latitude":52.532364,"longitude":13.834793}}
+{"id":"900000320012","label":"Rehfelde, Bhf","metadata":{"type":"location","latitude":52.528398,"longitude":13.922681}}
+{"id":"900000320011","label":"Herrensee, Bhf","metadata":{"type":"location","latitude":52.529859,"longitude":13.887169}}
+{"id":"900000321435","label":"Gorgast, Bhf","metadata":{"type":"location","latitude":52.563484,"longitude":14.549582}}
+{"id":"900000321430","label":"Golzow (MOL), Bhf","metadata":{"type":"location","latitude":52.562581,"longitude":14.511563}}
+{"id":"900000321810","label":"Werbig (MOL), Bhf","metadata":{"type":"location","latitude":52.564729,"longitude":14.405614}}
+{"id":"900000321302","label":"Alt Rosenthal, Bhf","metadata":{"type":"location","latitude":52.550381,"longitude":14.278579}}
+{"id":"900000321780","label":"Trebnitz, Bhf","metadata":{"type":"location","latitude":52.538258,"longitude":14.216705}}
+{"id":"900000320015","label":"Obersdorf, Bhf","metadata":{"type":"location","latitude":52.536876,"longitude":14.167369}}
+{"id":"900000310042","label":"Bad Saarow, Klinikum","metadata":{"type":"location","latitude":52.284505,"longitude":14.06587}}
+{"id":"900000310040","label":"Bad Saarow, Bhf","metadata":{"type":"location","latitude":52.293603,"longitude":14.064754}}
+{"id":"900000310010","label":"Fürstenwalde, Süd","metadata":{"type":"location","latitude":52.341806,"longitude":14.086519}}
+{"id":"900000310001","label":"Fürstenwalde, Bhf","metadata":{"type":"location","latitude":52.367029,"longitude":14.059618}}
+{"id":"900000311129","label":"Beeskow, Bhf","metadata":{"type":"location","latitude":52.177662,"longitude":14.250828}}
+{"id":"900000310614","label":"Buckow (bei Beeskow), Bhf","metadata":{"type":"location","latitude":52.188919,"longitude":14.167639}}
+{"id":"900000310600","label":"Lindenberg (Mark), Bhf","metadata":{"type":"location","latitude":52.203775,"longitude":14.111804}}
+{"id":"900000310613","label":"Wendisch Rietz, Bhf","metadata":{"type":"location","latitude":52.206645,"longitude":14.009277}}
+{"id":"900000310612","label":"Storkow, Hubertushöhe","metadata":{"type":"location","latitude":52.233694,"longitude":13.965381}}
+{"id":"900000310611","label":"Storkow, Bhf","metadata":{"type":"location","latitude":52.25179,"longitude":13.921016}}
+{"id":"900000310610","label":"Kummersdorf (LOS), Bhf","metadata":{"type":"location","latitude":52.274787,"longitude":13.874902}}
+{"id":"900000260013","label":"Friedersdorf (LDS), Bhf","metadata":{"type":"location","latitude":52.289707,"longitude":13.786812}}
+{"id":"900000260012","label":"Kablow, Bhf","metadata":{"type":"location","latitude":52.30003,"longitude":13.721181}}
+{"id":"900000260011","label":"Zernsdorf, Bhf","metadata":{"type":"location","latitude":52.299356,"longitude":13.693242}}
+{"id":"900000260010","label":"Niederlehme, Bhf","metadata":{"type":"location","latitude":52.302015,"longitude":13.652101}}
+{"id":"900000260001","label":"S Königs Wusterhausen","metadata":{"type":"location","latitude":52.296719,"longitude":13.631534}}
+{"id":"900000360000","label":"Frankfurt (Oder), Bhf","metadata":{"type":"location","latitude":52.337218,"longitude":14.546913}}
+{"id":"900000360001","label":"Frankfurt (Oder), Neuberesinchen","metadata":{"type":"location","latitude":52.322545,"longitude":14.546612}}
+{"id":"900000311475","label":"Müllrose, Bhf","metadata":{"type":"location","latitude":52.24185,"longitude":14.434168}}
+{"id":"900000311470","label":"Mixdorf, Bhf","metadata":{"type":"location","latitude":52.197803,"longitude":14.394691}}
+{"id":"900000310060","label":"Grunow (LOS), Bhf","metadata":{"type":"location","latitude":52.163938,"longitude":14.378853}}
+{"id":"900000310616","label":"Beeskow, Schneeberg","metadata":{"type":"location","latitude":52.164491,"longitude":14.330484}}
+{"id":"900000310615","label":"Beeskow, Oegeln","metadata":{"type":"location","latitude":52.172777,"longitude":14.270727}}
+{"id":"900000321741","label":"Seelow, Bhf","metadata":{"type":"location","latitude":52.537774,"longitude":14.394425}}
+{"id":"900000321540","label":"Letschin, Bhf","metadata":{"type":"location","latitude":52.632768,"longitude":14.34758}}
+{"id":"900000321139","label":"Neutrebbin, Bhf","metadata":{"type":"location","latitude":52.676821,"longitude":14.235589}}
+{"id":"900000321168","label":"Wriezen, Bhf","metadata":{"type":"location","latitude":52.71588,"longitude":14.139886}}
+{"id":"900000321013","label":"Altranft, Bhf","metadata":{"type":"location","latitude":52.763235,"longitude":14.082453}}
+{"id":"900000321025","label":"Bad Freienwalde, Bhf","metadata":{"type":"location","latitude":52.790081,"longitude":14.036412}}
+{"id":"900000321068","label":"Falkenberg (MOL), Bhf","metadata":{"type":"location","latitude":52.807597,"longitude":13.959663}}
+{"id":"900000350493","label":"Niederfinow, Bhf","metadata":{"type":"location","latitude":52.830773,"longitude":13.928549}}
+{"id":"900000350127","label":"Eberswalde, Hbf","metadata":{"type":"location","latitude":52.833665,"longitude":13.797032}}
+{"id":"900000350137","label":"Biesenthal, Bhf","metadata":{"type":"location","latitude":52.755706,"longitude":13.674484}}
+{"id":"900000350160","label":"S Bernau","metadata":{"type":"location","latitude":52.676233,"longitude":13.593034}}
+{"id":"900000341110","label":"Schwedt, Bhf","metadata":{"type":"location","latitude":53.063044,"longitude":14.290626}}
+{"id":"900000341111","label":"Schwedt, Mitte","metadata":{"type":"location","latitude":53.068342,"longitude":14.271658}}
+{"id":"900000340003","label":"Pinnow (UM), Bhf","metadata":{"type":"location","latitude":53.065581,"longitude":14.089945}}
+{"id":"900000340004","label":"Angermünde, Bhf","metadata":{"type":"location","latitude":53.015587,"longitude":13.996753}}
+{"id":"900000340050","label":"Prenzlau, Bhf","metadata":{"type":"location","latitude":53.321614,"longitude":13.866558}}
+{"id":"900000340055","label":"Seehausen (UM), Bhf","metadata":{"type":"location","latitude":53.221029,"longitude":13.884549}}
+{"id":"900000340056","label":"Warnitz, Bhf","metadata":{"type":"location","latitude":53.183929,"longitude":13.877281}}
+{"id":"900000341270","label":"Wilmersdorf (bei Angermünde), Bhf","metadata":{"type":"location","latitude":53.111412,"longitude":13.893207}}
+{"id":"900000350124","label":"Britz, Bhf","metadata":{"type":"location","latitude":52.872932,"longitude":13.820549}}
+{"id":"900000350125","label":"Chorin, Bhf","metadata":{"type":"location","latitude":52.903551,"longitude":13.869724}}
+{"id":"900000320016","label":"Waldsieversdorf, Bhf","metadata":{"type":"location","latitude":52.542166,"longitude":14.086197}}
+{"id":"900000320818","label":"Buckow (Märkische Schweiz), Bhf","metadata":{"type":"location","latitude":52.561321,"longitude":14.07532}}
+{"id":"900000200006","label":"S Lehnitz","metadata":{"type":"location","latitude":52.741273,"longitude":13.263191}}
+{"id":"900000200007","label":"S Borgsdorf","metadata":{"type":"location","latitude":52.714491,"longitude":13.276771}}
+{"id":"900000200008","label":"S Birkenwerder","metadata":{"type":"location","latitude":52.687867,"longitude":13.288418}}
+{"id":"900000200009","label":"S Hohen Neuendorf","metadata":{"type":"location","latitude":52.669438,"longitude":13.287223}}
+{"id":"900000092201","label":"S Frohnau","metadata":{"type":"location","latitude":52.632958,"longitude":13.289564}}
+{"id":"900000093201","label":"S Hermsdorf","metadata":{"type":"location","latitude":52.618165,"longitude":13.306804}}
+{"id":"900000094101","label":"S Waidmannslust","metadata":{"type":"location","latitude":52.606814,"longitude":13.320549}}
+{"id":"900000084101","label":"S Wilhelmsruh","metadata":{"type":"location","latitude":52.581588,"longitude":13.363284}}
+{"id":"900000085201","label":"S Schönholz","metadata":{"type":"location","latitude":52.571901,"longitude":13.380242}}
+{"id":"900000130003","label":"S Wollankstr.","metadata":{"type":"location","latitude":52.564974,"longitude":13.39315}}
+{"id":"900000008101","label":"S Humboldthain","metadata":{"type":"location","latitude":52.544738,"longitude":13.37873}}
+{"id":"900000100025","label":"S+U Brandenburger Tor","metadata":{"type":"location","latitude":52.516511,"longitude":13.381937}}
+{"id":"900000012101","label":"S Anhalter Bahnhof","metadata":{"type":"location","latitude":52.504538,"longitude":13.382077}}
+{"id":"900000057104","label":"S Julius-Leber-Brücke","metadata":{"type":"location","latitude":52.486263,"longitude":13.360775}}
+{"id":"900000054104","label":"S Schöneberg","metadata":{"type":"location","latitude":52.479811,"longitude":13.352848}}
+{"id":"900000060101","label":"S Friedenau","metadata":{"type":"location","latitude":52.470002,"longitude":13.340598}}
+{"id":"900000063101","label":"S Feuerbachstr.","metadata":{"type":"location","latitude":52.463578,"longitude":13.332412}}
+{"id":"900000066102","label":"S Botanischer Garten","metadata":{"type":"location","latitude":52.447552,"longitude":13.306041}}
+{"id":"900000066101","label":"S Lichterfelde West","metadata":{"type":"location","latitude":52.443512,"longitude":13.294141}}
+{"id":"900000049202","label":"S Sundgauer Str.","metadata":{"type":"location","latitude":52.436187,"longitude":13.273501}}
+{"id":"900000049201","label":"S Zehlendorf","metadata":{"type":"location","latitude":52.431209,"longitude":13.259227}}
+{"id":"900000050301","label":"S Mexikoplatz","metadata":{"type":"location","latitude":52.437166,"longitude":13.23206}}
+{"id":"900000050355","label":"S Schlachtensee","metadata":{"type":"location","latitude":52.439806,"longitude":13.213986}}
+{"id":"900000052201","label":"S Nikolassee","metadata":{"type":"location","latitude":52.43121,"longitude":13.193298}}
+{"id":"900000350161","label":"S Bernau-Friedenstal","metadata":{"type":"location","latitude":52.668369,"longitude":13.564597}}
+{"id":"900000350163","label":"S Zepernick","metadata":{"type":"location","latitude":52.659218,"longitude":13.533143}}
+{"id":"900000350162","label":"S Röntgental","metadata":{"type":"location","latitude":52.649062,"longitude":13.514302}}
+{"id":"900000135001","label":"S Buch","metadata":{"type":"location","latitude":52.636614,"longitude":13.492452}}
+{"id":"900000143001","label":"S Karow","metadata":{"type":"location","latitude":52.615755,"longitude":13.470081}}
+{"id":"900000142001","label":"S Blankenburg","metadata":{"type":"location","latitude":52.591069,"longitude":13.442972}}
+{"id":"900000058101","label":"S Südkreuz","metadata":{"type":"location","latitude":52.475468,"longitude":13.365579}}
+{"id":"900000058102","label":"S Priesterweg","metadata":{"type":"location","latitude":52.459239,"longitude":13.356028}}
+{"id":"900000068301","label":"S Attilastr.","metadata":{"type":"location","latitude":52.447298,"longitude":13.361177}}
+{"id":"900000073101","label":"S Marienfelde","metadata":{"type":"location","latitude":52.423816,"longitude":13.375022}}
+{"id":"900000072101","label":"S Buckower Chaussee","metadata":{"type":"location","latitude":52.410919,"longitude":13.382689}}
+{"id":"900000074202","label":"S Schichauweg","metadata":{"type":"location","latitude":52.398563,"longitude":13.389457}}
+{"id":"900000074201","label":"S Lichtenrade","metadata":{"type":"location","latitude":52.387676,"longitude":13.396234}}
+{"id":"900000245028","label":"S Mahlow","metadata":{"type":"location","latitude":52.360164,"longitude":13.408775}}
+{"id":"900000245027","label":"S Blankenfelde (TF)","metadata":{"type":"location","latitude":52.337628,"longitude":13.415908}}
+{"id":"900000200000","label":"S Hennigsdorf","metadata":{"type":"location","latitude":52.637867,"longitude":13.205874}}
+{"id":"900000091203","label":"S Heiligensee","metadata":{"type":"location","latitude":52.625148,"longitude":13.228667}}
+{"id":"900000091205","label":"S Schulzendorf","metadata":{"type":"location","latitude":52.613513,"longitude":13.24563}}
+{"id":"900000089303","label":"S Tegel","metadata":{"type":"location","latitude":52.588805,"longitude":13.288695}}
+{"id":"900000096405","label":"S Eichborndamm","metadata":{"type":"location","latitude":52.577545,"longitude":13.315583}}
+{"id":"900000085105","label":"S Alt-Reinickendorf","metadata":{"type":"location","latitude":52.577969,"longitude":13.349747}}
+{"id":"900000063452","label":"S Südende","metadata":{"type":"location","latitude":52.448899,"longitude":13.354077}}
+{"id":"900000067221","label":"S Lankwitz","metadata":{"type":"location","latitude":52.439034,"longitude":13.34276}}
+{"id":"900000064301","label":"S Lichterfelde Ost","metadata":{"type":"location","latitude":52.429098,"longitude":13.328078}}
+{"id":"900000064256","label":"S Osdorfer Str.","metadata":{"type":"location","latitude":52.418373,"longitude":13.313865}}
+{"id":"900000064201","label":"S Lichterfelde Süd","metadata":{"type":"location","latitude":52.409956,"longitude":13.308662}}
+{"id":"900000220114","label":"S Teltow Stadt","metadata":{"type":"location","latitude":52.397147,"longitude":13.275975}}
+{"id":"900000120005","label":"S Ostbahnhof","metadata":{"type":"location","latitude":52.510001,"longitude":13.435747}}
+{"id":"900000160002","label":"S Betriebsbahnhof Rummelsburg","metadata":{"type":"location","latitude":52.493957,"longitude":13.497509}}
+{"id":"900000180002","label":"S Wuhlheide","metadata":{"type":"location","latitude":52.469058,"longitude":13.553527}}
+{"id":"900000182001","label":"S Hirschgarten","metadata":{"type":"location","latitude":52.457903,"longitude":13.60148}}
+{"id":"900000183001","label":"S Rahnsdorf","metadata":{"type":"location","latitude":52.451371,"longitude":13.691655}}
+{"id":"900000183002","label":"S Wilhelmshagen","metadata":{"type":"location","latitude":52.438571,"longitude":13.721004}}
+{"id":"900000310004","label":"S Erkner","metadata":{"type":"location","latitude":52.428396,"longitude":13.752249}}
+{"id":"900000024101","label":"S Charlottenburg","metadata":{"type":"location","latitude":52.504805,"longitude":13.303843}}
+{"id":"900000024203","label":"S Savignyplatz","metadata":{"type":"location","latitude":52.505223,"longitude":13.319003}}
+{"id":"900000003103","label":"S Tiergarten","metadata":{"type":"location","latitude":52.513959,"longitude":13.336241}}
+{"id":"900000003102","label":"S Bellevue","metadata":{"type":"location","latitude":52.519951,"longitude":13.347098}}
+{"id":"900000048101","label":"S Grunewald","metadata":{"type":"location","latitude":52.48868,"longitude":13.261944}}
+{"id":"900000024102","label":"S Westkreuz","metadata":{"type":"location","latitude":52.501152,"longitude":13.283036}}
+{"id":"900000029101","label":"S Spandau","metadata":{"type":"location","latitude":52.534798,"longitude":13.197477}}
+{"id":"900000030202","label":"S Stresow","metadata":{"type":"location","latitude":52.532505,"longitude":13.20913}}
+{"id":"900000025424","label":"S Pichelsberg","metadata":{"type":"location","latitude":52.510264,"longitude":13.227196}}
+{"id":"900000025321","label":"S Olympiastadion","metadata":{"type":"location","latitude":52.511135,"longitude":13.241111}}
+{"id":"900000026105","label":"S Heerstr.","metadata":{"type":"location","latitude":52.508273,"longitude":13.258514}}
+{"id":"900000025423","label":"S Messe Süd","metadata":{"type":"location","latitude":52.498771,"longitude":13.27045}}
+{"id":"900000044101","label":"S Hohenzollerndamm","metadata":{"type":"location","latitude":52.488337,"longitude":13.300714}}
+{"id":"900000040101","label":"S Halensee","metadata":{"type":"location","latitude":52.496698,"longitude":13.290151}}
+{"id":"900000024106","label":"S Messe Nord/ICC","metadata":{"type":"location","latitude":52.506454,"longitude":13.283043}}
+{"id":"900000026207","label":"S Westend","metadata":{"type":"location","latitude":52.51861,"longitude":13.284237}}
+{"id":"900000020202","label":"S Beusselstr.","metadata":{"type":"location","latitude":52.534314,"longitude":13.328703}}
+{"id":"900000110012","label":"S Storkower Str.","metadata":{"type":"location","latitude":52.524195,"longitude":13.464884}}
+{"id":"900000190001","label":"S Treptower Park","metadata":{"type":"location","latitude":52.493022,"longitude":13.460887}}
+{"id":"900000077106","label":"S Sonnenallee","metadata":{"type":"location","latitude":52.473843,"longitude":13.455986}}
+{"id":"900000077155","label":"S Köllnische Heide","metadata":{"type":"location","latitude":52.469168,"longitude":13.467529}}
+{"id":"900000191001","label":"S Baumschulenweg","metadata":{"type":"location","latitude":52.467581,"longitude":13.489505}}
+{"id":"900000193001","label":"S Betriebsbahnhof Schöneweide","metadata":{"type":"location","latitude":52.446695,"longitude":13.524028}}
+{"id":"900000195510","label":"S Altglienicke","metadata":{"type":"location","latitude":52.407791,"longitude":13.559602}}
+{"id":"900000196001","label":"S Grünbergallee","metadata":{"type":"location","latitude":52.399539,"longitude":13.543222}}
+{"id":"900000260005","label":"S Flughafen Berlin-Schönefeld","metadata":{"type":"location","latitude":52.390792,"longitude":13.513522}}
+{"id":"900000260004","label":"S Eichwalde","metadata":{"type":"location","latitude":52.372085,"longitude":13.614966}}
+{"id":"900000260003","label":"S Zeuthen","metadata":{"type":"location","latitude":52.349649,"longitude":13.627353}}
+{"id":"900000260002","label":"S Wildau","metadata":{"type":"location","latitude":52.319205,"longitude":13.633587}}
+{"id":"900000192002","label":"S Oberspree","metadata":{"type":"location","latitude":52.452269,"longitude":13.538461}}
+{"id":"900000160003","label":"S Nöldnerplatz","metadata":{"type":"location","latitude":52.503444,"longitude":13.484297}}
+{"id":"900000171001","label":"S Biesdorf","metadata":{"type":"location","latitude":52.513059,"longitude":13.555035}}
+{"id":"900000175002","label":"S Kaulsdorf","metadata":{"type":"location","latitude":52.512122,"longitude":13.58903}}
+{"id":"900000320026","label":"S Birkenstein","metadata":{"type":"location","latitude":52.515755,"longitude":13.648591}}
+{"id":"900000320008","label":"S Hoppegarten","metadata":{"type":"location","latitude":52.518141,"longitude":13.673889}}
+{"id":"900000320007","label":"S Neuenhagen","metadata":{"type":"location","latitude":52.520674,"longitude":13.699994}}
+{"id":"900000320006","label":"S Fredersdorf","metadata":{"type":"location","latitude":52.526461,"longitude":13.761324}}
+{"id":"900000320005","label":"S Petershagen Nord","metadata":{"type":"location","latitude":52.529185,"longitude":13.790627}}
+{"id":"900000320003","label":"S Hegermühle","metadata":{"type":"location","latitude":52.549039,"longitude":13.86679}}
+{"id":"900000320002","label":"S Strausberg Stadt","metadata":{"type":"location","latitude":52.57745,"longitude":13.888254}}
+{"id":"900000320001","label":"S Strausberg Nord","metadata":{"type":"location","latitude":52.5907,"longitude":13.908894}}
+{"id":"900000230000","label":"S Babelsberg","metadata":{"type":"location","latitude":52.391367,"longitude":13.094631}}
+{"id":"900000230003","label":"S Griebnitzsee","metadata":{"type":"location","latitude":52.393945,"longitude":13.128808}}
+{"id":"900000191002","label":"S Plänterwald","metadata":{"type":"location","latitude":52.478722,"longitude":13.474029}}
+{"id":"900000200011","label":"S Bergfelde","metadata":{"type":"location","latitude":52.669695,"longitude":13.321455}}
+{"id":"900000200012","label":"S Schönfließ","metadata":{"type":"location","latitude":52.66471,"longitude":13.33888}}
+{"id":"900000200013","label":"S Mühlenbeck-Mönchmühle","metadata":{"type":"location","latitude":52.654076,"longitude":13.388224}}
+{"id":"900000261512","label":"Lübben, Bhf","metadata":{"type":"location","latitude":51.940702,"longitude":13.876873}}
+{"id":"900000435602","label":"Lübbenau, Bhf","metadata":{"type":"location","latitude":51.862114,"longitude":13.962173}}
+{"id":"900000435697","label":"Raddusch, Bhf","metadata":{"type":"location","latitude":51.815924,"longitude":14.032319}}
+{"id":"900000435884","label":"Vetschau, Bhf","metadata":{"type":"location","latitude":51.789471,"longitude":14.081529}}
+{"id":"900000445956","label":"Kunersdorf (SPN), Bhf","metadata":{"type":"location","latitude":51.769027,"longitude":14.187491}}
+{"id":"900000445884","label":"Kolkwitz, Bhf","metadata":{"type":"location","latitude":51.757601,"longitude":14.250855}}
+{"id":"900000216026","label":"Wittenberge, Bhf","metadata":{"type":"location","latitude":53.002077,"longitude":11.762899}}
+{"id":"900000215110","label":"Bad Wilsnack, Bhf","metadata":{"type":"location","latitude":52.960139,"longitude":11.949455}}
+{"id":"900000215322","label":"Glöwen, Bhf","metadata":{"type":"location","latitude":52.903436,"longitude":12.084153}}
+{"id":"900000205250","label":"Breddin, Bhf","metadata":{"type":"location","latitude":52.886047,"longitude":12.223541}}
+{"id":"900000205488","label":"Neustadt (Dosse), Bhf","metadata":{"type":"location","latitude":52.853125,"longitude":12.450123}}
+{"id":"900000210456","label":"Friesack (Mark), Bhf","metadata":{"type":"location","latitude":52.760485,"longitude":12.587862}}
+{"id":"900000210423","label":"Paulinenaue, Bhf","metadata":{"type":"location","latitude":52.675805,"longitude":12.712467}}
+{"id":"900000210005","label":"Nauen, Bhf","metadata":{"type":"location","latitude":52.612335,"longitude":12.885156}}
+{"id":"900000210010","label":"Falkensee, Bhf","metadata":{"type":"location","latitude":52.5596,"longitude":13.089887}}
+{"id":"900000260019","label":"Brand, Tropical Islands","metadata":{"type":"location","latitude":52.029922,"longitude":13.721582}}
+{"id":"900000500351","label":"Wismar, Bhf","metadata":{"type":"location","latitude":53.89682,"longitude":11.469409}}
+{"id":"900000550207","label":"Dorf Mecklenburg, Bhf","metadata":{"type":"location","latitude":53.842679,"longitude":11.471552}}
+{"id":"900000550054","label":"Bad Kleinen, Bhf","metadata":{"type":"location","latitude":53.766651,"longitude":11.465788}}
+{"id":"900000550210","label":"Lübstorf, Bhf","metadata":{"type":"location","latitude":53.729415,"longitude":11.411441}}
+{"id":"900000550212","label":"Schwerin, Bhf Süd","metadata":{"type":"location","latitude":53.574834,"longitude":11.376994}}
+{"id":"900000550213","label":"Holthusen, Bhf","metadata":{"type":"location","latitude":53.555829,"longitude":11.364809}}
+{"id":"900000550214","label":"Sülstorf, Bhf","metadata":{"type":"location","latitude":53.514365,"longitude":11.387769}}
+{"id":"900000550215","label":"Rastow, Bhf","metadata":{"type":"location","latitude":53.457379,"longitude":11.431163}}
+{"id":"900000550216","label":"Lüblow(Meckl), Bhf","metadata":{"type":"location","latitude":53.411129,"longitude":11.463556}}
+{"id":"900000550076","label":"Grabow (Mecklenburg), Bhf","metadata":{"type":"location","latitude":53.282794,"longitude":11.563862}}
+{"id":"900000215455","label":"Karstädt (PR), Bhf","metadata":{"type":"location","latitude":53.159915,"longitude":11.738964}}
+{"id":"900000210326","label":"Brieselang, Bhf","metadata":{"type":"location","latitude":52.582598,"longitude":13.001286}}
+{"id":"900000210011","label":"Falkensee, Finkenkrug","metadata":{"type":"location","latitude":52.569498,"longitude":13.051784}}
+{"id":"900000210180","label":"Seegefeld, Bhf","metadata":{"type":"location","latitude":52.552757,"longitude":13.115827}}
+{"id":"900000037168","label":"Albrechtshof","metadata":{"type":"location","latitude":52.549447,"longitude":13.128968}}
+{"id":"900000003200","label":"S+U Berlin Hauptbahnhof (tief)","metadata":{"type":"location","latitude":52.525042,"longitude":13.369386}}
+{"id":"900000550209","label":"Moidentin, Bhf","metadata":{"type":"location","latitude":53.80621,"longitude":11.481953}}
+{"id":"900000210318","label":"Nennhausen, Bhf","metadata":{"type":"location","latitude":52.599921,"longitude":12.502762}}
+{"id":"900000210050","label":"Buschow, Bhf","metadata":{"type":"location","latitude":52.59216,"longitude":12.629499}}
+{"id":"900000210003","label":"Wustermark, Bhf","metadata":{"type":"location","latitude":52.551836,"longitude":12.938826}}
+{"id":"900000210006","label":"Elstal, Bhf","metadata":{"type":"location","latitude":52.547316,"longitude":12.999097}}
+{"id":"900000210007","label":"Dallgow-Döberitz, Bhf","metadata":{"type":"location","latitude":52.543674,"longitude":13.05836}}
+{"id":"900000029305","label":"Staaken","metadata":{"type":"location","latitude":52.53752,"longitude":13.141852}}
+{"id":"900000220001","label":"Teltow, Bhf","metadata":{"type":"location","latitude":52.38845,"longitude":13.299594}}
+{"id":"900000245032","label":"Großbeeren, Bhf","metadata":{"type":"location","latitude":52.350025,"longitude":13.284362}}
+{"id":"900000245030","label":"Ludwigsfelde, Birkengrund","metadata":{"type":"location","latitude":52.315694,"longitude":13.271782}}
+{"id":"900000245029","label":"Ludwigsfelde, Bhf","metadata":{"type":"location","latitude":52.299211,"longitude":13.267601}}
+{"id":"900000245016","label":"Luckenwalde, Bhf","metadata":{"type":"location","latitude":52.090609,"longitude":13.16116}}
+{"id":"900000550114","label":"Stendal, Bhf","metadata":{"type":"location","latitude":52.595007,"longitude":11.854614}}
+{"id":"900000245037","label":"Thyrow, Bhf","metadata":{"type":"location","latitude":52.247121,"longitude":13.259936}}
+{"id":"900000245010","label":"Trebbin, Bhf","metadata":{"type":"location","latitude":52.216898,"longitude":13.229888}}
+{"id":"900000245014","label":"Woltersdorf (Nuthe-Urstromtal), Bhf","metadata":{"type":"location","latitude":52.116885,"longitude":13.193933}}
+{"id":"900000003254","label":"U Bundestag","metadata":{"type":"location","latitude":52.519908,"longitude":13.373454}}
+{"id":"900000360132","label":"Frankfurt (Oder), Stadion","metadata":{"type":"location","latitude":52.334101,"longitude":14.554701}}
+{"id":"900000360015","label":"Frankfurt (Oder), Anger","metadata":{"type":"location","latitude":52.337362,"longitude":14.552732}}
+{"id":"900000360044","label":"Frankfurt (Oder), Gertraudenkirche","metadata":{"type":"location","latitude":52.339254,"longitude":14.552064}}
+{"id":"900000360151","label":"Frankfurt (Oder), Zentrum","metadata":{"type":"location","latitude":52.341934,"longitude":14.548299}}
+{"id":"900000360037","label":"Frankfurt (Oder), Dresdener Platz","metadata":{"type":"location","latitude":52.336706,"longitude":14.542836}}
+{"id":"900000360065","label":"Frankfurt (Oder), Johann-Eichorn-Str.","metadata":{"type":"location","latitude":52.332558,"longitude":14.539117}}
+{"id":"900000360025","label":"Frankfurt (Oder), Birkenallee","metadata":{"type":"location","latitude":52.328288,"longitude":14.539122}}
+{"id":"900000360148","label":"Frankfurt (Oder), Wintergarten","metadata":{"type":"location","latitude":52.325814,"longitude":14.544658}}
+{"id":"900000360101","label":"Frankfurt (Oder), Mühlenweg","metadata":{"type":"location","latitude":52.322478,"longitude":14.54055}}
+{"id":"900000360103","label":"Frankfurt (Oder), Neuberesinchen","metadata":{"type":"location","latitude":52.3223,"longitude":14.536285}}
+{"id":"900000360038","label":"Frankfurt (Oder), Europa-Universität","metadata":{"type":"location","latitude":52.341022,"longitude":14.55683}}
+{"id":"900000360107","label":"Frankfurt (Oder), Oderturm","metadata":{"type":"location","latitude":52.341804,"longitude":14.551403}}
+{"id":"900000360136","label":"Frankfurt (Oder), Betriebshof SVF","metadata":{"type":"location","latitude":52.320144,"longitude":14.537893}}
+{"id":"900000360026","label":"Frankfurt (Oder), Gartenstr.","metadata":{"type":"location","latitude":52.341148,"longitude":14.554993}}
+{"id":"900000360097","label":"Frankfurt (Oder), Messegelände","metadata":{"type":"location","latitude":52.347104,"longitude":14.49944}}
+{"id":"900000360146","label":"Frankfurt (Oder), Westkreuz","metadata":{"type":"location","latitude":52.347393,"longitude":14.505753}}
+{"id":"900000360095","label":"Frankfurt (Oder), Immenweg","metadata":{"type":"location","latitude":52.347793,"longitude":14.508521}}
+{"id":"900000360043","label":"Frankfurt (Oder), G.-Hauptmann-Str.","metadata":{"type":"location","latitude":52.3471,"longitude":14.515321}}
+{"id":"900000360114","label":"Frankfurt (Oder), Witzlebenstr.","metadata":{"type":"location","latitude":52.345946,"longitude":14.521376}}
+{"id":"900000360071","label":"Frankfurt (Oder), Kießlingplatz","metadata":{"type":"location","latitude":52.34452,"longitude":14.524979}}
+{"id":"900000360067","label":"Frankfurt (Oder), Kantstr.","metadata":{"type":"location","latitude":52.342818,"longitude":14.533101}}
+{"id":"900000360072","label":"Frankfurt (Oder), Kleistpark","metadata":{"type":"location","latitude":52.3428,"longitude":14.538575}}
+{"id":"900000360021","label":"Frankfurt (Oder), Kleist Forum","metadata":{"type":"location","latitude":52.342132,"longitude":14.543688}}
+{"id":"900000360059","label":"Frankfurt (Oder), Heinrich-Hildebrand-Str.","metadata":{"type":"location","latitude":52.333678,"longitude":14.534721}}
+{"id":"900000360041","label":"Frankfurt (Oder), Friedhof","metadata":{"type":"location","latitude":52.331274,"longitude":14.527349}}
+{"id":"900000360081","label":"Frankfurt (Oder), Kräuterweg","metadata":{"type":"location","latitude":52.329006,"longitude":14.522863}}
+{"id":"900000360135","label":"Frankfurt (Oder), Südring","metadata":{"type":"location","latitude":52.327613,"longitude":14.519908}}
+{"id":"900000360079","label":"Frankfurt (Oder), Kopernikusstr.","metadata":{"type":"location","latitude":52.327171,"longitude":14.511776}}
+{"id":"900000360226","label":"Frankfurt (Oder), Gartenstadt","metadata":{"type":"location","latitude":52.326369,"longitude":14.504858}}
+{"id":"900000360040","label":"Frankfurt (Oder), Astronergy Solarmodule","metadata":{"type":"location","latitude":52.322256,"longitude":14.502131}}
+{"id":"900000360139","label":"Frankfurt (Oder), Technologiepark","metadata":{"type":"location","latitude":52.317862,"longitude":14.500328}}
+{"id":"900000360096","label":"Frankfurt (Oder), Markendorf Siedlung","metadata":{"type":"location","latitude":52.312149,"longitude":14.489534}}
+{"id":"900000360078","label":"Frankfurt (Oder), Klinikum","metadata":{"type":"location","latitude":52.302751,"longitude":14.481177}}
+{"id":"900000360050","label":"Frankfurt (Oder), Fuchsweg","metadata":{"type":"location","latitude":52.297908,"longitude":14.472944}}
+{"id":"900000360213","label":"Frankfurt (Oder), Markendorf Ort","metadata":{"type":"location","latitude":52.293391,"longitude":14.46847}}
+{"id":"900000360084","label":"Frankfurt (Oder), Lebuser Vorstadt","metadata":{"type":"location","latitude":52.363028,"longitude":14.540968}}
+{"id":"900000360105","label":"Frankfurt (Oder), Neue Welt","metadata":{"type":"location","latitude":52.360499,"longitude":14.543172}}
+{"id":"900000360012","label":"Frankfurt (Oder), Am Winterhafen","metadata":{"type":"location","latitude":52.356314,"longitude":14.546734}}
+{"id":"900000360076","label":"Frankfurt (Oder), Klingestr.","metadata":{"type":"location","latitude":52.352241,"longitude":14.548452}}
+{"id":"900000360141","label":"Frankfurt (Oder), Topfmarkt/Konzerthalle","metadata":{"type":"location","latitude":52.349808,"longitude":14.549545}}
+{"id":"900000360123","label":"Frankfurt (Oder), Magistrale","metadata":{"type":"location","latitude":52.345467,"longitude":14.550778}}
+{"id":"900000360227","label":"Frankfurt (Oder), Brunnenplatz","metadata":{"type":"location","latitude":52.342955,"longitude":14.550985}}
+{"id":"900000205524","label":"Rheinsberg, Bhf","metadata":{"type":"location","latitude":53.093029,"longitude":12.900147}}
+{"id":"900000205400","label":"Lindow (Mark), Bhf","metadata":{"type":"location","latitude":52.961199,"longitude":12.982292}}
+{"id":"900000205011","label":"Herzberg (Mark), Bhf","metadata":{"type":"location","latitude":52.905944,"longitude":12.976686}}
+{"id":"900000260014","label":"Zeesen, Bhf","metadata":{"type":"location","latitude":52.264919,"longitude":13.634857}}
+{"id":"900000260611","label":"Bestensee, Bhf","metadata":{"type":"location","latitude":52.242283,"longitude":13.634536}}
+{"id":"900000260017","label":"Halbe, Bhf","metadata":{"type":"location","latitude":52.10872,"longitude":13.70186}}
+{"id":"900000260018","label":"Oderin, Bhf","metadata":{"type":"location","latitude":52.075217,"longitude":13.726914}}
+{"id":"900000261871","label":"Schönwalde (Spreewald), Bhf","metadata":{"type":"location","latitude":51.991496,"longitude":13.776715}}
+{"id":"900000261549","label":"Lubolz, Bhf","metadata":{"type":"location","latitude":51.962401,"longitude":13.82131}}
+{"id":"900000350164","label":"Schönerlinde (BAR), Bhf","metadata":{"type":"location","latitude":52.652166,"longitude":13.428669}}
+{"id":"900000350165","label":"Schönwalde (BAR), Bhf","metadata":{"type":"location","latitude":52.67965,"longitude":13.432257}}
+{"id":"900000350149","label":"Basdorf (BAR), Bhf","metadata":{"type":"location","latitude":52.715462,"longitude":13.43386}}
+{"id":"900000203211","label":"Zühlsdorf, Bhf","metadata":{"type":"location","latitude":52.733089,"longitude":13.40283}}
+{"id":"900000200035","label":"Wensickendorf, Bhf","metadata":{"type":"location","latitude":52.754932,"longitude":13.386379}}
+{"id":"900000200033","label":"Schmachtenhagen (OHV), Bhf","metadata":{"type":"location","latitude":52.7756,"longitude":13.337214}}
+{"id":"900000350169","label":"Wandlitz, Bhf","metadata":{"type":"location","latitude":52.745357,"longitude":13.466607}}
+{"id":"900000350170","label":"Wandlitz, Wandlitzsee","metadata":{"type":"location","latitude":52.755995,"longitude":13.47403}}
+{"id":"900000350154","label":"Klosterfelde, Bhf","metadata":{"type":"location","latitude":52.79121,"longitude":13.488148}}
+{"id":"900000200040","label":"Lottschesee, Bhf","metadata":{"type":"location","latitude":52.815074,"longitude":13.498561}}
+{"id":"900000350159","label":"Ruhlsdorf-Zerpenschleuse, Bhf","metadata":{"type":"location","latitude":52.843899,"longitude":13.54242}}
+{"id":"900000350153","label":"Klandorf, Bhf","metadata":{"type":"location","latitude":52.877954,"longitude":13.555928}}
+{"id":"900000350152","label":"Groß Schönebeck, Bhf","metadata":{"type":"location","latitude":52.904329,"longitude":13.537432}}
+{"id":"900000470337","label":"Cottbus, Stadthalle/Post","metadata":{"type":"location","latitude":51.761185,"longitude":14.329936}}
+{"id":"900000470102","label":"Cottbus, Altmarkt","metadata":{"type":"location","latitude":51.76084,"longitude":14.335892}}
+{"id":"900000470237","label":"Cottbus, Sandower Brücke","metadata":{"type":"location","latitude":51.762302,"longitude":14.339661}}
+{"id":"900000470103","label":"Cottbus, Am Doll","metadata":{"type":"location","latitude":51.762643,"longitude":14.345546}}
+{"id":"900000470172","label":"Cottbus, Hermann-Hammerschmidt-Str.","metadata":{"type":"location","latitude":51.759367,"longitude":14.351156}}
+{"id":"900000470407","label":"Cottbus, Betriebshof Schmellwitz","metadata":{"type":"location","latitude":51.787961,"longitude":14.331398}}
+{"id":"900000470214","label":"Cottbus, Neu Schmellwitz","metadata":{"type":"location","latitude":51.78785,"longitude":14.343289}}
+{"id":"900000470215","label":"Cottbus, Neu Schmellwitz Zuschka","metadata":{"type":"location","latitude":51.785413,"longitude":14.343786}}
+{"id":"900000470216","label":"Cottbus, Neue Str.","metadata":{"type":"location","latitude":51.780747,"longitude":14.345442}}
+{"id":"900000470402","label":"Cottbus, Sportpalast","metadata":{"type":"location","latitude":51.775268,"longitude":14.346259}}
+{"id":"900000470222","label":"Cottbus, Nordring","metadata":{"type":"location","latitude":51.771526,"longitude":14.340654}}
+{"id":"900000470119","label":"Cottbus, Bonnaskenplatz","metadata":{"type":"location","latitude":51.767937,"longitude":14.334766}}
+{"id":"900000470303","label":"Cottbus, Zimmerstr.","metadata":{"type":"location","latitude":51.765535,"longitude":14.333063}}
+{"id":"900000470268","label":"Cottbus, Stadthalle/Puschkinpromenade","metadata":{"type":"location","latitude":51.761734,"longitude":14.33102}}
+{"id":"900000470197","label":"Cottbus, Lutherstr.","metadata":{"type":"location","latitude":51.747362,"longitude":14.328766}}
+{"id":"900000470161","label":"Cottbus, Görlitzer Str. (Nord)","metadata":{"type":"location","latitude":51.749794,"longitude":14.332797}}
+{"id":"900000470205","label":"Cottbus, Marienstr./Busbahnhof","metadata":{"type":"location","latitude":51.753357,"longitude":14.333376}}
+{"id":"900000470269","label":"Cottbus, Stadtpromenade","metadata":{"type":"location","latitude":51.757445,"longitude":14.332559}}
+{"id":"900000470293","label":"Cottbus, Schillerstr.","metadata":{"type":"location","latitude":51.761238,"longitude":14.325033}}
+{"id":"900000470250","label":"Cottbus, Ströbitzer Weg","metadata":{"type":"location","latitude":51.760317,"longitude":14.31964}}
+{"id":"900000470115","label":"Cottbus, Waisenstr.","metadata":{"type":"location","latitude":51.758852,"longitude":14.31506}}
+{"id":"900000470149","label":"Cottbus, Ewald-Müller-Str.","metadata":{"type":"location","latitude":51.756985,"longitude":14.309909}}
+{"id":"900000470274","label":"Cottbus, Ströbitz Hans-Sachs-Str.","metadata":{"type":"location","latitude":51.754612,"longitude":14.3044}}
+{"id":"900000470201","label":"Cottbus, Madlow","metadata":{"type":"location","latitude":51.72119,"longitude":14.34612}}
+{"id":"900000470228","label":"Cottbus, Priorstr.","metadata":{"type":"location","latitude":51.725134,"longitude":14.343097}}
+{"id":"900000470408","label":"Cottbus, Badesee Madlow","metadata":{"type":"location","latitude":51.731892,"longitude":14.339147}}
+{"id":"900000470279","label":"Cottbus, Südfriedhof","metadata":{"type":"location","latitude":51.737467,"longitude":14.335887}}
+{"id":"900000470265","label":"Cottbus, Sportzentrum","metadata":{"type":"location","latitude":51.740943,"longitude":14.333808}}
+{"id":"900000470223","label":"Cottbus, Ottilienstr.","metadata":{"type":"location","latitude":51.7451,"longitude":14.331314}}
+{"id":"900000470332","label":"Cottbus, Görlitzer Str. (Süd)","metadata":{"type":"location","latitude":51.748137,"longitude":14.332156}}
+{"id":"900000470304","label":"Cottbus, Sachsendorf","metadata":{"type":"location","latitude":51.720631,"longitude":14.325857}}
+{"id":"900000470249","label":"Cottbus, Schwarzheider Str.","metadata":{"type":"location","latitude":51.724252,"longitude":14.325956}}
+{"id":"900000470326","label":"Cottbus, Gelsenkirchener Platz","metadata":{"type":"location","latitude":51.728132,"longitude":14.326575}}
+{"id":"900000470284","label":"Cottbus, Thierbacher Str.","metadata":{"type":"location","latitude":51.731078,"longitude":14.32761}}
+{"id":"900000470230","label":"Cottbus, Saarbrücker Str.","metadata":{"type":"location","latitude":51.7364,"longitude":14.324423}}
+{"id":"900000470175","label":"Cottbus, Hufelandstr.","metadata":{"type":"location","latitude":51.740777,"longitude":14.324474}}
+{"id":"900000470282","label":"Cottbus, Thiemstr./Klinikum","metadata":{"type":"location","latitude":51.743953,"longitude":14.326607}}
+{"id":"900000470193","label":"Cottbus, Görlitzer Str. (West)","metadata":{"type":"location","latitude":51.749076,"longitude":14.331462}}
+{"id":"900000500402","label":"Chemnitz, Hbf","metadata":{"type":"location","latitude":50.839245,"longitude":12.931404}}
+{"id":"900000550295","label":"Chemnitz, Bhf Kinderwaldstätte","metadata":{"type":"location","latitude":50.883701,"longitude":12.953194}}
+{"id":"900000550294","label":"Oberlichtenau, Bhf","metadata":{"type":"location","latitude":50.907943,"longitude":12.95905}}
+{"id":"900000550293","label":"Ottendorf(Mittweida), Bhf","metadata":{"type":"location","latitude":50.93632,"longitude":12.952649}}
+{"id":"900000550292","label":"Altmittweida, Bhf","metadata":{"type":"location","latitude":50.968355,"longitude":12.959568}}
+{"id":"900000500401","label":"Mittweida, Bhf","metadata":{"type":"location","latitude":50.987545,"longitude":12.95985}}
+{"id":"900000550291","label":"Erlau(Sachsen), Bhf","metadata":{"type":"location","latitude":51.00905,"longitude":12.942939}}
+{"id":"900000550290","label":"Schweikershain, Bhf","metadata":{"type":"location","latitude":51.036448,"longitude":12.954074}}
+{"id":"900000550289","label":"Waldheim, Bhf","metadata":{"type":"location","latitude":51.076994,"longitude":13.014341}}
+{"id":"900000550288","label":"Steina, Bhf","metadata":{"type":"location","latitude":51.103112,"longitude":13.022038}}
+{"id":"900000550287","label":"Limmritz (Sachsen), Bhf","metadata":{"type":"location","latitude":51.117806,"longitude":13.049698}}
+{"id":"900000500400","label":"Döbeln, Hbf","metadata":{"type":"location","latitude":51.126748,"longitude":13.094999}}
+{"id":"900000550286","label":"Zschaitz, Bhf","metadata":{"type":"location","latitude":51.168796,"longitude":13.156876}}
+{"id":"900000550285","label":"Ostrau, Bhf","metadata":{"type":"location","latitude":51.200058,"longitude":13.166144}}
+{"id":"900000550284","label":"Stauchitz, Bhf","metadata":{"type":"location","latitude":51.242972,"longitude":13.212083}}
+{"id":"900000550283","label":"Seerhausen, Bhf","metadata":{"type":"location","latitude":51.270691,"longitude":13.241501}}
+{"id":"900000419115","label":"Riesa, Bhf/Busbahnhof","metadata":{"type":"location","latitude":51.309165,"longitude":13.287888}}
+{"id":"900000550282","label":"Zeithain, Bhf","metadata":{"type":"location","latitude":51.329994,"longitude":13.344545}}
+{"id":"900000550281","label":"Wülknitz, Bhf","metadata":{"type":"location","latitude":51.368967,"longitude":13.389429}}
+{"id":"900000419153","label":"Tiefenau, Bhf","metadata":{"type":"location","latitude":51.390802,"longitude":13.414171}}
+{"id":"900000550280","label":"Gröditz, Bhf","metadata":{"type":"location","latitude":51.411543,"longitude":13.439678}}
+{"id":"900000416053","label":"Prösen, West","metadata":{"type":"location","latitude":51.424321,"longitude":13.469436}}
+{"id":"900000415465","label":"Prösen, Bhf","metadata":{"type":"location","latitude":51.434892,"longitude":13.488202}}
+{"id":"900000415502","label":"Elsterwerda, Bhf","metadata":{"type":"location","latitude":51.459716,"longitude":13.517418}}
+{"id":"900000350811","label":"Joachimsthal, Bhf","metadata":{"type":"location","latitude":52.980308,"longitude":13.74954}}
+{"id":"900000350502","label":"Joachimsthal, Kaiserbahnhof","metadata":{"type":"location","latitude":52.963882,"longitude":13.75486}}
+{"id":"900000350809","label":"Althüttendorf, Bhf","metadata":{"type":"location","latitude":52.957478,"longitude":13.783561}}
+{"id":"900000350060","label":"Golzow (BAR), Bhf","metadata":{"type":"location","latitude":52.913974,"longitude":13.82688}}
+{"id":"900000340779","label":"Templin-Ahrensdorf (UM), Bhf","metadata":{"type":"location","latitude":53.112259,"longitude":13.576159}}
+{"id":"900000340752","label":"Milmersdorf, Bhf","metadata":{"type":"location","latitude":53.099557,"longitude":13.636881}}
+{"id":"900000340749","label":"Götschendorf, Bhf","metadata":{"type":"location","latitude":53.086649,"longitude":13.666353}}
+{"id":"900000340028","label":"Ringenwalde (UM), Bhf","metadata":{"type":"location","latitude":53.057011,"longitude":13.707459}}
+{"id":"900000350050","label":"Friedrichswalde, Bhf","metadata":{"type":"location","latitude":53.029815,"longitude":13.703052}}
+{"id":"900000320239","label":"Alt Rüdersdorf, Straßenbahnschleife","metadata":{"type":"location","latitude":52.466404,"longitude":13.805485}}
+{"id":"900000320249","label":"Rüdersdorf, Marienstr.","metadata":{"type":"location","latitude":52.468411,"longitude":13.801182}}
+{"id":"900000320248","label":"Rüdersdorf, Breitscheidstr.","metadata":{"type":"location","latitude":52.468628,"longitude":13.791684}}
+{"id":"900000320241","label":"Rüdersdorf, Rathaus","metadata":{"type":"location","latitude":52.470397,"longitude":13.786428}}
+{"id":"900000320246","label":"Rüdersdorf, Marktplatz","metadata":{"type":"location","latitude":52.471533,"longitude":13.783177}}
+{"id":"900000320247","label":"Rüdersdorf, Heinitzstr.","metadata":{"type":"location","latitude":52.473027,"longitude":13.776482}}
+{"id":"900000320240","label":"Rüdersdorf, Torellplatz","metadata":{"type":"location","latitude":52.474278,"longitude":13.770998}}
+{"id":"900000320245","label":"Rüdersdorf, Berghof","metadata":{"type":"location","latitude":52.473579,"longitude":13.761241}}
+{"id":"900000320244","label":"Rüdersdorf, Berghof-Weiche","metadata":{"type":"location","latitude":52.473347,"longitude":13.752018}}
+{"id":"900000310517","label":"Schöneiche (bei Berlin), Kalkberger Str.","metadata":{"type":"location","latitude":52.472355,"longitude":13.737659}}
+{"id":"900000310516","label":"Schöneiche (bei Berlin), Jägerstr.","metadata":{"type":"location","latitude":52.472743,"longitude":13.730815}}
+{"id":"900000310515","label":"Schöneiche (bei Berlin), Grätzwalde","metadata":{"type":"location","latitude":52.474389,"longitude":13.712835}}
+{"id":"900000310525","label":"Schöneiche (bei Berlin), Schillerstr.","metadata":{"type":"location","latitude":52.477494,"longitude":13.708805}}
+{"id":"900000310021","label":"Schöneiche (bei Berlin), Dorfaue","metadata":{"type":"location","latitude":52.479121,"longitude":13.700728}}
+{"id":"900000310513","label":"Schöneiche (bei Berlin), Dorfstr.","metadata":{"type":"location","latitude":52.478984,"longitude":13.695202}}
+{"id":"900000310512","label":"Schöneiche (bei Berlin), Rahnsdorfer Str.","metadata":{"type":"location","latitude":52.47465,"longitude":13.692239}}
+{"id":"900000310511","label":"Schöneiche (bei Berlin), Goethepark","metadata":{"type":"location","latitude":52.470813,"longitude":13.688383}}
+{"id":"900000310510","label":"Schöneiche (bei Berlin), Waldstr.","metadata":{"type":"location","latitude":52.467602,"longitude":13.681623}}
+{"id":"900000182514","label":"Brösener Str.","metadata":{"type":"location","latitude":52.458638,"longitude":13.635744}}
+{"id":"900000310017","label":"Woltersdorf (LOS), Schleuse","metadata":{"type":"location","latitude":52.442993,"longitude":13.764271}}
+{"id":"900000310509","label":"Woltersdorf (LOS), Krankenhaus","metadata":{"type":"location","latitude":52.447421,"longitude":13.761477}}
+{"id":"900000310508","label":"Woltersdorf (LOS), Blumenstr.","metadata":{"type":"location","latitude":52.449448,"longitude":13.759449}}
+{"id":"900000310016","label":"Woltersdorf (LOS), Thälmannplatz","metadata":{"type":"location","latitude":52.450747,"longitude":13.752124}}
+{"id":"900000310507","label":"Woltersdorf (LOS), Fasanenstr.","metadata":{"type":"location","latitude":52.45306,"longitude":13.744284}}
+{"id":"900000310543","label":"Woltersdorf (LOS), Berliner Platz","metadata":{"type":"location","latitude":52.454254,"longitude":13.738843}}
+{"id":"900000310506","label":"Woltersdorf (LOS), Lerchenstr.","metadata":{"type":"location","latitude":52.455171,"longitude":13.734584}}
+{"id":"900000310505","label":"Woltersdorf (LOS), Eichendamm","metadata":{"type":"location","latitude":52.455664,"longitude":13.730984}}
+{"id":"900000310504","label":"Woltersdorf (LOS), Goethestr.","metadata":{"type":"location","latitude":52.455587,"longitude":13.726391}}
+{"id":"900000360016","label":"Frankfurt (Oder), Helenesee","metadata":{"type":"location","latitude":52.279706,"longitude":14.479361}}
+{"id":"900000320522","label":"Strausberg, Landhausstr.","metadata":{"type":"location","latitude":52.537242,"longitude":13.843905}}
+{"id":"900000320516","label":"Strausberg, Schlagmühle","metadata":{"type":"location","latitude":52.545996,"longitude":13.856828}}
+{"id":"900000320036","label":"Strausberg, Am Stadtwald","metadata":{"type":"location","latitude":52.55096,"longitude":13.861239}}
+{"id":"900000320024","label":"Strausberg, Hegermühle","metadata":{"type":"location","latitude":52.555722,"longitude":13.865304}}
+{"id":"900000320526","label":"Strausberg, Heinrich-Heine-Str.","metadata":{"type":"location","latitude":52.562875,"longitude":13.867113}}
+{"id":"900000320518","label":"Strausberg, Käthe-Kollwitz-Str.","metadata":{"type":"location","latitude":52.566042,"longitude":13.869179}}
+{"id":"900000320519","label":"Strausberg, Elisabethstr.","metadata":{"type":"location","latitude":52.571609,"longitude":13.87632}}
+{"id":"900000320025","label":"Strausberg, Lustgarten","metadata":{"type":"location","latitude":52.576202,"longitude":13.880868}}
+{"id":"900000500123","label":"Seebad Heringsdorf, Bhf","metadata":{"type":"location","latitude":53.949568,"longitude":14.170134}}
+{"id":"900000550242","label":"Seebad Heringsdorf, Bhf Neuhof","metadata":{"type":"location","latitude":53.952765,"longitude":14.148254}}
+{"id":"900000550243","label":"Bansin, Bhf Seebad","metadata":{"type":"location","latitude":53.964117,"longitude":14.130993}}
+{"id":"900000550244","label":"Schmollensee, Bhf","metadata":{"type":"location","latitude":53.982276,"longitude":14.077247}}
+{"id":"900000559831","label":"Neu Pudagla","metadata":{"type":"location","latitude":54.000336,"longitude":14.065198}}
+{"id":"900000550245","label":"Ückeritz, Bhf","metadata":{"type":"location","latitude":54.013921,"longitude":14.049804}}
+{"id":"900000550246","label":"Stubbenfelde, Bhf","metadata":{"type":"location","latitude":54.028684,"longitude":14.032917}}
+{"id":"900000550247","label":"Kölpinsee, Bhf","metadata":{"type":"location","latitude":54.035287,"longitude":14.022905}}
+{"id":"900000550248","label":"Koserow, Bhf","metadata":{"type":"location","latitude":54.045307,"longitude":13.999236}}
+{"id":"900000550249","label":"Zempin, Bhf","metadata":{"type":"location","latitude":54.065974,"longitude":13.959456}}
+{"id":"900000500129","label":"Zinnowitz, Bhf","metadata":{"type":"location","latitude":54.075564,"longitude":13.903357}}
+{"id":"900000550250","label":"Trassenheide, Bhf","metadata":{"type":"location","latitude":54.081431,"longitude":13.869042}}
+{"id":"900000550251","label":"Bannemin-Mölschow, Bhf","metadata":{"type":"location","latitude":54.071446,"longitude":13.83654}}
+{"id":"900000550252","label":"Wolgaster Fähre, Bhf","metadata":{"type":"location","latitude":54.056378,"longitude":13.790622}}
+{"id":"900000550012","label":"Wolgast, Bhf Wolgast Hafen","metadata":{"type":"location","latitude":54.051846,"longitude":13.779966}}
+{"id":"900000550011","label":"Wolgast, Bhf","metadata":{"type":"location","latitude":54.043946,"longitude":13.769094}}
+{"id":"000008013133","label":"Trassenmoor","metadata":{"type":"location","latitude":54.091046,"longitude":13.86781}}
+{"id":"000008011992","label":"Karlshagen","metadata":{"type":"location","latitude":54.116755,"longitude":13.83143}}
+{"id":"000008012617","label":"Peenemünde","metadata":{"type":"location","latitude":54.138762,"longitude":13.773084}}
+{"id":"900000810109","label":"Forst(Gr)","metadata":{"type":"location","latitude":51.736373,"longitude":14.661884}}
+{"id":"900000341007","label":"Passow, Bhf","metadata":{"type":"location","latitude":53.148344,"longitude":14.100766}}
+{"id":"900000340025","label":"Schönow (UM), Bhf","metadata":{"type":"location","latitude":53.184917,"longitude":14.153873}}
+{"id":"900000340061","label":"Casekow, Bhf","metadata":{"type":"location","latitude":53.213416,"longitude":14.207325}}
+{"id":"900000340011","label":"Petershagen (UM), Bhf","metadata":{"type":"location","latitude":53.240043,"longitude":14.252641}}
+{"id":"900000341224","label":"Tantow, Bhf","metadata":{"type":"location","latitude":53.270755,"longitude":14.350222}}
+{"id":"900000810014","label":"Szczecin, Gumience","metadata":{"type":"location","latitude":53.39779,"longitude":14.495159}}
+{"id":"900000810013","label":"Szczecin, Glowny","metadata":{"type":"location","latitude":53.418155,"longitude":14.549204}}
+{"id":"900000230007","label":"Potsdam, Park Sanssouci","metadata":{"type":"location","latitude":52.394052,"longitude":13.015165}}
+{"id":"900000220009","label":"Werder (Havel), Bhf","metadata":{"type":"location","latitude":52.392678,"longitude":12.926129}}
+{"id":"900000446103","label":"Peitz, Ost","metadata":{"type":"location","latitude":51.844073,"longitude":14.448949}}
+{"id":"900000445750","label":"Jänschwalde, Bhf","metadata":{"type":"location","latitude":51.866457,"longitude":14.500611}}
+{"id":"900000445751","label":"Jänschwalde, Ost","metadata":{"type":"location","latitude":51.877718,"longitude":14.54099}}
+{"id":"900000445801","label":"Kerkwitz, Bhf","metadata":{"type":"location","latitude":51.909526,"longitude":14.62722}}
+{"id":"900000445593","label":"Guben, Bhf","metadata":{"type":"location","latitude":51.957654,"longitude":14.707037}}
+{"id":"900000311250","label":"Coschen, Bhf","metadata":{"type":"location","latitude":52.019868,"longitude":14.718168}}
+{"id":"900000311612","label":"Wellmitz, Bhf","metadata":{"type":"location","latitude":52.064704,"longitude":14.714853}}
+{"id":"900000310601","label":"Neuzelle, Bhf","metadata":{"type":"location","latitude":52.099151,"longitude":14.648603}}
+{"id":"900000311307","label":"Eisenhüttenstadt, Bhf","metadata":{"type":"location","latitude":52.147961,"longitude":14.65872}}
+{"id":"900000311631","label":"Ziltendorf, Bhf","metadata":{"type":"location","latitude":52.199433,"longitude":14.616207}}
+{"id":"900000311620","label":"Wiesenau, Bhf","metadata":{"type":"location","latitude":52.231286,"longitude":14.583823}}
+{"id":"900000311232","label":"Brieskow-Finkenheerd, Finkenheerd","metadata":{"type":"location","latitude":52.249263,"longitude":14.5687}}
+{"id":"900000311233","label":"Brieskow-Finkenheerd, Kraftwerk Finkenheerd","metadata":{"type":"location","latitude":52.263269,"longitude":14.575663}}
+{"id":"900000470163","label":"Cottbus, Merzdorf","metadata":{"type":"location","latitude":51.768927,"longitude":14.366592}}
+{"id":"900000470307","label":"Cottbus, Willmersdorf Nord","metadata":{"type":"location","latitude":51.816465,"longitude":14.385618}}
+{"id":"900000446411","label":"Teichland, Bhf","metadata":{"type":"location","latitude":51.818652,"longitude":14.423752}}
+{"id":"900000220010","label":"Potsdam, Golm","metadata":{"type":"location","latitude":52.410552,"longitude":12.972179}}
+{"id":"900000200010","label":"Hohen Neuendorf, West","metadata":{"type":"location","latitude":52.672356,"longitude":13.271343}}
+{"id":"900000220012","label":"Potsdam, Marquardt","metadata":{"type":"location","latitude":52.458828,"longitude":12.97167}}
+{"id":"900000210001","label":"Priort, Bhf","metadata":{"type":"location","latitude":52.515563,"longitude":12.971315}}
+{"id":"900000220002","label":"Saarmund, Bhf","metadata":{"type":"location","latitude":52.323649,"longitude":13.139738}}
+{"id":"900000245836","label":"Ludwigsfelde, Struveshof","metadata":{"type":"location","latitude":52.317269,"longitude":13.232612}}
+{"id":"900000220658","label":"Caputh-Geltow, Bhf","metadata":{"type":"location","latitude":52.350345,"longitude":12.984447}}
+{"id":"900000220573","label":"Caputh, Schwielowsee","metadata":{"type":"location","latitude":52.341039,"longitude":12.980586}}
+{"id":"900000220303","label":"Ferch-Lienewitz, Bhf","metadata":{"type":"location","latitude":52.303833,"longitude":12.964135}}
+{"id":"900000220004","label":"Seddin (PM), Bhf","metadata":{"type":"location","latitude":52.291781,"longitude":12.984759}}
+{"id":"900000350126","label":"Melchow, Bhf","metadata":{"type":"location","latitude":52.775174,"longitude":13.694631}}
+{"id":"900000350158","label":"Rüdnitz, Bhf","metadata":{"type":"location","latitude":52.717703,"longitude":13.636219}}
+{"id":"900000260016","label":"Groß Köris, Bhf","metadata":{"type":"location","latitude":52.15926,"longitude":13.650767}}
+{"id":"900000435459","label":"Calau, Bhf","metadata":{"type":"location","latitude":51.738557,"longitude":13.980124}}
+{"id":"900000435818","label":"Luckaitztal, Bhf","metadata":{"type":"location","latitude":51.685048,"longitude":14.001706}}
+{"id":"900000435209","label":"Altdöbern, Bhf","metadata":{"type":"location","latitude":51.652811,"longitude":14.009201}}
+{"id":"900000435339","label":"Großräschen, Bhf","metadata":{"type":"location","latitude":51.591486,"longitude":14.014993}}
+{"id":"900000435001","label":"Sedlitz, Ost","metadata":{"type":"location","latitude":51.553417,"longitude":14.055357}}
+{"id":"900000435000","label":"Senftenberg, Bhf","metadata":{"type":"location","latitude":51.52679,"longitude":14.003977}}
+{"id":"900000360004","label":"Frankfurt (Oder), Rosengarten","metadata":{"type":"location","latitude":52.338063,"longitude":14.471443}}
+{"id":"900000310008","label":"Pillgram, Bhf","metadata":{"type":"location","latitude":52.336903,"longitude":14.397962}}
+{"id":"900000310007","label":"Jacobsdorf (Mark), Bhf","metadata":{"type":"location","latitude":52.332674,"longitude":14.355673}}
+{"id":"900000310006","label":"Briesen (Mark), Bhf","metadata":{"type":"location","latitude":52.346495,"longitude":14.281342}}
+{"id":"900000310005","label":"Berkenbrück (LOS), Bhf","metadata":{"type":"location","latitude":52.357185,"longitude":14.165226}}
+{"id":"900000310002","label":"Hangelsberg, Bhf","metadata":{"type":"location","latitude":52.400032,"longitude":13.921515}}
+{"id":"900000310003","label":"Grünheide, Fangschleuse","metadata":{"type":"location","latitude":52.406916,"longitude":13.824657}}
+{"id":"900000220699","label":"Groß Kreutz, Bhf","metadata":{"type":"location","latitude":52.411002,"longitude":12.776672}}
+{"id":"900000220182","label":"Götz, Bhf","metadata":{"type":"location","latitude":52.411036,"longitude":12.727139}}
+{"id":"900000275719","label":"Brandenburg, Kirchmöser","metadata":{"type":"location","latitude":52.375453,"longitude":12.421661}}
+{"id":"900000220249","label":"Wusterwitz, Bhf","metadata":{"type":"location","latitude":52.385278,"longitude":12.372994}}
+{"id":"900000550073","label":"Genthin, Bhf","metadata":{"type":"location","latitude":52.403234,"longitude":12.156539}}
+{"id":"900000550078","label":"Güsen, Bhf","metadata":{"type":"location","latitude":52.3343,"longitude":11.97654}}
+{"id":"900000550062","label":"Burg (bei Magdeburg), Bhf","metadata":{"type":"location","latitude":52.274892,"longitude":11.841726}}
+{"id":"900000550255","label":"Magdeburg-Neustadt, Bhf","metadata":{"type":"location","latitude":52.148924,"longitude":11.641805}}
+{"id":"900000550094","label":"Magdeburg, Hbf","metadata":{"type":"location","latitude":52.130196,"longitude":11.627439}}
+{"id":"900000550259","label":"Möser, Bhf","metadata":{"type":"location","latitude":52.219128,"longitude":11.784784}}
+{"id":"900000550258","label":"Gerwisch, Bhf","metadata":{"type":"location","latitude":52.177297,"longitude":11.741685}}
+{"id":"900000550257","label":"Biederitz, Bhf","metadata":{"type":"location","latitude":52.153082,"longitude":11.71687}}
+{"id":"900000550256","label":"Magdeburg, Herrenkrug Bahnhof","metadata":{"type":"location","latitude":52.145269,"longitude":11.67701}}
+{"id":"900000203709","label":"Gransee, Bhf","metadata":{"type":"location","latitude":53.001094,"longitude":13.166567}}
+{"id":"900000203749","label":"Dannenwalde (bei Gransee), Bhf","metadata":{"type":"location","latitude":53.081391,"longitude":13.180737}}
+{"id":"900000203772","label":"Fürstenberg (Havel), Bhf","metadata":{"type":"location","latitude":53.186497,"longitude":13.139805}}
+{"id":"900000550101","label":"Neustrelitz, Hbf","metadata":{"type":"location","latitude":53.359309,"longitude":13.074598}}
+{"id":"900000550065","label":"Dessau, Hbf","metadata":{"type":"location","latitude":51.838925,"longitude":12.234147}}
+{"id":"900000550108","label":"Roßlau, Bhf","metadata":{"type":"location","latitude":51.883983,"longitude":12.236938}}
+{"id":"900000550084","label":"Jeber-Bergfrieden, Bhf","metadata":{"type":"location","latitude":51.984667,"longitude":12.349608}}
+{"id":"900000222245","label":"Medewitz, Bhf","metadata":{"type":"location","latitude":52.060665,"longitude":12.392208}}
+{"id":"900000220152","label":"Wiesenburg, Bhf","metadata":{"type":"location","latitude":52.098874,"longitude":12.429625}}
+{"id":"900000220143","label":"Bad Belzig, Bhf","metadata":{"type":"location","latitude":52.136396,"longitude":12.595026}}
+{"id":"900000220142","label":"Baitz, Bhf","metadata":{"type":"location","latitude":52.164364,"longitude":12.684519}}
+{"id":"900000220141","label":"Brück, Bhf","metadata":{"type":"location","latitude":52.186811,"longitude":12.758441}}
+{"id":"900000222030","label":"Borkheide, Bhf","metadata":{"type":"location","latitude":52.23115,"longitude":12.854964}}
+{"id":"900000220005","label":"Beelitz-Heilstätten, Bhf","metadata":{"type":"location","latitude":52.261969,"longitude":12.926141}}
+{"id":"900000245026","label":"Dahlewitz, Bhf","metadata":{"type":"location","latitude":52.327032,"longitude":13.419632}}
+{"id":"900000245025","label":"Rangsdorf, Bhf","metadata":{"type":"location","latitude":52.294125,"longitude":13.431112}}
+{"id":"900000245024","label":"Dabendorf, Bhf","metadata":{"type":"location","latitude":52.237264,"longitude":13.437435}}
+{"id":"900000245023","label":"Zossen, Bhf","metadata":{"type":"location","latitude":52.218899,"longitude":13.439169}}
+{"id":"900000245022","label":"Wünsdorf-Waldstadt, Bhf","metadata":{"type":"location","latitude":52.16557,"longitude":13.467921}}
+{"id":"900000415345","label":"Falkenberg/E., Bhf","metadata":{"type":"location","latitude":51.583938,"longitude":13.246458}}
+{"id":"900000415683","label":"Herzberg (Elster), Bhf","metadata":{"type":"location","latitude":51.679667,"longitude":13.203317}}
+{"id":"900000445885","label":"Kolkwitz, Süd","metadata":{"type":"location","latitude":51.746846,"longitude":14.24156}}
+{"id":"900000435527","label":"Gollmitz, Bhf","metadata":{"type":"location","latitude":51.704677,"longitude":13.886832}}
+{"id":"900000415005","label":"Finsterwalde, Bhf","metadata":{"type":"location","latitude":51.637,"longitude":13.710446}}
+{"id":"900000415112","label":"Doberlug-Kirchhain, Bhf","metadata":{"type":"location","latitude":51.620951,"longitude":13.563712}}
+{"id":"900000415466","label":"Schönborn, Bhf","metadata":{"type":"location","latitude":51.601989,"longitude":13.468036}}
+{"id":"900000415357","label":"Beutersitz, Bhf","metadata":{"type":"location","latitude":51.590096,"longitude":13.360627}}
+{"id":"900000415467","label":"Uebigau, Bhf","metadata":{"type":"location","latitude":51.585421,"longitude":13.296546}}
+{"id":"900000550267","label":"Beilrode, Bhf","metadata":{"type":"location","latitude":51.571015,"longitude":13.064928}}
+{"id":"900000550119","label":"Torgau, Bhf","metadata":{"type":"location","latitude":51.562779,"longitude":12.991404}}
+{"id":"900000550266","label":"Mockrehna, Bhf","metadata":{"type":"location","latitude":51.505547,"longitude":12.819528}}
+{"id":"900000550265","label":"Doberschütz, Bhf","metadata":{"type":"location","latitude":51.49212,"longitude":12.745249}}
+{"id":"900000550263","label":"Eilenburg, Bhf","metadata":{"type":"location","latitude":51.452006,"longitude":12.636845}}
+{"id":"900000550320","label":"Jesewitz (bei Leipzig), Bhf","metadata":{"type":"location","latitude":51.419788,"longitude":12.545009}}
+{"id":"900000550334","label":"Taucha (bei Leipzig), Bhf","metadata":{"type":"location","latitude":51.379503,"longitude":12.485713}}
+{"id":"900000550090","label":"Leipzig, Hbf","metadata":{"type":"location","latitude":51.344817,"longitude":12.381321}}
+{"id":"900000550264","label":"Eilenburg, Bhf Ost","metadata":{"type":"location","latitude":51.463499,"longitude":12.668029}}
+{"id":"900000550093","label":"Lutherstadt Wittenberg, Hbf","metadata":{"type":"location","latitude":51.867536,"longitude":12.661997}}
+{"id":"900000550131","label":"Zörnigall, Bhf","metadata":{"type":"location","latitude":51.882925,"longitude":12.731527}}
+{"id":"900000550061","label":"Bülzig, Bhf","metadata":{"type":"location","latitude":51.894872,"longitude":12.752553}}
+{"id":"900000550126","label":"Zahna, Bhf","metadata":{"type":"location","latitude":51.918892,"longitude":12.77935}}
+{"id":"900000245018","label":"Blönsdorf, Bhf","metadata":{"type":"location","latitude":51.955514,"longitude":12.895806}}
+{"id":"900000245017","label":"Niedergörsdorf, Bhf","metadata":{"type":"location","latitude":51.967879,"longitude":12.978498}}
+{"id":"900000340979","label":"Nechlin, Bhf","metadata":{"type":"location","latitude":53.442752,"longitude":13.903114}}
+{"id":"900000550103","label":"Pasewalk, Bhf","metadata":{"type":"location","latitude":53.51501,"longitude":13.988811}}
+{"id":"900000550222","label":"Jatznick, Bhf","metadata":{"type":"location","latitude":53.603073,"longitude":13.93765}}
+{"id":"900000550221","label":"Ferdinandshof, Bhf","metadata":{"type":"location","latitude":53.659646,"longitude":13.882317}}
+{"id":"900000550008","label":"Ducherow, Bhf","metadata":{"type":"location","latitude":53.76618,"longitude":13.796064}}
+{"id":"900000550047","label":"Anklam, Bhf","metadata":{"type":"location","latitude":53.856168,"longitude":13.701654}}
+{"id":"900000550220","label":"Klein Bünzow, Bhf","metadata":{"type":"location","latitude":53.92366,"longitude":13.622435}}
+{"id":"900000550009","label":"Züssow, Bhf","metadata":{"type":"location","latitude":53.973881,"longitude":13.548192}}
+{"id":"900000550219","label":"Groß Kiesow, Bhf","metadata":{"type":"location","latitude":54.01372,"longitude":13.480622}}
+{"id":"900000550218","label":"Greifswald, Bhf Süd","metadata":{"type":"location","latitude":54.076114,"longitude":13.397266}}
+{"id":"900000500073","label":"Greifswald, Bhf","metadata":{"type":"location","latitude":54.092955,"longitude":13.370426}}
+{"id":"900000550217","label":"Miltzow, Bhf","metadata":{"type":"location","latitude":54.199259,"longitude":13.201011}}
+{"id":"900000550000","label":"Stralsund, Hbf","metadata":{"type":"location","latitude":54.308757,"longitude":13.077688}}
+{"id":"900000550260","label":"Wüstenfelde, Bhf","metadata":{"type":"location","latitude":54.230224,"longitude":13.139527}}
+{"id":"900000550028","label":"Halle (Saale), Hbf","metadata":{"type":"location","latitude":51.477099,"longitude":11.987348}}
+{"id":"000008011905","label":"Hohenthurm","metadata":{"type":"location","latitude":51.512359,"longitude":12.097881}}
+{"id":"000008012147","label":"Landsberg(b. Halle/Saale)","metadata":{"type":"location","latitude":51.532899,"longitude":12.166712}}
+{"id":"000008011260","label":"Brehna","metadata":{"type":"location","latitude":51.554457,"longitude":12.222163}}
+{"id":"000008012788","label":"Roitzsch(Bitterf)","metadata":{"type":"location","latitude":51.571167,"longitude":12.26454}}
+{"id":"900000550004","label":"Bitterfeld, Bhf","metadata":{"type":"location","latitude":51.622646,"longitude":12.31662}}
+{"id":"000008012409","label":"Muldenstein","metadata":{"type":"location","latitude":51.667787,"longitude":12.354047}}
+{"id":"000008011296","label":"Burgkemnitz","metadata":{"type":"location","latitude":51.688818,"longitude":12.407167}}
+{"id":"000008011683","label":"Gräfenhainichen","metadata":{"type":"location","latitude":51.724731,"longitude":12.460037}}
+{"id":"000008012704","label":"Radis","metadata":{"type":"location","latitude":51.754704,"longitude":12.504183}}
+{"id":"000008011150","label":"Bergwitz","metadata":{"type":"location","latitude":51.803696,"longitude":12.576213}}
+{"id":"000008010281","label":"Pratau","metadata":{"type":"location","latitude":51.843256,"longitude":12.635964}}
+{"id":"900000550083","label":"Holzdorf, Bhf","metadata":{"type":"location","latitude":51.780271,"longitude":13.114162}}
+{"id":"900000550091","label":"Linda (Elster), Bhf","metadata":{"type":"location","latitude":51.852698,"longitude":13.085269}}
+{"id":"900000245303","label":"Zellendorf, Bhf","metadata":{"type":"location","latitude":51.893876,"longitude":13.067144}}
+{"id":"900000245019","label":"Oehna (bei Niedergörsdorf), Bhf","metadata":{"type":"location","latitude":51.932168,"longitude":13.048686}}
+{"id":"900000550327","label":"Lutherstadt Wittenberg, Bhf Altstadt","metadata":{"type":"location","latitude":51.863675,"longitude":12.641878}}
+{"id":"900000550324","label":"Coswig (Anhalt), Bhf","metadata":{"type":"location","latitude":51.887912,"longitude":12.45808}}
+{"id":"900000415736","label":"Hohenleipisch, Bhf","metadata":{"type":"location","latitude":51.492884,"longitude":13.565128}}
+{"id":"900000416094","label":"Rückersdorf, Bhf","metadata":{"type":"location","latitude":51.567823,"longitude":13.574231}}
+{"id":"900000261973","label":"Walddrehna, Bhf","metadata":{"type":"location","latitude":51.772807,"longitude":13.617134}}
+{"id":"900000261596","label":"Luckau-Uckro, Bhf","metadata":{"type":"location","latitude":51.852255,"longitude":13.608109}}
+{"id":"900000260408","label":"Drahnsdorf, Bhf","metadata":{"type":"location","latitude":51.915672,"longitude":13.581945}}
+{"id":"900000261171","label":"Golßen, Bhf","metadata":{"type":"location","latitude":51.974152,"longitude":13.575069}}
+{"id":"900000245036","label":"Klasdorf-Glashütte, Bhf","metadata":{"type":"location","latitude":52.021735,"longitude":13.543188}}
+{"id":"900000245035","label":"Baruth, Bhf","metadata":{"type":"location","latitude":52.058085,"longitude":13.511824}}
+{"id":"900000245034","label":"Neuhof (bei Zossen), Bhf","metadata":{"type":"location","latitude":52.139981,"longitude":13.479451}}
+{"id":"900000550184","label":"Kratzeburg, Bhf","metadata":{"type":"location","latitude":53.427643,"longitude":12.941838}}
+{"id":"900000550003","label":"Waren (Müritz), Bhf","metadata":{"type":"location","latitude":53.521454,"longitude":12.680784}}
+{"id":"900000550005","label":"Langhagen, Bhf","metadata":{"type":"location","latitude":53.680936,"longitude":12.42521}}
+{"id":"900000560161","label":"Plaaz","metadata":{"type":"location","latitude":53.840457,"longitude":12.337716}}
+{"id":"900000550002","label":"Rostock, Hbf","metadata":{"type":"location","latitude":54.078296,"longitude":12.130989}}
+{"id":"900000550237","label":"Güstrow, Bhf","metadata":{"type":"location","latitude":53.800373,"longitude":12.172522}}
+{"id":"900000550235","label":"Blankensee(Meckl), Bhf","metadata":{"type":"location","latitude":53.408267,"longitude":13.263131}}
+{"id":"900000550234","label":"Cammin(Meckl), Bhf","metadata":{"type":"location","latitude":53.439038,"longitude":13.29965}}
+{"id":"900000550233","label":"Burg Stargard(Meckl), Bhf","metadata":{"type":"location","latitude":53.499762,"longitude":13.303165}}
+{"id":"900000550001","label":"Neubrandenburg, Bhf","metadata":{"type":"location","latitude":53.561852,"longitude":13.261441}}
+{"id":"900000550223","label":"Zarrendorf, Bhf","metadata":{"type":"location","latitude":54.240754,"longitude":13.080025}}
+{"id":"900000550224","label":"Elmenhorst, Bhf","metadata":{"type":"location","latitude":54.210118,"longitude":13.073891}}
+{"id":"900000550225","label":"Wittenhagen, Bhf","metadata":{"type":"location","latitude":54.185811,"longitude":13.057084}}
+{"id":"900000550226","label":"Grimmen, Bhf","metadata":{"type":"location","latitude":54.109886,"longitude":13.033866}}
+{"id":"900000550227","label":"Rakow, Bhf","metadata":{"type":"location","latitude":54.048146,"longitude":13.045996}}
+{"id":"900000550228","label":"Demmin, Bhf","metadata":{"type":"location","latitude":53.901183,"longitude":13.054065}}
+{"id":"900000550229","label":"Utzedel, Bhf","metadata":{"type":"location","latitude":53.860445,"longitude":13.116605}}
+{"id":"900000550230","label":"Sternfeld, Bhf","metadata":{"type":"location","latitude":53.82475,"longitude":13.150463}}
+{"id":"900000550231","label":"Gnevkow, Bhf","metadata":{"type":"location","latitude":53.79334,"longitude":13.174323}}
+{"id":"900000550232","label":"Altentreptow, Bhf","metadata":{"type":"location","latitude":53.69205,"longitude":13.242745}}
+{"id":"900000550330","label":"Leipzig, Nord","metadata":{"type":"location","latitude":51.363797,"longitude":12.401107}}
+{"id":"900000550322","label":"Leipzig-Thekla, Bhf","metadata":{"type":"location","latitude":51.371673,"longitude":12.430845}}
+{"id":"900000550321","label":"Leipzig-Heiterblick, Bhf","metadata":{"type":"location","latitude":51.369004,"longitude":12.459037}}
+{"id":"900000550333","label":"Pönitz (bei Leipzig), Bhf","metadata":{"type":"location","latitude":51.408476,"longitude":12.514348}}
+{"id":"900000416072","label":"Rehfeld (EE), Bhf","metadata":{"type":"location","latitude":51.579907,"longitude":13.153918}}
+{"id":"900000550313","label":"Leipzig, MDR","metadata":{"type":"location","latitude":51.320082,"longitude":12.386266}}
+{"id":"900000550312","label":"Leipzig, Bayerischer","metadata":{"type":"location","latitude":51.329527,"longitude":12.381395}}
+{"id":"900000550311","label":"Leipzig, Wilhelm-Leuschner-Platz","metadata":{"type":"location","latitude":51.335551,"longitude":12.375189}}
+{"id":"900000550310","label":"Leipzig, Markt","metadata":{"type":"location","latitude":51.34074,"longitude":12.374442}}
+{"id":"900000415240","label":"Bad Liebenwerda, Bhf","metadata":{"type":"location","latitude":51.518301,"longitude":13.402642}}
+{"id":"900000415167","label":"Elsterwerda-Biehla, Bhf","metadata":{"type":"location","latitude":51.472333,"longitude":13.519123}}
+{"id":"900000416008","label":"Plessa, Bhf","metadata":{"type":"location","latitude":51.470851,"longitude":13.616893}}
+{"id":"900000435203","label":"Lauchhammer, Bhf","metadata":{"type":"location","latitude":51.474401,"longitude":13.74397}}
+{"id":"900000435061","label":"Ruhland, Bhf","metadata":{"type":"location","latitude":51.455449,"longitude":13.869697}}
+{"id":"900000435314","label":"Hosena, Bhf","metadata":{"type":"location","latitude":51.454473,"longitude":14.013742}}
+{"id":"900000439905","label":"Lauta, Bhf","metadata":{"type":"location","latitude":51.447248,"longitude":14.09311}}
+{"id":"900000439916","label":"Schwarzkollm, Bhf","metadata":{"type":"location","latitude":51.443318,"longitude":14.133568}}
+{"id":"900000550375","label":"Leipzig-Stötteritz, Bhf","metadata":{"type":"location","latitude":51.323756,"longitude":12.410684}}
+{"id":"900000550367","label":"Leipzig, Völkerschlachtdenkmal","metadata":{"type":"location","latitude":51.318685,"longitude":12.40612}}
+{"id":"900000200004","label":"Velten, Bhf","metadata":{"type":"location","latitude":52.685019,"longitude":13.171933}}
+{"id":"900000204003","label":"Bärenklau (OHV), Bhf","metadata":{"type":"location","latitude":52.704225,"longitude":13.143258}}
+{"id":"900000203671","label":"Vehlefanz, Bhf","metadata":{"type":"location","latitude":52.722041,"longitude":13.11547}}
+{"id":"900000204001","label":"Schwante, Bhf","metadata":{"type":"location","latitude":52.7348,"longitude":13.091574}}
+{"id":"900000203452","label":"Kremmen, Bhf","metadata":{"type":"location","latitude":52.753402,"longitude":13.039681}}
+{"id":"900000205006","label":"Neuruppin, West","metadata":{"type":"location","latitude":52.926596,"longitude":12.794441}}
+{"id":"900000205617","label":"Wittstock (Dosse), Bhf","metadata":{"type":"location","latitude":53.160824,"longitude":12.478766}}
+{"id":"900000205130","label":"Liebenthal (OPR), Bhf","metadata":{"type":"location","latitude":53.150875,"longitude":12.394149}}
+{"id":"900000205322","label":"Heiligengrabe, Bhf","metadata":{"type":"location","latitude":53.150035,"longitude":12.343382}}
+{"id":"900000215723","label":"Pritzwalk, Bhf","metadata":{"type":"location","latitude":53.145967,"longitude":12.184525}}
+{"id":"900000215350","label":"Groß Pankow, Bhf","metadata":{"type":"location","latitude":53.123008,"longitude":12.047107}}
+{"id":"900000215696","label":"Perleberg, Bhf","metadata":{"type":"location","latitude":53.071051,"longitude":11.851784}}
+{"id":"900000216013","label":"Weisen, Bhf","metadata":{"type":"location","latitude":53.025685,"longitude":11.788002}}
+{"id":"900000205023","label":"Walsleben, Bhf","metadata":{"type":"location","latitude":52.946543,"longitude":12.680112}}
+{"id":"900000205022","label":"Netzeband, Bhf","metadata":{"type":"location","latitude":52.995291,"longitude":12.628685}}
+{"id":"900000205092","label":"Fretzdorf, Bhf","metadata":{"type":"location","latitude":53.069123,"longitude":12.540218}}
+{"id":"900000205090","label":"Dossow, Bhf","metadata":{"type":"location","latitude":53.120712,"longitude":12.521835}}
+{"id":"900000203491","label":"Beetz-Sommerfeld, Bhf","metadata":{"type":"location","latitude":52.804378,"longitude":13.021576}}
+{"id":"900000205512","label":"Wustrau-Radensleben, Bhf","metadata":{"type":"location","latitude":52.857227,"longitude":12.897246}}
+{"id":"900000205005","label":"Neuruppin, Rheinsberger Tor","metadata":{"type":"location","latitude":52.929073,"longitude":12.810993}}
+{"id":"900000550115","label":"Stendal, Bhf Stadtsee","metadata":{"type":"location","latitude":52.606836,"longitude":11.836728}}
+{"id":"900000550070","label":"Eichstedt (Altmark), Bhf","metadata":{"type":"location","latitude":52.674806,"longitude":11.854882}}
+{"id":"900000550075","label":"Goldbeck (bei Osterburg), Bhf","metadata":{"type":"location","latitude":52.716191,"longitude":11.858197}}
+{"id":"900000550102","label":"Osterburg, Bhf","metadata":{"type":"location","latitude":52.787728,"longitude":11.760416}}
+{"id":"900000550113","label":"Seehausen (Altmark), Bhf","metadata":{"type":"location","latitude":52.885488,"longitude":11.743531}}
+{"id":"900000550072","label":"Geestgottberg, Bhf","metadata":{"type":"location","latitude":52.956329,"longitude":11.73693}}
+{"id":"000008012907","label":"Schönebeck-Bad Salzelmen","metadata":{"type":"location","latitude":51.998364,"longitude":11.723627}}
+{"id":"000008081260","label":"Schönebeck Süd","metadata":{"type":"location","latitude":52.006752,"longitude":11.737305}}
+{"id":"000008010318","label":"Schönebeck(Elbe)","metadata":{"type":"location","latitude":52.018794,"longitude":11.733157}}
+{"id":"000008081270","label":"Schönebeck-Frohse","metadata":{"type":"location","latitude":52.033917,"longitude":11.707384}}
+{"id":"900000550304","label":"Magdeburg, Bahnof Südost","metadata":{"type":"location","latitude":52.07034,"longitude":11.669646}}
+{"id":"900000550303","label":"Magdeburg, Bhf Salbke","metadata":{"type":"location","latitude":52.080728,"longitude":11.656427}}
+{"id":"900000550154","label":"Magdeburg, Bhf SKET Industriepark","metadata":{"type":"location","latitude":52.097703,"longitude":11.637851}}
+{"id":"900000550153","label":"Magdeburg, Bhf Buckau","metadata":{"type":"location","latitude":52.109119,"longitude":11.629965}}
+{"id":"900000550298","label":"Magdeburg, Bhf Hasselbachplatz","metadata":{"type":"location","latitude":52.122478,"longitude":11.625445}}
+{"id":"900000550254","label":"Magdeburg, Eichenweiler Bahnhof","metadata":{"type":"location","latitude":52.166452,"longitude":11.657931}}
+{"id":"900000550305","label":"Magdeburg, Bhf Rothensee","metadata":{"type":"location","latitude":52.186303,"longitude":11.648246}}
+{"id":"900000550124","label":"Wolmirstedt, Bhf","metadata":{"type":"location","latitude":52.25045,"longitude":11.635337}}
+{"id":"900000550129","label":"Zielitz, Bhf Ort","metadata":{"type":"location","latitude":52.287711,"longitude":11.67589}}
+{"id":"900000550128","label":"Zielitz, Bhf","metadata":{"type":"location","latitude":52.297052,"longitude":11.68038}}
+{"id":"900000550046","label":"Angern-Rogätz, Bhf","metadata":{"type":"location","latitude":52.339029,"longitude":11.759805}}
+{"id":"900000550095","label":"Mahlwinkel, Bhf","metadata":{"type":"location","latitude":52.393498,"longitude":11.788141}}
+{"id":"900000550117","label":"Tangerhütte, Bhf","metadata":{"type":"location","latitude":52.436171,"longitude":11.81189}}
+{"id":"900000550064","label":"Demker, Bhf","metadata":{"type":"location","latitude":52.517102,"longitude":11.854104}}
+{"id":"900000550307","label":"Magdeburg, Bhf Barleber See","metadata":{"type":"location","latitude":52.214348,"longitude":11.640929}}
+{"id":"900000344629","label":"Strasburg, Bhf","metadata":{"type":"location","latitude":53.514707,"longitude":13.747834}}
+{"id":"900000560171","label":"Reuterstadt Stavenhagen","metadata":{"type":"location","latitude":53.706919,"longitude":12.9142}}
+{"id":"900000560146","label":"Malchin","metadata":{"type":"location","latitude":53.743417,"longitude":12.761041}}
+{"id":"900000560213","label":"Teterow","metadata":{"type":"location","latitude":53.768437,"longitude":12.577966}}
+{"id":"900000560102","label":"Bützow","metadata":{"type":"location","latitude":53.837114,"longitude":11.998194}}
+{"id":"900000560097","label":"Bobitz","metadata":{"type":"location","latitude":53.804534,"longitude":11.3628}}
+{"id":"900000560163","label":"Plüschow","metadata":{"type":"location","latitude":53.837064,"longitude":11.285845}}
+{"id":"900000560115","label":"Grevesmühlen","metadata":{"type":"location","latitude":53.857468,"longitude":11.184712}}
+{"id":"900000560116","label":"Grieben(Meckl)","metadata":{"type":"location","latitude":53.851233,"longitude":11.068569}}
+{"id":"900000560197","label":"Schönberg(Meckl)","metadata":{"type":"location","latitude":53.85338,"longitude":10.92787}}
+{"id":"900000560142","label":"Lüdersdorf(Meckl)","metadata":{"type":"location","latitude":53.832924,"longitude":10.815143}}
+{"id":"900000560124","label":"Herrnburg","metadata":{"type":"location","latitude":53.837707,"longitude":10.760008}}
+{"id":"000008003774","label":"Lübeck St Jürgen","metadata":{"type":"location","latitude":53.842321,"longitude":10.702942}}
+{"id":"900000500022","label":"Lübeck, Hbf","metadata":{"type":"location","latitude":53.867613,"longitude":10.670411}}
+{"id":"000008089123","label":"Grambow(Gr)","metadata":{"type":"location","latitude":53.415807,"longitude":14.3734}}
+{"id":"900000344547","label":"Löcknitz, Bhf","metadata":{"type":"location","latitude":53.456066,"longitude":14.215431}}
+{"id":"900000560224","label":"Zerrenthin, Bhf","metadata":{"type":"location","latitude":53.49939,"longitude":14.097895}}
+{"id":"900000560160","label":"Pasewalk Ost","metadata":{"type":"location","latitude":53.50957,"longitude":14.009312}}
+{"id":"900000344501","label":"Blumenhagen (bei Pasewalk), Bhf","metadata":{"type":"location","latitude":53.528385,"longitude":13.872958}}
+{"id":"900000560157","label":"Oertzenhof","metadata":{"type":"location","latitude":53.518083,"longitude":13.573119}}
+{"id":"900000560153","label":"Neetzka","metadata":{"type":"location","latitude":53.533518,"longitude":13.500838}}
+{"id":"900000560203","label":"Sponholz","metadata":{"type":"location","latitude":53.563854,"longitude":13.366401}}
+{"id":"900000560151","label":"Mölln(Meckl)","metadata":{"type":"location","latitude":53.585939,"longitude":13.084507}}
+{"id":"900000560114","label":"Grambow","metadata":{"type":"location","latitude":53.417381,"longitude":14.347457}}
+{"id":"900000560154","label":"Neu Wokern","metadata":{"type":"location","latitude":53.760033,"longitude":12.500916}}
+{"id":"900000550238","label":"Lalendorf, Bhf","metadata":{"type":"location","latitude":53.755058,"longitude":12.386344}}
+{"id":"900000560165","label":"Priemerburg","metadata":{"type":"location","latitude":53.795979,"longitude":12.223022}}
+{"id":"900000560096","label":"Blankenberg(Meckl)","metadata":{"type":"location","latitude":53.772305,"longitude":11.71529}}
+{"id":"900000560220","label":"Ventschow","metadata":{"type":"location","latitude":53.787208,"longitude":11.580016}}
+{"id":"900000560218","label":"Ueckermünde Stadthafen","metadata":{"type":"location","latitude":53.736202,"longitude":14.052233}}
+{"id":"900000560217","label":"Ueckermünde","metadata":{"type":"location","latitude":53.733923,"longitude":14.05408}}
+{"id":"900000560107","label":"Eggesin","metadata":{"type":"location","latitude":53.681825,"longitude":14.073046}}
+{"id":"900000560216","label":"Torgelow","metadata":{"type":"location","latitude":53.63462,"longitude":14.008758}}
+{"id":"900000560191","label":"Sandförde","metadata":{"type":"location","latitude":53.563981,"longitude":13.971273}}
+{"id":"900000550067","label":"Dresden, Hbf","metadata":{"type":"location","latitude":51.040723,"longitude":13.732195}}
+{"id":"900000550271","label":"Coswig (bei Dresden), Bhf","metadata":{"type":"location","latitude":51.122816,"longitude":13.579336}}
+{"id":"900000550121","label":"Weinböhla Hp, Bhf","metadata":{"type":"location","latitude":51.159112,"longitude":13.561477}}
+{"id":"900000550279","label":"Niederau, Bhf","metadata":{"type":"location","latitude":51.176347,"longitude":13.560643}}
+{"id":"900000550270","label":"Priestewitz, Bhf","metadata":{"type":"location","latitude":51.250714,"longitude":13.508716}}
+{"id":"900000419052","label":"Großenhain, Cottbuser Bahnhof","metadata":{"type":"location","latitude":51.291668,"longitude":13.523994}}
+{"id":"900000550125","label":"Zabeltitz, Bhf","metadata":{"type":"location","latitude":51.349875,"longitude":13.515489}}
+{"id":"900000550071","label":"Frauenhain, Bhf","metadata":{"type":"location","latitude":51.384798,"longitude":13.502909}}
+{"id":"900000416052","label":"Prösen, Ost","metadata":{"type":"location","latitude":51.425144,"longitude":13.50048}}
+{"id":"900000550278","label":"Dresden-Friedrichstadt, Bhf","metadata":{"type":"location","latitude":51.055878,"longitude":13.708498}}
+{"id":"900000550277","label":"Dresden-Cotta, Bhf","metadata":{"type":"location","latitude":51.062158,"longitude":13.683379}}
+{"id":"900000550276","label":"Dresden-Kemnitz, Bhf","metadata":{"type":"location","latitude":51.072797,"longitude":13.669339}}
+{"id":"900000550275","label":"Dresden-Stetzsch, Bhf","metadata":{"type":"location","latitude":51.080825,"longitude":13.650946}}
+{"id":"900000550274","label":"Cossebaude, Bhf","metadata":{"type":"location","latitude":51.085125,"longitude":13.631546}}
+{"id":"900000550273","label":"Niederwartha, Bhf","metadata":{"type":"location","latitude":51.094953,"longitude":13.606038}}
+{"id":"900000550272","label":"Radebeul-Naundorf, Bhf","metadata":{"type":"location","latitude":51.110849,"longitude":13.598664}}
+{"id":"900000445986","label":"Leuthen, Bhf","metadata":{"type":"location","latitude":51.695043,"longitude":14.256051}}
+{"id":"900000445360","label":"Drebkau, Bhf","metadata":{"type":"location","latitude":51.654665,"longitude":14.221974}}
+{"id":"900000435347","label":"Neupetershain, Bhf","metadata":{"type":"location","latitude":51.60634,"longitude":14.16123}}
+{"id":"900000435800","label":"Bahnsdorf (OSL), Bhf","metadata":{"type":"location","latitude":51.581728,"longitude":14.112302}}
+{"id":"900000435802","label":"Schwarzheide, Ost","metadata":{"type":"location","latitude":51.473778,"longitude":13.891002}}
+{"id":"900000550299","label":"Dresden, Bhf Mitte","metadata":{"type":"location","latitude":51.056156,"longitude":13.72387}}
+{"id":"900000550066","label":"Dresden, Bhf Neustadt","metadata":{"type":"location","latitude":51.065282,"longitude":13.738348}}
+{"id":"900000550269","label":"Lampertswalde, Bhf","metadata":{"type":"location","latitude":51.308502,"longitude":13.680492}}
+{"id":"900000435801","label":"Ortrand, Bhf","metadata":{"type":"location","latitude":51.37395,"longitude":13.764527}}
+{"id":"900000415464","label":"Fermerswalde, Bhf","metadata":{"type":"location","latitude":51.643071,"longitude":13.173707}}
+{"id":"900000550323","label":"Annaburg, Bhf","metadata":{"type":"location","latitude":51.728678,"longitude":13.03275}}
+{"id":"900000550390","label":"Jessen (Elster), Bhf","metadata":{"type":"location","latitude":51.792714,"longitude":12.95448}}
+{"id":"900000550391","label":"Elster (Elbe), Bhf","metadata":{"type":"location","latitude":51.832543,"longitude":12.827152}}
+{"id":"900000550319","label":"Mühlanger, Bhf","metadata":{"type":"location","latitude":51.855704,"longitude":12.748198}}
+{"id":"900000550328","label":"Lutherstadt Wittenberg, Bhf Labetz","metadata":{"type":"location","latitude":51.871219,"longitude":12.695082}}
+{"id":"900000550329","label":"Lutherstadt Wittenberg, Bhf Piesteritz","metadata":{"type":"location","latitude":51.871933,"longitude":12.59623}}
+{"id":"900000550325","label":"Griebo, Bhf","metadata":{"type":"location","latitude":51.880568,"longitude":12.522963}}
+{"id":"900000550326","label":"Klieken, Bhf","metadata":{"type":"location","latitude":51.894518,"longitude":12.371757}}
+{"id":"900000550097","label":"Meinsdorf (bei Roßlau), Bhf","metadata":{"type":"location","latitude":51.903096,"longitude":12.255825}}
+{"id":"000008012200","label":"Leipzig Essener Str.","metadata":{"type":"location","latitude":51.376358,"longitude":12.396988}}
+{"id":"900000550318","label":"Leipzig, Messe","metadata":{"type":"location","latitude":51.396106,"longitude":12.389076}}
+{"id":"900000550349","label":"Rackwitz (bei Leipzig), Bhf","metadata":{"type":"location","latitude":51.440743,"longitude":12.374915}}
+{"id":"000008013428","label":"Zschortau","metadata":{"type":"location","latitude":51.483266,"longitude":12.361585}}
+{"id":"000008010076","label":"Delitzsch unt Bf","metadata":{"type":"location","latitude":51.525227,"longitude":12.345218}}
+{"id":"000008012629","label":"Petersroda","metadata":{"type":"location","latitude":51.569691,"longitude":12.285408}}
+{"id":"000008011699","label":"Greppin","metadata":{"type":"location","latitude":51.645358,"longitude":12.297969}}
+{"id":"000008013335","label":"Wolfen(Bitterfeld)","metadata":{"type":"location","latitude":51.661159,"longitude":12.279563}}
+{"id":"000008011961","label":"Jeßnitz(Anh)","metadata":{"type":"location","latitude":51.682552,"longitude":12.277353}}
+{"id":"000008011361","label":"Dessau Süd","metadata":{"type":"location","latitude":51.802196,"longitude":12.236455}}

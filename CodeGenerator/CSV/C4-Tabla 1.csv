@@ -1,0 +1,13 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Cuatro Caminos;Plaza del Carbon;1,0;500,0;
+Plaza del Carbon;San Telmo;1,2;600,0;
+San Telmo;Madre de Dios;0,9;450,0;
+Madre de Dios;Minotauro;0,5;240,0;
+Minotauro;Catavinos;1,8;900,0;
+Catavinos;Sevilla;1,8;900,0;
+Sevilla;Alameda Cristina;0,9;450,0;
+Alameda Cristina;Porvera;0,6;300,0;
+Porvera;Santiago;0,7;350,0;
+Santiago;Luis Vives;0,8;400,0;
+Luis Vives;Puerta de Rota;0,8;400,0;
+Puerta de Rota;Cuatro Caminos;1;550;

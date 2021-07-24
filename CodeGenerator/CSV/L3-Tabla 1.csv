@@ -1,0 +1,5 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Hospital;La Plata;1,8;900;
+La Plata;Santiago;1,5;750;
+Santiago;La Plata;1,5;750;
+La Plata;Hospital;1,8;900;

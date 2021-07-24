@@ -1,0 +1,18 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Puerta del Sur;UPACE;1;550;
+UPACE;Hospital FREMAP;1,3;650,0;
+Hospital FREMAP;El Portal;1,2;600,0;
+El Portal;Parque Vallesequillo;2,6;1300,0;
+Parque Vallesequillo;Timanfaya;2,2;1100,0;
+Timanfaya;Rotonda 4;1,4;700,0;
+Rotonda 4;Rotonda 6;2,8;1400,0;
+Rotonda 6;El Motorista;1,9;950,0;
+El Motorista;La Granja;1,6;800,0;
+La Granja;La Pepa;1,8;900,0;
+La Pepa;Corte Ingles;0,6;300,0;
+Corte Ingles;Las Buganvillas;2,2;1100,0;
+Las Buganvillas;Circunvalacion;3,0;1500,0;
+Circunvalacion;Hospital;1,5;750,0;
+Hospital;San Juan de Dios;1,1;550,0;
+San Juan de Dios;Picaduenas;2,6;1300,0;
+Picaduenas;Puerta del Sur;2,6;1300,0;

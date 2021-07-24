@@ -1,0 +1,13 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Alameda Cristina;Sevilla;0,9;450;
+Sevilla;Escuela de Arte Ecuestre;0,7;350;
+Escuela de Arte Ecuestre;Duque de Abrantes;0,9;450;
+Duque de Abrantes;El Almendral;1,3;650;
+El Almendral;Donantes de Sangre;0,8;400;
+Donantes de Sangre;Las Buganvillas;1;500;
+Las Buganvillas;Donantes de Sangre;1;500;
+Donantes de Sangre;El Almendral;0,8;400;
+El Almendral;Duque de Abrantes;1,3;650;
+Duque de Abrantes;Escuela de Arte Ecuestre;0,9;450;
+Escuela de Arte Ecuestre;Sevilla;0,7;350;
+Sevilla;Alameda Cristina;0,9;450;

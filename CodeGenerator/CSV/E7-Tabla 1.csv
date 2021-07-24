@@ -1,0 +1,13 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Av. Europa;Palacio Municipal de Deportes;0,8;400;
+Palacio Municipal de Deportes;Lola Flores;1;500;
+Lola Flores;Biarritz;0,54;270;
+Biarritz;Olivar de Rivero;0,7;350;
+Olivar de Rivero;La Pita;1,5;750;
+La Pita;Rotonda 6;0,6;300;
+Rotonda 6;Av. Taginaste;1,3;650;
+Av. Taginaste;Ciudad de los Ninos;1,3;650;
+Ciudad de los Ninos;Biarritz;1;500;
+Biarritz;Lola Flores;0,54;270;
+Lola Flores;Palacio Municipal de Deportes;1;500;
+Palacio Municipal de Deportes;Av. Europa;0,8;400;

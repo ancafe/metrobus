@@ -1,0 +1,18 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;;;;;
+Corte Ingles;La Pepa;0,6;300;;;;;
+La Pepa;San Jose Obrero;1,4;700;;;;;
+San Jose Obrero;Setefilla;1;500;;;;;
+Setefilla;Manuel F. Cruz;0,8;400;;;;;
+Manuel F. Cruz;Av. La Granja;0,9;450;;;;;
+Av. La Granja;Almunia;1,2;600;;;;;
+Almunia;Afanas;1;500;;;;;
+Afanas;La Marquesa;0,58;290;;;;;
+La Marquesa;Rotonda 6;1,3;650;;;;;
+Rotonda 6;La Marquesa;1,3;650;;;;;
+La Marquesa;Afanas;0,58;290;;;;;
+Afanas;Caulina;0,8;400;;;;;
+Caulina;Ctra. Guadalcacin;1;500;;;;;
+Ctra. Guadalcacin;Setefilla;1,4;700;;;;;
+Setefilla;San Jose Obrero;1;500;;;;;
+San Jose Obrero;La Pepa;1,4;700;;;;;
+La Pepa;Corte Ingles;0,6;300;;;;;

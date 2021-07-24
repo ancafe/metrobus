@@ -1,0 +1,17 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+La Plata;La Union;1,1;550;
+La Union;Plaza de las Marinas;0,6;300;
+Plaza de las Marinas;Federico Garcia Lorca;0,8;400;
+Federico Garcia Lorca;Av. del Tamarix;0,9;450;
+Av. del Tamarix;Donantes de Sangre;0,7;350;
+Donantes de Sangre;Albariza;0,7;350;
+Albariza;Av. Andalucia;1,1;550;
+Av. Andalucia;El Altillo;0,6;300;
+El Altillo;Av. Andalucia;0,6;300;
+Av. Andalucia;Albariza;1,1;550;
+Albariza;Donantes de Sangre;0,7;350;
+Donantes de Sangre;Av. del Tamarix;0,7;350;
+Av. del Tamarix;Federico Garcia Lorca;0,9;450;
+Federico Garcia Lorca;Plaza de las Marinas;0,8;400;
+Plaza de las Marinas;La Union;0,6;300;
+La Union;La Plata;1,1;550;

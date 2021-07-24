@@ -1,0 +1,11 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Hontoria;IFECA;0,7;350;
+IFECA;Av. Europa;1,4;700;
+Av. Europa;La Granja;1,7;850;
+La Granja;Av. La Granja;0,9;450;
+Av. La Granja;Ctra. Guadalcacin;0,8;400;
+Ctra. Guadalcacin;Av. La Granja;0,8;400;
+Av. La Granja;La Granja;0,9;450;
+La Granja;Av. Europa;1,7;850;
+Av. Europa;IFECA;1,4;700;
+IFECA;Hontoria;0,7;350;

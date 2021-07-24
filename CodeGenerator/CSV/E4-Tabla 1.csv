@@ -1,0 +1,11 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Santiago;Zoo;1,1;550,0;
+Zoo;Rocio;0,6;300,0;
+Rocio;San Juan de Dios;0,6;290,0;
+San Juan de Dios;Luz Shopping (i);2,0;1000,0;
+Luz Shopping (i);Luz Shopping (ii);0,9;450,0;
+Luz Shopping (ii);Area Sur;0,9;450,0;
+Area Sur;San Juan de Dios;1,4;700,0;
+San Juan de Dios;Rocio;0,6;290,0;
+Rocio;Zoo;0,6;300,0;
+Zoo;Santiago;1,1;550,0;

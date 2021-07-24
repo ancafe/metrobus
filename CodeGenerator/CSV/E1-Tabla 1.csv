@@ -1,0 +1,5 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Parque Vallesequillo;Vallesequillo;1,1;550;
+Vallesequillo;Madre de Dios;1,2;600;
+Madre de Dios;Vallesequillo;1,2;600;
+Vallesequillo;Parque Vallesequillo;1,1;550;

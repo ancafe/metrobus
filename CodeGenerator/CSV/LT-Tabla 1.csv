@@ -1,0 +1,11 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Alameda Cristina;Gallo Azul;0,96;400;
+Gallo Azul;Arenal;0,48;200;
+Arenal;Alameda Vieja;0,48;200;
+Alameda Vieja;Cuatro Caminos;1,08;450;
+Cuatro Caminos;Puerta del Sur;1,5;750;
+Puerta del Sur;Cuatro Caminos;1,5;750;
+Cuatro Caminos;Alameda Vieja;1,08;450;
+Alameda Vieja;Gallo Azul;0,48;200;
+Gallo Azul;Arenal;0,48;200;
+Arenal;Alameda Cristina;0,96;400;

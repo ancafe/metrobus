@@ -1,0 +1,58 @@
+/*
+ * File: style
+ * Project: public_html
+ * Author: Ángel Cardiel (angel.cardiel@protonmail.com)
+ */
+
+
+.activeRoute {
+	stroke-width: 6px !important;
+}
+
+.line {
+	stroke-width: 2px;
+}
+
+
+.hoverRoute {
+	stroke-width: 2px;
+}
+
+
+/* .line:hover{
+    stroke-width: 3px;
+} */
+
+.walkingline {
+	stroke: #000;
+	color: #000;
+}
+
+.station {
+	stroke-width: 2px;
+	background: white;
+	fill: white;
+	stroke: black;
+}
+
+.station.simple {
+	fill: black;
+}
+
+.station:hover {
+	cursor: pointer;
+	fill: red;
+}
+
+
+.paradaDesde {
+	fill: red;
+}
+
+.paradaHasta {
+	fill: red;
+}
+
+.nonActiveRoute {
+	opacity: 0.1;
+}

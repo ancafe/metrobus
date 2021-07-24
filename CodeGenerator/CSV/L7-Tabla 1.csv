@@ -1,0 +1,18 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Villamarta;Arcos;1,1;550;
+Arcos;Chapin;1,6;800;
+Chapin;Universidad;1;500;
+Universidad;Biarritz;1,2;600;
+Biarritz;Ciudad de los Ninos;1,2;600;
+Ciudad de los Ninos;El Motorista;1;500;
+El Motorista;Almunia;0,8;400;
+Almunia;Caulina;0,7;350;
+Caulina;Almunia;0,8;400;
+Almunia;El Motorista;0,8;400;
+El Motorista;Ciudad de los Ninos;1;500;
+Ciudad de los Ninos;Biarritz;1,2;600;
+Biarritz;Universidad;1,2;600;
+Universidad;Chapin;1;500;
+Chapin;Arcos;1,6;800;
+Arcos;Minotauro;1,2;600;
+Minotauro;Villamarta;1,6;800;

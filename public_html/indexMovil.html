@@ -1,0 +1,235 @@
+<!--
+ 	File: indexMovil
+ 	Project: metrobus
+ 	Author: Ángel Cardiel (angel.cardiel@protonmail.com)
+-->
+
+<html>
+   <title>Metrobus Jerez</title>
+   <meta charset='utf-8'>
+   <head>
+      <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="colors.css">
+      <link rel="stylesheet" href="textstyles.css">
+      <script charset="UTF-8" src="bundleDinamico.js"></script>
+   </head>
+   <body>
+   
+    <div>Desde: 
+	<select id="origen">
+		<option value="" selected>---</option>
+		<option value="Afanas">Afanas</option>
+		<option value="Alameda Cristina">Alameda Cristina</option>
+		<option value="Alameda Vieja">Alameda Vieja</option>
+		<option value="Albariza">Albariza</option>
+		<option value="Almunia">Almunia</option>
+		<option value="Arcos">Arcos</option>
+		<option value="Area Sur">Area Sur</option>
+		<option value="Arenal">Arenal</option>
+		<option value="Av. Andalucia">Av. Andalucía</option>
+		<option value="Av. de Italia">Av. de Italia</option>
+		<option value="Av. del Tamarix">Av. del Tamarix</option>
+		<option value="Av. Europa">Av. Europa</option>
+		<option value="Av. La Granja">Av. La Granja</option>
+		<option value="Av. Nazaret">Av. Nazaret</option>
+		<option value="Av. Taginaste">Av. Taginaste</option>
+		<option value="Azorin">Azorín</option>
+		<option value="Biarritz">Biarritz</option>
+		<option value="Blas Infante">Blas Infante</option>
+		<option value="Caparros">Caparrós</option>
+		<option value="Catavinos">Catavinos</option>
+		<option value="Caulina">Caulina</option>
+		<option value="Cementerio">Cementerio</option>
+		<option value="Chapin">Chapín</option>
+		<option value="Circunvalacion">Circunvalación</option>
+		<option value="Ciudad de los Ninos">Ciudad de los Niños</option>
+		<option value="Club Nazaret">Club Nazaret</option>
+		<option value="Consejo de Europa">Consejo de Europa</option>
+		<option value="Corte Ingles">Corte Inglés</option>
+		<option value="Ctra. Guadalcacin">Ctra. Guadalcacín</option>
+		<option value="Cuatro Caminos">Cuatro Caminos</option>
+		<option value="Diego de Cadiz">Diego de Cádiz</option>
+		<option value="Donantes de Sangre">Donantes de Sangre</option>
+		<option value="Duque de Abrantes">Duque de Abrantes</option>
+		<option value="El Almendral">El Almendral</option>
+		<option value="El Altillo">El Altillo</option>
+		<option value="El Motorista">El Motorista</option>
+		<option value="El Portal">El Portal</option>
+		<option value="El Retiro">El Retiro</option>
+		<option value="Escuela de Arte Ecuestre">Escuela de Arte Ecuestre</option>
+		<option value="Federico Garcia Lorca">Federico Garcia Lorca</option>
+		<option value="Feria">Feria</option>
+		<option value="Finlandia">Finlandia</option>
+		<option value="Gallo Azul">Gallo Azul</option>
+		<option value="Hontoria">Hontoria</option>
+		<option value="Hospital">Hospital</option>
+		<option value="Hospital FREMAP">Hospital FREMAP</option>
+		<option value="IFECA">IFECA</option>
+		<option value="La Canaleja">La Canaleja</option>
+		<option value="La Consolacion">La Consolación</option>
+		<option value="La Granja">La Granja</option>
+		<option value="La igualdad">La igualdad</option>
+		<option value="La Juventud">La Juventud</option>
+		<option value="La Marquesa">La Marquesa</option>
+		<option value="La Pepa">La Pepa</option>
+		<option value="La Pita">La Pita</option>
+		<option value="La Plata">La Plata</option>
+		<option value="La Union">La Unión</option>
+		<option value="Las Buganvillas">Las Buganvillas</option>
+		<option value="Las Delicias">Las Delicias</option>
+		<option value="Lola Flores">Lola Flores</option>
+		<option value="Luis Vives">Luis Vives</option>
+		<option value="Luz Shopping (i)">Luz Shopping (I)</option>
+		<option value="Luz Shopping (ii)">Luz Shopping (II)</option>
+		<option value="Madre de Dios">Madre de Dios</option>
+		<option value="Manuel F. Cruz">Manuel F. Cruz</option>
+		<option value="Medina Sidonia">Medina Sidonia</option>
+		<option value="Minotauro">Minotauro</option>
+		<option value="Moreno Mendoza">Moreno Mendoza</option>
+		<option value="Olivar de Rivero">Olivar de Rivero</option>
+		<option value="Palacio Municipal de Deportes">Palacio Municipal de Deportes</option>
+		<option value="Parque Atlantico">Parque Atlántico</option>
+		<option value="Parque Vallesequillo">Parque Vallesequillo</option>
+		<option value="Picaduenas">Picadueñas</option>
+		<option value="Plaza de las Marinas">Plaza de las Marinas</option>
+		<option value="Plaza del Caballo">Plaza del Caballo</option>
+		<option value="Plaza del Carbon">Plaza del Carbón</option>
+		<option value="Plaza Macedonia">Plaza Macedonia</option>
+		<option value="Porvera">Porvera</option>
+		<option value="Pozo Albero">Pozo Albero</option>
+		<option value="Puerta de Rota">Puerta de Rota</option>
+		<option value="Puertas del Sur">Puertas del Sur</option>
+		<option value="Rocio">Rocio</option>
+		<option value="Ronda de San Telmo">Ronda de San Telmo</option>
+		<option value="Rotonda 4">Rotonda 4</option>
+		<option value="Rotonda 6">Rotonda 6</option>
+		<option value="San Jose Obrero">San Jose Obrero</option>
+		<option value="San Juan de Dios">San Juan de Dios</option>
+		<option value="San Telmo">San Telmo</option>
+		<option value="Santiago">Santiago</option>
+		<option value="Setefilla">Setefilla</option>
+		<option value="Sevilla">Sevilla</option>
+		<option value="Tartessos">Tartessos</option>
+		<option value="Timanfaya">Timanfaya</option>
+		<option value="Universidad">Universidad</option>
+		<option value="UPACE">UPACE</option>
+		<option value="Vallesequillo">Vallesequillo</option>
+		<option value="Villamarta">Villamarta</option>
+		<option value="Zoo">Zoo</option>
+	</select>
+	</div>
+	
+	<div style="margin-top:5px">Hasta:
+	<select id="destino">
+		<option value="" selected>---</option>
+		<option value="Afanas">Afanas</option>
+		<option value="Alameda Cristina">Alameda Cristina</option>
+		<option value="Alameda Vieja">Alameda Vieja</option>
+		<option value="Albariza">Albariza</option>
+		<option value="Almunia">Almunia</option>
+		<option value="Arcos">Arcos</option>
+		<option value="Area Sur">Area Sur</option>
+		<option value="Arenal">Arenal</option>
+		<option value="Av. Andalucia">Av. Andalucía</option>
+		<option value="Av. de Italia">Av. de Italia</option>
+		<option value="Av. del Tamarix">Av. del Tamarix</option>
+		<option value="Av. Europa">Av. Europa</option>
+		<option value="Av. La Granja">Av. La Granja</option>
+		<option value="Av. Nazaret">Av. Nazaret</option>
+		<option value="Av. Taginaste">Av. Taginaste</option>
+		<option value="Azorin">Azorín</option>
+		<option value="Biarritz">Biarritz</option>
+		<option value="Blas Infante">Blas Infante</option>
+		<option value="Caparros">Caparrós</option>
+		<option value="Catavinos">Catavinos</option>
+		<option value="Caulina">Caulina</option>
+		<option value="Cementerio">Cementerio</option>
+		<option value="Chapin">Chapín</option>
+		<option value="Circunvalacion">Circunvalación</option>
+		<option value="Ciudad de los Ninos">Ciudad de los Niños</option>
+		<option value="Club Nazaret">Club Nazaret</option>
+		<option value="Consejo de Europa">Consejo de Europa</option>
+		<option value="Corte Ingles">Corte Inglés</option>
+		<option value="Ctra. Guadalcacin">Ctra. Guadalcacín</option>
+		<option value="Cuatro Caminos">Cuatro Caminos</option>
+		<option value="Diego de Cadiz">Diego de Cádiz</option>
+		<option value="Donantes de Sangre">Donantes de Sangre</option>
+		<option value="Duque de Abrantes">Duque de Abrantes</option>
+		<option value="El Almendral">El Almendral</option>
+		<option value="El Altillo">El Altillo</option>
+		<option value="El Motorista">El Motorista</option>
+		<option value="El Portal">El Portal</option>
+		<option value="El Retiro">El Retiro</option>
+		<option value="Escuela de Arte Ecuestre">Escuela de Arte Ecuestre</option>
+		<option value="Federico Garcia Lorca">Federico Garcia Lorca</option>
+		<option value="Feria">Feria</option>
+		<option value="Finlandia">Finlandia</option>
+		<option value="Gallo Azul">Gallo Azul</option>
+		<option value="Hontoria">Hontoria</option>
+		<option value="Hospital">Hospital</option>
+		<option value="Hospital FREMAP">Hospital FREMAP</option>
+		<option value="IFECA">IFECA</option>
+		<option value="La Canaleja">La Canaleja</option>
+		<option value="La Consolacion">La Consolación</option>
+		<option value="La Granja">La Granja</option>
+		<option value="La igualdad">La igualdad</option>
+		<option value="La Juventud">La Juventud</option>
+		<option value="La Marquesa">La Marquesa</option>
+		<option value="La Pepa">La Pepa</option>
+		<option value="La Pita">La Pita</option>
+		<option value="La Plata">La Plata</option>
+		<option value="La Union">La Unión</option>
+		<option value="Las Buganvillas">Las Buganvillas</option>
+		<option value="Las Delicias">Las Delicias</option>
+		<option value="Lola Flores">Lola Flores</option>
+		<option value="Luis Vives">Luis Vives</option>
+		<option value="Luz Shopping (i)">Luz Shopping (I)</option>
+		<option value="Luz Shopping (ii)">Luz Shopping (II)</option>
+		<option value="Madre de Dios">Madre de Dios</option>
+		<option value="Manuel F. Cruz">Manuel F. Cruz</option>
+		<option value="Medina Sidonia">Medina Sidonia</option>
+		<option value="Minotauro">Minotauro</option>
+		<option value="Moreno Mendoza">Moreno Mendoza</option>
+		<option value="Olivar de Rivero">Olivar de Rivero</option>
+		<option value="Palacio Municipal de Deportes">Palacio Municipal de Deportes</option>
+		<option value="Parque Atlantico">Parque Atlántico</option>
+		<option value="Parque Vallesequillo">Parque Vallesequillo</option>
+		<option value="Picaduenas">Picadueñas</option>
+		<option value="Plaza de las Marinas">Plaza de las Marinas</option>
+		<option value="Plaza del Caballo">Plaza del Caballo</option>
+		<option value="Plaza del Carbon">Plaza del Carbón</option>
+		<option value="Plaza Macedonia">Plaza Macedonia</option>
+		<option value="Porvera">Porvera</option>
+		<option value="Pozo Albero">Pozo Albero</option>
+		<option value="Puerta de Rota">Puerta de Rota</option>
+		<option value="Puertas del Sur">Puertas del Sur</option>
+		<option value="Rocio">Rocio</option>
+		<option value="Ronda de San Telmo">Ronda de San Telmo</option>
+		<option value="Rotonda 4">Rotonda 4</option>
+		<option value="Rotonda 6">Rotonda 6</option>
+		<option value="San Jose Obrero">San Jose Obrero</option>
+		<option value="San Juan de Dios">San Juan de Dios</option>
+		<option value="San Telmo">San Telmo</option>
+		<option value="Santiago">Santiago</option>
+		<option value="Setefilla">Setefilla</option>
+		<option value="Sevilla">Sevilla</option>
+		<option value="Tartessos">Tartessos</option>
+		<option value="Timanfaya">Timanfaya</option>
+		<option value="Universidad">Universidad</option>
+		<option value="UPACE">UPACE</option>
+		<option value="Vallesequillo">Vallesequillo</option>
+		<option value="Villamarta">Villamarta</option>
+		<option value="Zoo">Zoo</option>
+	</select>
+	</div>
+	
+      <div class="resultadosDIV" >
+      </div>
+      <div id="resultados" class="resultadosDerecha" >
+         <p id="info"><span class='routeInfo'><strong>Información de la ruta</strong><br>Selecciona paradas de origen y destino para calcular el trayacto más óptimo</span></p>
+         <p id="info2"></p>
+      </div>
+     
+   </body>
+</html>
+

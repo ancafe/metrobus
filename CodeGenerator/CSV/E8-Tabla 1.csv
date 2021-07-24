@@ -1,0 +1,11 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+El Retiro;Parque Atlantico;0,7;350;
+Parque Atlantico;Club Nazaret;0,8;400;
+Club Nazaret;Av. Nazaret;1,1;550;
+Av. Nazaret;Rotonda 4;1;500;
+Rotonda 4;La Canaleja;1;500;
+La Canaleja;Las Delicias;1,4;700;
+Las Delicias;Plaza Macedonia;0,7;350;
+Plaza Macedonia;Tartessos;1,1;550;
+Tartessos;Parque Atlantico;0,7;350;
+Parque Atlantico;El Retiro;0,7;350;

@@ -1,0 +1,75 @@
+/*
+ * File: textstyles
+ * Project: public_html
+ * Author: Ángel Cardiel (angel.cardiel@protonmail.com)
+ */
+
+@font-face {
+    font-family: 'HelveticaLocal';
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/Helvetica.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'HelveticaLocal';
+    font-style: normal;
+    font-weight: bold;
+    src: url('fonts/Helvetica-Bold.woff') format('woff');
+}
+
+.stopText {
+    font-family: 'HelveticaLocal';
+    font-size: 12px;
+    display: block;
+    font-weight: bold;
+}
+
+.cornerUpperLeft {
+    position: absolute;
+    left: 16px;
+    top: 16px;
+    font-weight: bold;
+    font-size: 30px;
+    z-index: 30;
+}
+
+.resultadosDerecha {
+    background-color: rgb(255, 255, 255, 0.8);
+    font-family: 'HelveticaLocal';
+    font-size: 20px;
+    padding: 10px;
+}
+
+.cornerUpperRight {
+    background-color: rgb(255, 255, 255, 0.8);
+    position: fixed;
+    right: 16px;
+    top: 16px;
+    font-family: 'HelveticaLocal';
+    font-size: 20px;
+    z-index: 30;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.resultadosDIV {
+    margin-top: 5px;
+
+}
+
+.routeInfo {
+    font-size: 13px;
+}
+
+.cornerUpperRight p,
+.cornerLowerRight p,
+.cornerLowerLeft p,
+.cornerUpperLeft p {
+    margin: 0;
+}
+
+#info,
+#info2 {
+    margin-bottom: 4px;
+}

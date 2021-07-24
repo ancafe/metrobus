@@ -1,0 +1,10 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+El Portal;Moreno Mendoza;1,2;600;
+Moreno Mendoza;Diego de Cadiz;1,2;600;
+Diego de Cadiz;Ronda de San Telmo;0,52;260;
+Ronda de San Telmo;Azorin;1,1;550;
+Azorin;Consejo de Europa;1,2;600;
+Consejo de Europa;Caparros;1,1;550;
+Caparros;La igualdad;0,7;350;
+La igualdad;Hospital FREMAP;0,7;350;
+Hospital FREMAP;El Portal;1,1;550;

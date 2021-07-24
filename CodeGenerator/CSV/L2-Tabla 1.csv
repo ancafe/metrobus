@@ -1,0 +1,9 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+El Portal;Blas Infante;1;500;
+Blas Infante;La Juventud;1,1;550;
+La Juventud;Consejo de Europa;0,5;250;
+Consejo de Europa;Cuatro Caminos;0,6;300;
+Cuatro Caminos;Consejo de Europa;0,6;300;
+Consejo de Europa;La Juventud;0,5;250;
+La Juventud;Blas Infante;1,1;550;
+Blas Infante;El Portal;1;500;

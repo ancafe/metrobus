@@ -1,0 +1,13 @@
+Inicio tramo;Fin de tramo;Tiempo;Distancia;
+Alameda Cristina;Sevilla;0,9;450;
+Sevilla;Plaza del Caballo;1,2;600;
+Plaza del Caballo;Hontoria;1,4;700;
+Hontoria;Av. Andalucia;1,1;550;
+Av. Andalucia;Corte Ingles;1,7;850;
+Corte Ingles;Pozo Albero;1,8;900;
+Pozo Albero;Corte Ingles;1,8;900;
+Corte Ingles;Av. Andalucia;1,7;850;
+Av. Andalucia;Hontoria;1,1;550;
+Hontoria;Plaza del Caballo;1,4;700;
+Plaza del Caballo;Sevilla;1,2;600;
+Sevilla;Alameda Cristina;0,9;450;
